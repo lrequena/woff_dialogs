@@ -1,0 +1,335 @@
+﻿WorldMapName_01;Colina Nonarboleda
+WorldMapName_02;Floresta Esmeralda
+WorldMapName_03;Región de Cornelia
+WorldMapName_04;Cornelia
+WorldMapName_05;Caverna Nébula
+WorldMapName_06;Meseta de Vanguardia
+WorldMapName_07;Bosque Fatuo
+WorldMapName_08;Lago del bosque
+WorldMapName_09;Valle Témpano
+WorldMapName_10;Refugio de Sherlotta
+WorldMapName_11;Precipicio Témpano
+WorldMapName_12;Saronia
+WorldMapName_13;Muelle de Saronia
+WorldMapName_14;Inframar
+WorldMapName_15;Costa Irisada
+WorldMapName_16;Cañón Dragontino
+WorldMapName_17;Región de Babil
+WorldMapName_18;Nibelheim
+WorldMapName_19;Valle Séptimo
+WorldMapName_20;Pantano Viscoso
+WorldMapName_21;Desierto
+WorldMapName_22;Caravana
+WorldMapName_23;Garganta Espectral
+WorldMapName_24;Castillo de Fígaro
+WorldMapName_25;Prisión subterránea
+WorldMapName_26;Reactor Mako 0
+WorldMapName_27;Gran Puente
+WorldMapName_28;Nocturnia
+WorldMapName_29;Villa Papiro
+WorldMapName_30;Cementerio de trenes
+WorldMapName_31;Nocturnia (estación de tren)
+WorldMapName_32;Besaid
+WorldMapName_33;Puerto Besaid
+WorldMapName_34;Santuario Hundido
+WorldMapName_35;Ruinas de Colina Nonarboleda
+WorldMapName_36;Torre de Cristal
+WorldMapName_37;Jardín de Balamb
+WorldMapName_38;Coliseo
+WorldMapName_39;Gran Cadena
+WorldMapName_40;Confines de Grymoire
+WorldMapName_41;Castillo Exnueve
+WorldMapName_42;A'gartal
+WorldMapName_43;A'gartal
+WorldMapName_44;A'gartal
+WorldMapName_45;Barriada de Saronia
+MAP_NAME_000;Habitación de los gemelos
+MAP_NAME_001;Plaza 99
+MAP_NAME_002;Galería Norte
+MAP_NAME_003;Café Nonarboleda
+MAP_NAME_004;Parque Nexus
+MAP_NAME_005;Floresta Esmeralda
+MAP_NAME_006;Mirador al puente
+MAP_NAME_007;Región de Cornelia
+MAP_NAME_008;Cactiexprés: Vagón de kolosos
+MAP_NAME_009;Cornelia
+MAP_NAME_010;Castillo de Cornelia (sala de audiencias)
+MAP_NAME_011;Caverna Nébula (primera gruta)
+MAP_NAME_012;Caverna Nébula (segunda gruta)
+MAP_NAME_013;Caverna Nébula (tercera gruta)
+MAP_NAME_014;Caverna Nébula (cuarta gruta)
+MAP_NAME_015;Caverna Nébula (gruta oculta)
+MAP_NAME_016;Meseta de Vanguardia (primera línea de retaguardia)
+MAP_NAME_016_2;Meseta de Vanguardia (segunda línea de retaguardia)
+MAP_NAME_016_3;Meseta de Vanguardia (núcleo de la retaguardia)
+MAP_NAME_016_4;Meseta de Vanguardia (sendero oculto)
+MAP_NAME_017;Bosque Fatuo (primera fronda)
+MAP_NAME_017_2;Bosque Fatuo (segunda fronda)
+MAP_NAME_017_3;Bosque Fatuo (tercera fronda)
+MAP_NAME_017_4;Bosque Fatuo (cuarta fronda)
+MAP_NAME_017_5;Bosque Fatuo (quinta fronda)
+MAP_NAME_017_6;Bosque Fatuo (sexta fronda)
+MAP_NAME_017_7;Bosque Fatuo (séptima fronda)
+MAP_NAME_017_8;Bosque Fatuo (octava fronda)
+MAP_NAME_017_9;Bosque Fatuo (fronda oculta)
+MAP_NAME_018;Lago del bosque (laguna)
+MAP_NAME_018_2;Lago del bosque (sendero)
+MAP_NAME_019;Valle Témpano
+MAP_NAME_020;Refugio de Sherlotta
+MAP_NAME_021;Precipicio Témpano (primer tramo)
+MAP_NAME_021_2;Precipicio Témpano (segundo tramo)
+MAP_NAME_021_3;Precipicio Témpano (tercer tramo)
+MAP_NAME_021_4;Precipicio Témpano (cuarto tramo)
+MAP_NAME_021_5;Precipicio Témpano (tramo oculto)
+MAP_NAME_021_6;Precipicio Témpano (tramo ¿?)
+MAP_NAME_025;Saronia
+MAP_NAME_026;Saronia (sala regia)
+MAP_NAME_027;Barriada
+MAP_NAME_028;Muelle de Saronia (primer embarcadero)
+MAP_NAME_028_2;Muelle de Saronia (segundo embarcadero)
+MAP_NAME_028_3;Muelle de Saronia (tercer embarcadero)
+MAP_NAME_028_4;Muelle de Saronia (embarcadero oculto)
+MAP_NAME_029;Barco pirata (cubierta)
+MAP_NAME_030;Navío veloz (cubierta)
+MAP_NAME_031;Gran Corriente
+MAP_NAME_032;Cascada al Inframar
+MAP_NAME_033;Inframar (catarata)
+MAP_NAME_034;Región del Inframar
+MAP_NAME_035;Alta Inframar
+MAP_NAME_036;Costa Irisada
+MAP_NAME_037;Cañón Dragontino (primera garganta)
+MAP_NAME_037_2;Cañón Dragontino (segunda garganta)
+MAP_NAME_037_3;Cañón Dragontino (tercera garganta)
+MAP_NAME_037_4;Cañón Dragontino (cuarta garganta)
+MAP_NAME_037_5;Cañón Dragontino (quinta garganta)
+MAP_NAME_037_6;Cañón Dragontino (garganta oculta)
+MAP_NAME_038;Región de Babil
+MAP_NAME_039;Nibelheim
+MAP_NAME_040;Valle Séptimo (primera sima)
+MAP_NAME_040_2;Valle Séptimo (segunda sima)
+MAP_NAME_040_3;Valle Séptimo (tercera sima)
+MAP_NAME_040_4;Valle Séptimo (cuarta sima)
+MAP_NAME_040_5;Valle Séptimo (sima oculta)
+MAP_NAME_041;Pantano Viscoso (primera ciénaga)
+MAP_NAME_042;Pantano Viscoso (segunda ciénaga)
+MAP_NAME_042_2;Pantano Viscoso (tercera ciénaga)
+MAP_NAME_042_3;Pantano Viscoso (ciénaga oculta)
+MAP_NAME_043;Desierto
+MAP_NAME_044;Caravana
+MAP_NAME_045;Garganta Espectral (primer desfiladero)
+MAP_NAME_045_2;Garganta Espectral (segundo desfiladero)
+MAP_NAME_045_3;Garganta Espectral (tercer desfiladero)
+MAP_NAME_045_4;Garganta Espectral (cuarto desfiladero)
+MAP_NAME_045_5;Garganta Espectral (quinto desfiladero)
+MAP_NAME_045_6;Garganta Espectral (sexto desfiladero)
+MAP_NAME_045_7;Garganta Espectral (desfiladero oculto)
+MAP_NAME_046;Desierto de noche
+MAP_NAME_047;Castillo de Fígaro
+MAP_NAME_048;Prisión subterránea (bloque 1)
+MAP_NAME_049;Prisión subterránea (bloque 2)
+MAP_NAME_049_2;Prisión subterránea (bloque 3)
+MAP_NAME_049_3;Prisión subterránea (bloque 4)
+MAP_NAME_049_4;Prisión subterránea (bloque 5)
+MAP_NAME_049_5;Prisión subterránea (bloque 6)
+MAP_NAME_049_6;Prisión subterránea (bloque oculto)
+MAP_NAME_050;Reactor Mako 0 (sala de máquinas 1)
+MAP_NAME_051;Reactor Mako 0 (sala de máquinas 2)
+MAP_NAME_051_2;Reactor Mako 0 (sala de máquinas 3)
+MAP_NAME_051_3;Reactor Mako 0 (sala de máquinas 4)
+MAP_NAME_051_4;Reactor Mako 0 (sala de máquinas 5)
+MAP_NAME_051_5;Reactor Mako 0 (sala de máquinas oculta)
+MAP_NAME_052;Castillo móvil del desierto
+MAP_NAME_053;Gran Puente (primer nivel)
+MAP_NAME_054;Gran Puente (segundo nivel)
+MAP_NAME_055;Gran Puente (tercer nivel)
+MAP_NAME_055_2;Gran Puente (cuarto nivel)
+MAP_NAME_055_3;Gran Puente (quinto nivel)
+MAP_NAME_055_4;Gran Puente (nivel oculto)
+MAP_NAME_056;Nocturnia
+MAP_NAME_057;Villa Papiro
+MAP_NAME_058;3221225472
+MAP_NAME_059;3221225472
+MAP_NAME_060;Cementerio de trenes (primer desguace)
+MAP_NAME_060_2;Cementerio de trenes (segundo desguace)
+MAP_NAME_060_3;Cementerio de trenes (tercer desguace)
+MAP_NAME_060_4;Cementerio de trenes (cuarto desguace)
+MAP_NAME_060_5;Cementerio de trenes (quinto desguace)
+MAP_NAME_060_6;Cementerio de trenes (sexto desguace)
+MAP_NAME_060_7;Cementerio de trenes (desguace oculto)
+MAP_NAME_061;Nocturnia (estación de tren)
+MAP_NAME_062;Cactiexprés submarino
+MAP_NAME_063;Besaid
+MAP_NAME_064;Puerto Besaid
+MAP_NAME_065;Laboratorio de Shantotto
+MAP_NAME_066;Costa de Besaid
+MAP_NAME_067;Mar
+MAP_NAME_068;Santuario Hundido (primera sala)
+MAP_NAME_068_2;Santuario Hundido (segunda sala)
+MAP_NAME_068_3;Santuario Hundido (tercera sala)
+MAP_NAME_068_4;Santuario Hundido (cuarta sala)
+MAP_NAME_068_5;Santuario Hundido (quinta sala)
+MAP_NAME_068_6;Santuario Hundido (sexta sala)
+MAP_NAME_068_7;Santuario Hundido (séptima sala)
+MAP_NAME_068_8;Santuario Hundido (sala oculta)
+MAP_NAME_069;Ruinas de Colina Nonarboleda
+MAP_NAME_070;Torre de Cristal (entrada)
+MAP_NAME_071;Torre de Cristal (planta baja)
+MAP_NAME_071_2;Torre de Cristal (primera planta)
+MAP_NAME_071_3;Torre de Cristal (segunda planta)
+MAP_NAME_071_4;Torre de Cristal (tercera planta)
+MAP_NAME_071_5;Torre de Cristal (cuarta planta)
+MAP_NAME_071_6;Torre de Cristal (quinta planta)
+MAP_NAME_071_7;Torre de Cristal (sexta planta)
+MAP_NAME_071_8;Torre de Cristal (planta del Agua y del Fuego)
+MAP_NAME_071_9;Torre de Cristal (planta del Aire y de la Tierra)
+MAP_NAME_071_10;Torre de Cristal (sala oculta)
+MAP_NAME_072;Torre de Cristal (última sala)
+MAP_NAME_073;Torre de Cristal (ascensor)
+MAP_NAME_074;Torre de Cristal (última sala)
+MAP_NAME_075;Cielo
+MAP_NAME_076;Jardín de Balamb
+MAP_NAME_077;Cubierta del Jardín de Balamb
+MAP_NAME_078;Coliseo
+MAP_NAME_079;Barco volador
+MAP_NAME_080;Catedral
+MAP_NAME_081;Gran Cadena (primer tramo)
+MAP_NAME_081_2;Gran Cadena (segundo tramo)
+MAP_NAME_081_3;Gran Cadena (tercer tramo)
+MAP_NAME_081_4;Gran Cadena (cuarto tramo)
+MAP_NAME_081_5;Gran Cadena (quinto tramo)
+MAP_NAME_081_6;Gran Cadena (sexto tramo)
+MAP_NAME_081_7;Gran Cadena (séptimo tramo)
+MAP_NAME_081_8;Gran Cadena (octavo tramo)
+MAP_NAME_081_9;Gran Cadena (tramo oculto)
+MAP_NAME_082;Confines de Grymoire
+MAP_NAME_083;Castillo Exnueve (primera estancia)
+MAP_NAME_083_10;Castillo Exnueve (décima estancia)
+MAP_NAME_083_11;Castillo Exnueve (undécima estancia)
+MAP_NAME_083_12;Castillo Exnueve (duodécima estancia)
+MAP_NAME_083_13;Castillo Exnueve (decimotercera estancia)
+MAP_NAME_083_14;Castillo Exnueve (decimocuarta estancia)
+MAP_NAME_083_15;Castillo Exnueve (decimoquinta estancia)
+MAP_NAME_083_16;Castillo Exnueve (estancia oculta)
+MAP_NAME_083_2;Castillo Exnueve (segunda estancia)
+MAP_NAME_083_3;Castillo Exnueve (tercera estancia)
+MAP_NAME_083_4;Castillo Exnueve (cuarta estancia)
+MAP_NAME_083_5;Castillo Exnueve (quinta estancia)
+MAP_NAME_083_6;Castillo Exnueve (sexta estancia)
+MAP_NAME_083_7;Castillo Exnueve (séptima estancia)
+MAP_NAME_083_8;Castillo Exnueve (octava estancia)
+MAP_NAME_083_9;Castillo Exnueve (novena estancia)
+MAP_NAME_084;Combate final
+MAP_NAME_085;Fisura lúgubre
+MAP_NAME_086;A'gartal
+MAP_NAME_086_2;A'gartal
+MAP_NAME_086_3;A'gartal
+MAP_NAME_087;Habitación de la chica sin nombre
+MAP_NAME_088;Dehesas
+MAP_NAME_089;Espacio oscuro
+MAP_NAME_090;Debug
+MAP_NAME_091;Interior del barco volador
+MAP_NAME_092;Torre de cristal (azotea)
+MAP_NAME_093;Barco volador (cubierta)
+MAP_NAME_094;Recepción del coliseo
+MAP_NAME_095;Torre de cristal (sala del trono)
+MAP_NAME_096;Biblioteca de los papiros
+MAP_NAME_097;Isla del tesoro
+MAP_NAME_098;Torre de Cristal (portal verdadero)
+MAP_NAME_099;Torre de Cristal (portal Artema)
+MAP_NAME_100;Sur del Valle Témpano
+MAP_NAME_101;Norte del Valle Témpano
+MAP_NAME_102;¿?
+MAP_NAME_103;¿?
+MAP_NAME_104;¿?
+MAP_NAME_105;¿?
+MAP_NAME_000_E;DUMMY
+MAP_NAME_001_E;Colina Nonarboleda
+MAP_NAME_002_E;DUMMY
+MAP_NAME_003_E;DUMMY
+MAP_NAME_004_E;DUMMY
+MAP_NAME_005_E;Floresta Esmeralda
+MAP_NAME_006_E;Región de Cornelia (1.ª)
+MAP_NAME_007_E;Región de Cornelia (2.ª)
+MAP_NAME_008_E;Cactiexprés
+MAP_NAME_009_E;Cornelia
+MAP_NAME_010_E;Castillo de Cornelia
+MAP_NAME_011_E;Caverna Nébula
+MAP_NAME_012_E;Caverna Nébula
+MAP_NAME_013_E;Caverna Nébula
+MAP_NAME_014_E;Caverna Nébula
+MAP_NAME_015_E;Caverna Nébula
+MAP_NAME_016_E;Meseta de Vanguardia
+MAP_NAME_017_E;Bosque Fatuo
+MAP_NAME_018_E;DUMMY
+MAP_NAME_019_E;DUMMY
+MAP_NAME_020_E;Refugio de Sherlotta
+MAP_NAME_021_E;Precipicio Témpano
+MAP_NAME_022_E;Precipicio Témpano
+MAP_NAME_023_E;Precipicio Témpano
+MAP_NAME_024_E;Precipicio Témpano
+MAP_NAME_025_E;Saronia
+MAP_NAME_026_E;DUMMY
+MAP_NAME_027_E;DUMMY
+MAP_NAME_028_E;Muelle de Saronia
+MAP_NAME_029_E;DUMMY
+MAP_NAME_030_E;DUMMY
+MAP_NAME_031_E;DUMMY
+MAP_NAME_032_E;DUMMY
+MAP_NAME_033_E;Inframar (catarata)
+MAP_NAME_034_E;DUMMY
+MAP_NAME_035_E;DUMMY
+MAP_NAME_036_E;Costa Irisada
+MAP_NAME_037_E;Cañón Dragontino
+MAP_NAME_038_E;DUMMY
+MAP_NAME_039_E;Nibelheim
+MAP_NAME_040_E;Valle Séptimo
+MAP_NAME_041_E;Pantano Viscoso
+MAP_NAME_042_E;DUMMY
+MAP_NAME_043_E;DUMMY
+MAP_NAME_044_E;Caravana
+MAP_NAME_045_E;Garganta Espectral
+MAP_NAME_046_E;DUMMY
+MAP_NAME_047_E;Castillo del desierto
+MAP_NAME_048_E;DUMMY
+MAP_NAME_049_E;DUMMY
+MAP_NAME_050_E;DUMMY
+MAP_NAME_051_E;Reactor Mako 0
+MAP_NAME_052_E;DUMMY
+MAP_NAME_053_E;DUMMY
+MAP_NAME_054_E;DUMMY
+MAP_NAME_055_E;Gran Puente
+MAP_NAME_056_E;DUMMY
+MAP_NAME_057_E;Villa Papiro
+MAP_NAME_058_E;DUMMY
+MAP_NAME_059_E;DUMMY
+MAP_NAME_060_E;Cementerio de trenes
+MAP_NAME_061_E;DUMMY
+MAP_NAME_062_E;DUMMY
+MAP_NAME_063_E;DUMMY
+MAP_NAME_064_E;Puerto Besaid
+MAP_NAME_065_E;Laboratorio de Shantotto
+MAP_NAME_066_E;DUMMY
+MAP_NAME_067_E;DUMMY
+MAP_NAME_068_E;Santuario Hundido
+MAP_NAME_069_E;DUMMY
+MAP_NAME_070_E;DUMMY
+MAP_NAME_071_E;Torre de cristal
+MAP_NAME_072_E;DUMMY
+MAP_NAME_073_E;DUMMY
+MAP_NAME_074_E;Torre de cristal (portal)
+MAP_NAME_075_E;DUMMY
+MAP_NAME_076_E;Jardín de Balamb
+MAP_NAME_077_E;DUMMY
+MAP_NAME_078_E;Coliseo
+MAP_NAME_079_E;DUMMY
+MAP_NAME_080_E;DUMMY
+MAP_NAME_081_E;Gran Cadena
+MAP_NAME_082_E;DUMMY
+MAP_NAME_083_E;Castillo Exnueve
+MAP_NAME_084_E;DUMMY
+MAP_NAME_085_E;DUMMY
+MAP_NAME_086_E;DUMMY
+MAP_NAME_087_E;DUMMY
+MAP_NAME_088_E;DUMMY
+MAP_NAME_089_E;DUMMY
+MAP_NAME_090_E;DUMMY

@@ -1,0 +1,40 @@
+﻿npc_nanashi_0000_0000;Hola.
+npc_nanashi_0000_0001;¿Queréis algo?
+npc_nanashi_0000_0002;¿Qué queréis?
+npc_nanashi_0000_0003;¿Queréis té?
+npc_nanashi_0000_0004;Bienvenidos al lugar donde convergen fantasía y realidad.
+npc_nanashi_0000_0005;Estoy descansando.
+npc_nanashi_0000_0006;Bienvenidos a la brecha donde se unen los sueños y el tiempo.
+npc_nanashi_0000_0007;Buenos días.
+npc_nanashi_0000_0008;Hola.
+npc_nanashi_0000_0009;Buenas tardes.
+npc_nanashi_0000_0010;¿Qué queréis?
+npc_nanashi_0000_0011;¿Necesitáis algo?
+npc_nanashi_0000_0012;¿Con qué alma queréis conectar?
+npc_nanashi_0000_0013;¿A qué protector queréis despertar?
+npc_nanashi_0000_0014;¿Empezamos?
+npc_nanashi_0000_0015;¿Os importa si me echo una siestecita?
+npc_nanashi_0000_0016;¿Seguro?
+npc_nanashi_0000_0017;Necesitáis más.
+npc_nanashi_0000_0018;Todavía no.
+npc_nanashi_0000_0019;Está hecho.
+npc_nanashi_0000_0020;Empecemos.
+npc_nanashi_0000_0021;Sí.
+npc_nanashi_0000_0022;No.
+npc_nanashi_0000_0023;Adiós.
+npc_nanashi_0000_0024;Hasta pronto.
+npc_nanashi_0000_0025;Tomad.
+npc_nanashi_0000_0026;Habéis recuperado más recuerdos.
+npc_nanashi_0000_0027;Habéis descubierto una nueva alma.
+npc_nanashi_0000_0028;Ha nacido un nuevo protector.
+npc_nanashi_0000_0029;Completado.
+npc_nanashi_0000_0030;Se acabó.
+npc_nanashi_0000_0031;¿Estáis despiertos?
+npc_nanashi_QUEST;Viajes astrales
+npc_nanashi_SHOP;Canjear gemalmas
+npc_nanashi_CANCEL;Irse
+npc_nanashi_DEBUG1;Debug: 5 machine clear flag.
+npc_nanashi_DEBUG2;Debug: True Ending flag.
+npc_nanashi_DEBUG3;Debug: Raised cleared 5 machine flags.
+npc_nanashi_DEBUG4;Debug: Raised all flags for true ending.
+npc_nanashi_DEBUG5;Debug: Raise which flag?

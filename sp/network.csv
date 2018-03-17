@@ -1,0 +1,139 @@
+﻿network_acceptance_00;Configurar formaciones
+network_acceptance_01;Combate multijugador
+network_acceptance_02;Combate local
+network_acceptance_03;Intercambio
+network_acceptance_04;Menú de combates multijugador
+network_acceptance_05;Consultar reglas de combates multijugador
+network_formation_00;Introduce tu nombre.
+network_formation_01;Torre A1
+network_formation_02;Torre A2
+network_formation_03;Torre B1
+network_formation_04;Torre B2
+network_formation_05;Torre C1
+network_formation_06;Torre C2
+network_formation_07;Nombre del jugador
+network_formation_08;Cambiar formación
+network_formation_09;Cambiar torre
+network_formation_10;Jugador
+network_formation_11;Jugador 1
+network_nosenose_00;La torre ha cambiado. ¿Quieres acceder al menú Habilidades?
+network_ability_00;No puedes usar esta habilidad en combates multijugador.
+network_internet_menu_00;Crear una sala multijugador.
+network_internet_menu_01;Buscar una sala multijugador.
+network_internet_menu_02;Enfrentarse rápidamente a un adversario desconocido.
+network_internet_menu_03;Crear sala
+network_internet_menu_04;Buscar sala
+network_internet_menu_05;Combate rápido
+network_internet_menu_06;Espera mientras se encuentra un rival. Pulsa <STR ICON> para cancelar la búsqueda.
+network_buildroom_00;Personaliza la sala multijugador.
+network_buildroom_01;Introduce un número para tu sala.
+network_buildroom_02;Usa la configuración actual para crear una sala multijugador.
+network_buildroom_03;Configuración de combate
+network_buildroom_04;Victoria por KO
+network_buildroom_05;Victoria por puntos
+network_buildroom_06;Número de sala
+network_buildroom_07;Sí
+network_buildroom_08;No
+network_buildroom_09;3221225472
+network_searchroom_00;Elige a qué tipo de sala quieres unirte.
+network_searchroom_01;Usar los filtros actuales para buscar una sala multijugador.
+network_searchroom_02;Filtros de búsqueda
+network_searchroom_03;Todos
+network_searchroom_04;3221225472
+network_selectroom_00;Aquí se muestran las salas que cumplan con los requisitos que has introducido.
+network_selectroom_01;Buscar de nuevo
+network_selectroom_02;Perfil
+network_selectroom_03;La sala ya no está disponible.
+network_selectroom_04;Nombre
+network_selectroom_05;Usuario
+network_battleroom_00;Información sobre la sala multijugador
+network_battleroom_01;Victorias
+network_battleroom_02;Porcentaje de victorias
+network_battleroom_03;3221225472
+network_battleroom_04;3221225472
+network_battleroom_05;¡Listo!
+network_battleroom_06;El invitado ha abandonado la sala.
+network_battleroom_07;El anfitrión ha abandonado la sala.
+network_battleroom_08;¿Seguro que quieres eliminar esta sala?
+network_battleroom_09;¿Quieres abandonar esta sala?
+network_battleroom_10;Los datos de tu mirage no son válidos.[~]Prueba con otro diferente.
+network_battleroom_11;Parece que los datos de mirages de tu rival no son válidos.
+network_exchange_menu_00;Crea una sala específica para realizar intercambios.
+network_exchange_menu_01;Busca una sala específica para realizar intercambios.
+network_exchange_00;Información sobre la sala de intercambio
+network_exchange_01;Seleccionar mirage
+network_exchange_02;¡Listo!
+network_exchange_03;El mirage que intercambies no puede ser de nivel superior al del gemelo de la otra persona.
+network_exchange_04;Intercambio finalizado
+network_exchange_05;El mirage seleccionado forma parte de un equipo multijugador.[~]¿Quieres aun así intercambiarlo?
+network_exchange_06;Los datos de tu mirage no son válidos.[~]Prueba con otro diferente.
+network_exchange_07;Preparando...
+network_exchange_08;El mirage seleccionado forma parte de tu grupo principal.[~]¿Quieres aun así intercambiarlo?
+network_exchange_09;El mirage seleccionado pertenece al grupo principal y a formaciones multijugador.[~]¿Quieres aun así intercambiarlo?
+network_exchange_gem_00;Selecciona el mirage que quieres intercambiar.
+network_bonus_00;Has ganado un total de <STR PARAM> combates multijugador. Recompensa: <STR ITEM>
+network_common_00;Conectándose...
+network_error_00;Se ha perdido la conexión de red.
+network_error_01;3221225472
+network_error_02;3221225472
+network_error_03;Se ha perdido la conexión.[~]Regresando a la pantalla del título.
+network_error_04;Se ha interrumpido la conexión.[~]Comienza otra vez desde el principio.
+network_error_05;Se ha producido un error.[~]Reinicia el equipo e inténtalo de nuevo.
+network_error_06;3221225472
+network_error_07;3221225472
+network_error_08;3221225472
+network_error_09;3221225472
+network_error_10;Tu versión del juego es diferente a la del otro jugador[~]y no puedes unirte a la sala.
+network_error_11;No has podido unirte a la sala.
+network_error_12;Se ha perdido la conexión de red.
+network_quick_00;Personalizar la configuración de Combate rápido.
+network_quick_01;Usar la configuración actual para jugar a Combate rápido.
+network_load_00;Conectándose...
+network_battle_00;Torre rival 1
+network_battle_01;Torre rival 2
+network_menu_00;¿Comenzar modo multijugador?
+Wifitrade_menu_00;Tamaño
+Wifitrade_menu_01;Mirage
+Wifitrade_menu_02;¿Qué quieres hacer?
+Wifitrade_menu_03;Cualquiera
+Wifitrade_menu_04;S
+Wifitrade_menu_05;M
+Wifitrade_menu_06;L
+Wifitrade_menu_07;EX
+Wifitrade_menu_08;¡Toma!
+Wifitrade_menu_09;Lo quiero
+Wifitrade_selectroom_00;Petición
+Wifitrade_exchange_00;Selección de mensaje
+Wifitrade_exchange_01;Hola, ¿qué tal?
+Wifitrade_exchange_02;Quiero intercambiar
+Wifitrade_exchange_03;Muy bien
+Wifitrade_exchange_04;Lo siento
+Wifitrade_exchange_05;Quiero otro
+Wifitrade_exchange_06;Gracias
+Wifitrade_exchange_07;Hasta luego
+Wifitrade_exchange_08;Parece fuerte
+Wifitrade_exchange_09;Qué monada
+Wifitrade_exchange_10;Espera, por favor
+Wifitrade_exchange_11;¡¿En serio?!
+Wifitrade_exchange_12;¡Hala!
+Wifitrade_exchange_13;Entendido
+Wifitrade_exchange_14;Je, je
+Wifitrade_exchange_15;¡Biiip!
+Wifitrade_exchange_16;¡Choco-boco-lina!
+Wifitrade_exchange_17;El destino nos ha elegido.
+Wifitrade_exchange_18;(Selección de mensaje...)
+Wifitrade_exchange_19;(Comprobando...)
+Wifitrade_exchange_20;(Selección de mirage...)
+Wifitrade_exchange_21;¿Quieres realizar el intercambio?
+Wifitrade_exchange_22;No se ha podido realizar el intercambio.
+Wifitrade_exchange_23;Esperando a la selección de la otra persona.[~]Pulsa <STR ICON> si quieres cancelar el intercambio.
+UPDATA_101_PS4;STEAM NOT USED
+UPDATA_101_VITA;STEAM NOT USED
+UPDATA_102_PS4;STEAM NOT USED
+UPDATA_102_VITA;STEAM NOT USED
+UPDATA_103_PS4;STEAM NOT USED
+UPDATA_103_VITA;STEAM NOT USED
+UPDATA_104_PS4;NOT USED
+UPDATA_104_VITA;NOT USED
+KOUKAN_LAST_00;No puedes intercambiar este mirage porque[~]no puedes dejar vacía una torre.
+KOUKAN_LAST_01;No puedes intercambiar el último mirage[~]de una torre.

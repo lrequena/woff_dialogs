@@ -1,0 +1,64 @@
+﻿CAPTURE_HINT_001;Use fire attacks
+CAPTURE_HINT_002;Use ice attacks
+CAPTURE_HINT_003;Use wind attacks
+CAPTURE_HINT_004;Use earth attacks
+CAPTURE_HINT_005;Use thunder attacks
+CAPTURE_HINT_006;Use water attacks
+CAPTURE_HINT_007;Use light attacks
+CAPTURE_HINT_008;Use dark attacks
+CAPTURE_HINT_009;Use physical attacks
+CAPTURE_HINT_010;Use magical attacks
+CAPTURE_HINT_011;ONCE PER BATTLE: Reduce the Mirage's HP
+CAPTURE_HINT_012;Inflict status ailments
+CAPTURE_HINT_013;Inflict poison
+CAPTURE_HINT_014;Inflict sleep
+CAPTURE_HINT_015;Inflict confusion
+CAPTURE_HINT_016;Inflict blindness
+CAPTURE_HINT_017;Inflict oblivion
+CAPTURE_HINT_018;Inflict berserk
+CAPTURE_HINT_019;Inflict slow
+CAPTURE_HINT_020;Restore the Mirage's HP
+CAPTURE_HINT_021;Give the Mirage gysahl greens
+CAPTURE_HINT_022;Give the Mirage an elixir
+CAPTURE_HINT_023;Give the Mirage a healing item
+CAPTURE_HINT_024;Land a critical hit
+CAPTURE_HINT_025;Invoke a Champion
+CAPTURE_HINT_026;Evade the Mirage's attacks
+CAPTURE_HINT_027;Evade a specific attack
+CAPTURE_HINT_028;Reflect magic back
+CAPTURE_HINT_029;Reflect a specific magic back
+CAPTURE_HINT_030;Land a counterattack
+CAPTURE_HINT_031;Win this battle
+CAPTURE_HINT_032;Neutralize a status ailment attack
+CAPTURE_HINT_033;ONCE PER BATTLE: Leave only this Mirage standing
+CAPTURE_HINT_034;? ? ?
+CAPTURE_HINT_035;Use magical enhancements on the Mirage
+CAPTURE_HINT_036;Put a certain Mirage in your stacks
+CAPTURE_HINT_037;Use fire, ice, and thunder attacks
+CAPTURE_HINT_038;Miss with an attack
+CAPTURE_HINT_039;Deal a lot of damage at once
+CAPTURE_HINT_040;Restore a lot of the Mirage's HP at once
+CAPTURE_HINT_041;Give the Mirage a potion
+CAPTURE_HINT_042;Inflict doom
+CAPTURE_HINT_043;Bestow protect on the Mirage
+CAPTURE_HINT_044;Bestow shell on the Mirage
+CAPTURE_HINT_045;Bestow reflect on the Mirage
+CAPTURE_HINT_046;Bestow regen on the Mirage
+CAPTURE_HINT_047;Bestow haste on the Mirage
+CAPTURE_HINT_048;Bestow bravery on the Mirage
+CAPTURE_HINT_049;Bestow faith on the Mirage
+CAPTURE_HINT_050;Bestow strength↑ on the Mirage
+CAPTURE_HINT_051;Inflict strength↓
+CAPTURE_HINT_052;Bestow defense↑ on the Mirage
+CAPTURE_HINT_053;Inflict defense↓
+CAPTURE_HINT_054;Bestow magic↑ on the Mirage
+CAPTURE_HINT_055;Inflict magic↓
+CAPTURE_HINT_056;Bestow magic defense↑ on the Mirage
+CAPTURE_HINT_057;Inflict magic defense↓
+CAPTURE_HINT_058;Bestow accuracy↑ on the Mirage
+CAPTURE_HINT_059;Inflict accuracy↓
+CAPTURE_HINT_060;Bestow evasion↑ on the Mirage
+CAPTURE_HINT_061;Inflict evasion↓
+CAPTURE_HINT_062;Face the Mirage with only one party member
+CAPTURE_HINT_063;Unimprismable.
+CAPTURE_HINT_064_VIVI;[#ffa7eafc]ONCE PER BATTLE: Reduce the Mirage's HP[/#] to create a prismtunity.

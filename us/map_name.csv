@@ -1,0 +1,335 @@
+﻿WorldMapName_01;Nine Wood Hills
+WorldMapName_02;Wellspring Woods
+WorldMapName_03;Cornelia Region
+WorldMapName_04;Cornelia
+WorldMapName_05;The Nether Nebula
+WorldMapName_06;The Watchplains
+WorldMapName_07;Pyreglow Forest
+WorldMapName_08;Forest Lake
+WorldMapName_09;Ice Region
+WorldMapName_10;Sherlotta’s Solace
+WorldMapName_11;Icicle Ridge
+WorldMapName_12;Saronia Harbor
+WorldMapName_13;Saronia Docks
+WorldMapName_14;The Low Seas
+WorldMapName_15;The Rainbow Shore
+WorldMapName_16;The Dragon Scars
+WorldMapName_17;Babil Region
+WorldMapName_18;Nibelheim
+WorldMapName_19;Valley Seven
+WorldMapName_20;The Windswept Mire
+WorldMapName_21;Desert Region
+WorldMapName_22;Caravan
+WorldMapName_23;The Phantom Sands
+WorldMapName_24;Figaro Castle
+WorldMapName_25;Underground Prison
+WorldMapName_26;Mako Reactor 0
+WorldMapName_27;Big Bridge
+WorldMapName_28;Eclipsed Region
+WorldMapName_29;Tometown of the Ancients
+WorldMapName_30;The Train Graveyard
+WorldMapName_31;Eclipsed Region - Train Station
+WorldMapName_32;Besaid Region
+WorldMapName_33;Port Besaid
+WorldMapName_34;The Sunken Temple
+WorldMapName_35;Nonary Region
+WorldMapName_36;The Crystal Tower
+WorldMapName_37;Balamb Garden
+WorldMapName_38;The Coliseum
+WorldMapName_39;The Chainroad
+WorldMapName_40;The Ends of Grymoire
+WorldMapName_41;Castle Exnine
+WorldMapName_42;Agarthir
+WorldMapName_43;Agarthir
+WorldMapName_44;Agarthir
+WorldMapName_45;Outskirts of Saronia
+MAP_NAME_000;The Twins’ Room
+MAP_NAME_001;Plaza 99
+MAP_NAME_002;North Promenade
+MAP_NAME_003;Nine Bean Coffee
+MAP_NAME_004;Sylver Park
+MAP_NAME_005;Wellspring Woods
+MAP_NAME_006;Bridge Overlook
+MAP_NAME_007;Cornelia Region
+MAP_NAME_008;Cactuar Express - Jiant Car
+MAP_NAME_009;Cornelia
+MAP_NAME_010;Castle Cornelia - Audience Chamber
+MAP_NAME_011;The Nether Nebula - Cavern 1
+MAP_NAME_012;The Nether Nebula - Cavern 2
+MAP_NAME_013;The Nether Nebula - Cavern 3
+MAP_NAME_014;The Nether Nebula - Cavern 4
+MAP_NAME_015;The Nether Nebula - Secret Cavern
+MAP_NAME_016;The Watchplains - Backroad 1
+MAP_NAME_016_2;The Watchplains - Backroad 2
+MAP_NAME_016_3;The Watchplains - Backroad 3
+MAP_NAME_016_4;The Watchplains - Secret Backroad
+MAP_NAME_017;Pyreglow Forest - Branch 1
+MAP_NAME_017_2;Pyreglow Forest - Branch 2
+MAP_NAME_017_3;Pyreglow Forest - Branch 3
+MAP_NAME_017_4;Pyreglow Forest - Branch 4
+MAP_NAME_017_5;Pyreglow Forest - Branch 5
+MAP_NAME_017_6;Pyreglow Forest - Branch 6
+MAP_NAME_017_7;Pyreglow Forest - Branch 7
+MAP_NAME_017_8;Pyreglow Forest - Branch 8
+MAP_NAME_017_9;Pyreglow Forest - Secret Branch
+MAP_NAME_018;Forest Lake - Bank 1
+MAP_NAME_018_2;Forest Lake - Bank 2
+MAP_NAME_019;Ice Region
+MAP_NAME_020;Sherlotta’s Solace
+MAP_NAME_021;Icicle Ridge - Slip 1
+MAP_NAME_021_2;Icicle Ridge - Slip 2
+MAP_NAME_021_3;Icicle Ridge - Slip 3
+MAP_NAME_021_4;Icicle Ridge - Slip 4
+MAP_NAME_021_5;Icicle Ridge - Secret Slip
+MAP_NAME_021_6;Icicle Ridge - Slip ? ? ?
+MAP_NAME_025;Saronia Harbor
+MAP_NAME_026;Saronia - Thane’s Solar
+MAP_NAME_027;Shanty Town
+MAP_NAME_028;Saronia Docks - Station 1
+MAP_NAME_028_2;Saronia Docks - Station 2
+MAP_NAME_028_3;Saronia Docks - Station 3
+MAP_NAME_028_4;Saronia Docks - Secret Station
+MAP_NAME_029;Pirate Ship - Deck
+MAP_NAME_030;Fastcraft Pier
+MAP_NAME_031;River to the Seas
+MAP_NAME_032;Brinefall
+MAP_NAME_033;The Low Seas - Landfall
+MAP_NAME_034;The Low Seas Region
+MAP_NAME_035;The Low Seas
+MAP_NAME_036;The Rainbow Shore
+MAP_NAME_037;The Dragon Scars - Scar 1
+MAP_NAME_037_2;The Dragon Scars - Scar 2
+MAP_NAME_037_3;The Dragon Scars - Scar 3
+MAP_NAME_037_4;The Dragon Scars - Scar 4
+MAP_NAME_037_5;The Dragon Scars - Scar 5
+MAP_NAME_037_6;The Dragon Scars - Secret Scar
+MAP_NAME_038;Babil Region
+MAP_NAME_039;Nibelheim
+MAP_NAME_040;Valley Seven - Cauldron 1
+MAP_NAME_040_2;Valley Seven - Cauldron 2
+MAP_NAME_040_3;Valley Seven - Cauldron 3
+MAP_NAME_040_4;Valley Seven - Cauldron 4
+MAP_NAME_040_5;Valley Seven - Secret Cauldron
+MAP_NAME_041;The Windswept Mire - Fen 1
+MAP_NAME_042;The Windswept Mire - Fen 2
+MAP_NAME_042_2;The Windswept Mire - Fen 3
+MAP_NAME_042_3;The Windswept Mire - Secret Fen
+MAP_NAME_043;Desert Region
+MAP_NAME_044;Caravan
+MAP_NAME_045;The Phantom Sands - Toil 1
+MAP_NAME_045_2;The Phantom Sands - Toil 2
+MAP_NAME_045_3;The Phantom Sands - Toil 3
+MAP_NAME_045_4;The Phantom Sands - Toil 4
+MAP_NAME_045_5;The Phantom Sands - Toil 5
+MAP_NAME_045_6;The Phantom Sands - Toil 6
+MAP_NAME_045_7;The Phantom Sands - Secret Toil
+MAP_NAME_046;Desert Nightscape
+MAP_NAME_047;Figaro Castle
+MAP_NAME_048;Underground Prison - Ophion 1
+MAP_NAME_049;Underground Prison - Ophion 2
+MAP_NAME_049_2;Underground Prison - Ophion 3
+MAP_NAME_049_3;Underground Prison - Ophion 4
+MAP_NAME_049_4;Underground Prison - Ophion 5
+MAP_NAME_049_5;Underground Prison - Ophion 6
+MAP_NAME_049_6;Underground Prison - Secret Ophion
+MAP_NAME_050;Mako Reactor 0 - Sector 1
+MAP_NAME_051;Mako Reactor 0 - Sector 2
+MAP_NAME_051_2;Mako Reactor 0 - Sector 3
+MAP_NAME_051_3;Mako Reactor 0 - Sector 4
+MAP_NAME_051_4;Mako Reactor 0 - Sector 5
+MAP_NAME_051_5;Mako Reactor 0 - Secret Sector
+MAP_NAME_052;Mobile Desert Castle
+MAP_NAME_053;Big Bridge - Segment 1
+MAP_NAME_054;Big Bridge - Segment 2
+MAP_NAME_055;Big Bridge - Segment 3
+MAP_NAME_055_2;Big Bridge - Segment 4
+MAP_NAME_055_3;Big Bridge - Segment 5
+MAP_NAME_055_4;Big Bridge - Secret Segment
+MAP_NAME_056;Eclipsed Region
+MAP_NAME_057;Tometown of the Ancients
+MAP_NAME_058;DELETED
+MAP_NAME_059;DELETED
+MAP_NAME_060;The Train Graveyard - Necropolis 1
+MAP_NAME_060_2;The Train Graveyard - Necropolis 2
+MAP_NAME_060_3;The Train Graveyard - Necropolis 3
+MAP_NAME_060_4;The Train Graveyard - Necropolis 4
+MAP_NAME_060_5;The Train Graveyard - Necropolis 5
+MAP_NAME_060_6;The Train Graveyard - Necropolis 6
+MAP_NAME_060_7;The Train Graveyard - Secret Necropolis
+MAP_NAME_061;Eclipsed Region - Train Station
+MAP_NAME_062;Submerged Cactuar Express
+MAP_NAME_063;Besaid Region
+MAP_NAME_064;Port Besaid
+MAP_NAME_065;Besaid Laboratory
+MAP_NAME_066;Shore
+MAP_NAME_067;The Sea
+MAP_NAME_068;The Sunken Temple - Quacheon 1
+MAP_NAME_068_2;The Sunken Temple - Quacheon 2
+MAP_NAME_068_3;The Sunken Temple - Quacheon 3
+MAP_NAME_068_4;The Sunken Temple - Quacheon 4
+MAP_NAME_068_5;The Sunken Temple - Quacheon 5
+MAP_NAME_068_6;The Sunken Temple - Quacheon 6
+MAP_NAME_068_7;The Sunken Temple - Quacheon 7
+MAP_NAME_068_8;The Sunken Temple - Secret Quacheon
+MAP_NAME_069;Nonary Region
+MAP_NAME_070;The Crystal Tower - Entrance
+MAP_NAME_071;The Crystal Tower - First Floor
+MAP_NAME_071_2;The Crystal Tower - Second Floor
+MAP_NAME_071_3;The Crystal Tower - Third Floor
+MAP_NAME_071_4;The Crystal Tower - Fourth Floor
+MAP_NAME_071_5;The Crystal Tower - Fifth Floor
+MAP_NAME_071_6;The Crystal Tower - Sixth Floor
+MAP_NAME_071_7;The Crystal Tower - Seventh Floor
+MAP_NAME_071_8;The Crystal Tower - Chamber of Fire and Water
+MAP_NAME_071_9;The Crystal Tower - Chamber of Wind and Earth
+MAP_NAME_071_10;The Crystal Tower - Secret Respite
+MAP_NAME_072;The Crystal Tower - Final Chamber
+MAP_NAME_073;The Crystal Tower - Elevator
+MAP_NAME_074;The Crystal Tower - Final Chamber
+MAP_NAME_075;The Sky
+MAP_NAME_076;Balamb Garden
+MAP_NAME_077;Balamb Garden Deck
+MAP_NAME_078;The Coliseum
+MAP_NAME_079;Airship
+MAP_NAME_080;Cathedral
+MAP_NAME_081;The Chainroad - Ascent 1
+MAP_NAME_081_2;The Chainroad - Ascent 2
+MAP_NAME_081_3;The Chainroad - Ascent 3
+MAP_NAME_081_4;The Chainroad - Ascent 4
+MAP_NAME_081_5;The Chainroad - Ascent 5
+MAP_NAME_081_6;The Chainroad - Ascent 6
+MAP_NAME_081_7;The Chainroad - Ascent 7
+MAP_NAME_081_8;The Chainroad - Ascent 8
+MAP_NAME_081_9;The Chainroad - Secret Ascent
+MAP_NAME_082;The Ends of Grymoire
+MAP_NAME_083;Castle Exnine - Ordeal 1
+MAP_NAME_083_10;Castle Exnine - Ordeal 10
+MAP_NAME_083_11;Castle Exnine - Ordeal 11
+MAP_NAME_083_12;Castle Exnine - Ordeal 12
+MAP_NAME_083_13;Castle Exnine - Ordeal 13
+MAP_NAME_083_14;Castle Exnine - Ordeal 14
+MAP_NAME_083_15;Castle Exnine - Ordeal 15
+MAP_NAME_083_16;Castle Exnine - Secret Ordeal
+MAP_NAME_083_2;Castle Exnine - Ordeal 2
+MAP_NAME_083_3;Castle Exnine - Ordeal 3
+MAP_NAME_083_4;Castle Exnine - Ordeal 4
+MAP_NAME_083_5;Castle Exnine - Ordeal 5
+MAP_NAME_083_6;Castle Exnine - Ordeal 6
+MAP_NAME_083_7;Castle Exnine - Ordeal 7
+MAP_NAME_083_8;Castle Exnine - Ordeal 8
+MAP_NAME_083_9;Castle Exnine - Ordeal 9
+MAP_NAME_084;The Final Battle
+MAP_NAME_085;Murkrift
+MAP_NAME_086;Agarthir
+MAP_NAME_086_2;Agarthir
+MAP_NAME_086_3;Agarthir
+MAP_NAME_087;The Girl’s Tearoom
+MAP_NAME_088;Grasslands
+MAP_NAME_089;Dark Place
+MAP_NAME_090;DEBUG
+MAP_NAME_091;Airship Interior
+MAP_NAME_092;The Crystal Tower - Roof
+MAP_NAME_093;Airship Exterior
+MAP_NAME_094;Coliseum - Administration Desk
+MAP_NAME_095;The Crystal Tower - Throne
+MAP_NAME_096;Library of the Ancients
+MAP_NAME_097;Treasure Island
+MAP_NAME_098;Crystal Tower - The True Gate
+MAP_NAME_099;Crystal Tower - The Gate
+MAP_NAME_100;Southern Ice Region
+MAP_NAME_101;Northern Ice Region
+MAP_NAME_102;? ? ?
+MAP_NAME_103;? ? ?
+MAP_NAME_104;? ? ?
+MAP_NAME_105;? ? ?
+MAP_NAME_000_E;DUMMY
+MAP_NAME_001_E;Nine Wood Hills
+MAP_NAME_002_E;DUMMY
+MAP_NAME_003_E;DUMMY
+MAP_NAME_004_E;DUMMY
+MAP_NAME_005_E;Wellspring Woods
+MAP_NAME_006_E;Cornelia Region 1
+MAP_NAME_007_E;Cornelia Region 2
+MAP_NAME_008_E;The Cactuar Express
+MAP_NAME_009_E;Cornelia
+MAP_NAME_010_E;Castle Cornelia
+MAP_NAME_011_E;The Nether Nebula
+MAP_NAME_012_E;The Nether Nebula
+MAP_NAME_013_E;The Nether Nebula
+MAP_NAME_014_E;The Nether Nebula
+MAP_NAME_015_E;The Nether Nebula
+MAP_NAME_016_E;The Watchplains
+MAP_NAME_017_E;Pyreglow Forest
+MAP_NAME_018_E;DUMMY
+MAP_NAME_019_E;DUMMY
+MAP_NAME_020_E;Sherlotta’s Solace
+MAP_NAME_021_E;Icicle Ridge
+MAP_NAME_022_E;Icicle Ridge
+MAP_NAME_023_E;Icicle Ridge
+MAP_NAME_024_E;Icicle Ridge
+MAP_NAME_025_E;Saronia Harbor
+MAP_NAME_026_E;DUMMY
+MAP_NAME_027_E;DUMMY
+MAP_NAME_028_E;Saronia Docks
+MAP_NAME_029_E;DUMMY
+MAP_NAME_030_E;DUMMY
+MAP_NAME_031_E;DUMMY
+MAP_NAME_032_E;DUMMY
+MAP_NAME_033_E;The Low Seas - Landfall
+MAP_NAME_034_E;DUMMY
+MAP_NAME_035_E;DUMMY
+MAP_NAME_036_E;The Rainbow Shore
+MAP_NAME_037_E;The Dragon Scars
+MAP_NAME_038_E;DUMMY
+MAP_NAME_039_E;Nibelheim
+MAP_NAME_040_E;Valley Seven
+MAP_NAME_041_E;The Windswept Mire
+MAP_NAME_042_E;DUMMY
+MAP_NAME_043_E;DUMMY
+MAP_NAME_044_E;Caravan
+MAP_NAME_045_E;The Phantom Sands
+MAP_NAME_046_E;DUMMY
+MAP_NAME_047_E;Desert Castle
+MAP_NAME_048_E;DUMMY
+MAP_NAME_049_E;DUMMY
+MAP_NAME_050_E;DUMMY
+MAP_NAME_051_E;Mako Reactor 0
+MAP_NAME_052_E;DUMMY
+MAP_NAME_053_E;DUMMY
+MAP_NAME_054_E;DUMMY
+MAP_NAME_055_E;Big Bridge
+MAP_NAME_056_E;DUMMY
+MAP_NAME_057_E;Tometown of the Ancients
+MAP_NAME_058_E;DUMMY
+MAP_NAME_059_E;DUMMY
+MAP_NAME_060_E;The Train Graveyard
+MAP_NAME_061_E;DUMMY
+MAP_NAME_062_E;DUMMY
+MAP_NAME_063_E;DUMMY
+MAP_NAME_064_E;Port Besaid
+MAP_NAME_065_E;Besaid Laboratory
+MAP_NAME_066_E;DUMMY
+MAP_NAME_067_E;DUMMY
+MAP_NAME_068_E;The Sunken Temple
+MAP_NAME_069_E;DUMMY
+MAP_NAME_070_E;DUMMY
+MAP_NAME_071_E;The Crystal Tower
+MAP_NAME_072_E;DUMMY
+MAP_NAME_073_E;DUMMY
+MAP_NAME_074_E;The Crystal Tower - Gate
+MAP_NAME_075_E;DUMMY
+MAP_NAME_076_E;Balamb Garden
+MAP_NAME_077_E;DUMMY
+MAP_NAME_078_E;The Coliseum
+MAP_NAME_079_E;DUMMY
+MAP_NAME_080_E;DUMMY
+MAP_NAME_081_E;The Chainroad
+MAP_NAME_082_E;DUMMY
+MAP_NAME_083_E;Castle Exnine
+MAP_NAME_084_E;DUMMY
+MAP_NAME_085_E;DUMMY
+MAP_NAME_086_E;DUMMY
+MAP_NAME_087_E;DUMMY
+MAP_NAME_088_E;DUMMY
+MAP_NAME_089_E;DUMMY
+MAP_NAME_090_E;DUMMY

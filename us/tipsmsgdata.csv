@@ -1,0 +1,312 @@
+﻿TIPS_ATB_TITLE;Active Time Battle (ATB)
+TIPS_COMAND_TITLE;Assigning Button Shortcuts to Abilities
+TIPS_BATTLEMODE_TITLE;Battle Modes
+TIPS_COMANDMANU_TITLE;The Classic Battle Menu
+TIPS_AP_TITLE;Action Points (AP)
+TIPS_ENEMYINFO_TITLE;Mirage Data and the Libra Ability
+TIPS_TIPS_TITLE;Tapping Into the Tip Jar
+TIPS_PRIMERO_TITLE;Lilikin and Jiants
+TIPS_CHANGE_TITLE;Changing Leaders
+TIPS_HOKAKU_TITLE;Imprisming Mirages
+TIPS_GARDENJEM_TITLE;All About Prismariums
+TIPS_HOKAKUCHANCE_TITLE;Creating a Prismtunity
+TIPS_NOSENOSE_TITLE;Should I Stack?
+TIPS_BARABARA_TITLE;Should I Unstack?
+TIPS_PARTY1_TITLE;Setting Up Your Stacks
+TIPS_PARTY2_TITLE;Get Wise About Mirage Sizes
+TIPS_BORD_TITLE;Using Mirage Boards to Power Up
+TIPS_HENSHINKA_TITLE;Transfiguration
+TIPS_HENSHINKA_TITLE_02;Unique Abilities
+TIPS_DARKCREVASS_TITLE;Murkrifts: Scary, but True
+TIPS_GAMEOVER_TITLE;When the Party Has Fallen
+TIPS_SHOP_TITLE;The Chocolatte Mart
+TIPS_NOTGET_TITLE;Unimprismable Mirages
+TIPS_DOSSHIRI_TITLE;Those Puzzling Puzzle Switches
+TIPS_TERRITORY_TITLE;Beware the Thresholds
+TIPS_GEMCASE_TITLE;Storing Mirages in the Prism Case
+TIPS_SABER_TITLE;Mediums and Champions
+TIPS_CALLINGBADGE_TITLE;Champion Medals
+TIPS_SABERENAGY_TITLE;The Champion Gauge
+TIPS_MIRASTONE_TITLE;Mirajewels Add to Your Arsenal
+TIPS_BOOK_TITLE;Ability Seeds
+TIPS_MEGAMIRAGE_TITLE;Mega Mirages
+TIPS_MASTER_TITLE;Shoot for the Stars!
+TIPS_TOKOTOKO_TITLE;Support Abilities: Stroll
+TIPS_NORINORI_TITLE;Support Abilities: Joyride
+TIPS_FIRE_TITLE;Support Abilities: Sizzle
+TIPS_FREEZE_TITLE;Support Abilities: Chill
+TIPS_ELECTRIC_TITLE;Support Abilities: Zap
+TIPS_BREAK_TITLE;Support Abilities: Smash
+TIPS_FRYING_TITLE;Support Abilities: Flutter
+TIPS_TEREPOSTONE_TITLE;The Teleport Stone
+TIPS_SHERAPHONE_TITLE;Seraphones
+TIPS_GATE_TITLE;The Gates
+TIPS_SAVE_TITLE;Save Crystals
+TIPS_QUEST_TITLE;The Adventure Log
+TIPS_AVIRITY_TITLE;Customize Your Shortcuts
+TIPS_MAP_TITLE;Using the Map
+TIPS_WORLDMAP_TITLE;The Airship
+TIPS_AUTO_TITLE;Speeding Up Battles
+TIPS_FASTFORWARD_TITLE;Speeding Up Conversation
+TIPS_ALMAGEM_TITLE;Arma Gems
+TIPS_ALTOBOX_TITLE;Eldboxes
+TIPS_ARENA_TITLE;The Coliseum
+TIPS_ARENA_TITLE_02;Coliseum Rules
+TIPS_MINIGAME_TITLE;Minigames
+TIPS_NETWORK_TITLE;Multiplayer
+TIPS_NETWORK_TITLE_02;Multiplayer Rules
+TIPS_NETWORK_TITLE_03;Multiplayer Rules (Cont.)
+TIPS_NETWORK_TITLE_04;Multiplayer Game Modes
+TIPS_NETWORK_TITLE_05;Multiplayer Game Modes (Cont.)
+TIPS_NETWORK_TITLE_06;Battlefronts
+TIPS_NETWORK_TITLE_07;Autosaving and Multiplayer
+TIPS_NETWORK_TITLE_08;Trading Mirages
+TIPS_RENAMECARD_TITLE;The Rename Prism
+TIPS_WINGLOAD_TITLE;Using Windways
+TIPS_SPSKILL_TITLE;Combined Abilities
+TIPS_HIDEOUT_TITLE;Secret Areas
+TIPS_RESERVE_TITLE_04;NOT USED
+TIPS_RESERVE_TITLE_05;NOT USED
+TIPS_RESERVE_TITLE_06;NOT USED
+TIPS_RESERVE_TITLE_07;NOT USED
+TIPS_RESERVE_TITLE_08;Equipping Mirajewels
+TIPS_RESERVE_TITLE_09;NOT USED
+TIPS_RESERVE_TITLE_10;Sharqual Attack!
+TIPS_RESERVE_TITLE_11;Searchers
+TIPS_RESERVE_TITLE_12;Jump Pads
+TIPS_RESERVE_TITLE_13;EXP (Experience)
+TIPS_RESERVE_TITLE_14;Now That You've Beaten the Game
+TIPS_RESERVE_TITLE_15;Hauyn
+TIPS_RESERVE_TITLE_16;Intervention Quests
+TIPS_RESERVE_TITLE_17;Targeting with the Basic Menu
+TIPS_RESERVE_TITLE_18;Summoning with the Basic Menu
+TIPS_RESERVE_TITLE_19;Finish Those Intervention Quests!
+TIPS_RESERVE_TITLE_20;Element and Status Ailment Symbols
+TIPS_RESERVE_TITLE_21;Now Available: Secret Memory (Omega God)
+TIPS_RESERVE_TITLE_22;Now Available: Coliseum Ticket (Miney)
+TIPS_RESERVE_TITLE_23;Now Available: Coliseum Ticket (Mo)
+TIPS_ATB_INFO;Get ready, it’s battle time![~]Characters [#ffff00ff]take turns[/#] based on agility.[~]The faster a character, the sooner they get to act.[~][~]See that long, thin bar? Each face represents a[~]different character. When a character’s icon reaches the[~]top of the bar, they can select the action to perform.[~][~]You can use [#ffffffff][i22][/#] to [#ffff00ff]switch between[/#][~][#ffff00ff]characters[/#] who are ready to act.[~]
+TIPS_COMAND_INFO;The actions you can take in battle are called [#ffff00ff]abilities[/#]. Abilities are mapped to[~][#FFFFFAF0][i03][i04][i05][i06][/#]. Just press a button to use that ability.[~][~]A target is chosen for you automatically, so you can speed through combat[~]simply and easily with these shortcuts.[~]
+TIPS_COMAND_INFO_01;Abilities are assigned to buttons automatically in the order you learn them,[~]but you can also customize your shortcuts via the game menu.[~][~]Find the setup that works best for you.
+TIPS_BATTLEMODE_INFO;There are three battle modes: [#ffff00ff]Active[/#], [#ffff00ff]Semi-active[/#], and [#ffff00ff]Wait[/#].[~][~]In Active Mode, time keeps flowing regardless of whether or not you input commands.[~]Battles move quickly and without interruption.[~]
+TIPS_BATTLEMODE_INFO_00;NOT USED
+TIPS_BATTLEMODE_INFO_01;In Wait Mode, time stops until you input a command for the character whose turn is up.[~]This gives you a chance to carefully consider each action.[~]You can change your Battle Mode setting via the Config menu.[~]If you find Active Mode too challenging, try sticking with Wait Mode until you have[~]grown more accustomed to combat.[~]
+TIPS_COMANDMANU_INFO;Here’s another useful tip![~][~]During battle, press [#FFFFFAF0][i08][/#] to open a more [#ffff00ff]complete list[~]of commands[/#]. To some of you, this classic menu style[~]may look very familiar.[~]
+TIPS_COMANDMANU_INFO_01;There are some commands—for example, [#ffff00ff]Items[/#]—[~]that can only be selected from this full menu.[~][~]If you’ve chosen Active Mode, time continues to flow[~]while the menu is open, so be careful![~][~]One last thing! You can pick and choose your targets[~]when using the full menu. This comes in handy when[~]you want more control over the fight.[~]
+TIPS_AP_INFO;Certain commands like magic and other abilities cost [#ffff00ff]AP[/#] (Action Points) to use.[~]Characters recover AP when their turns come around, or by successfully exploiting[~]enemy weaknesses.[~]
+TIPS_AP_INFO_01;The more powerful the command, the more AP it requires.[~][~]Most Mirages have weaknesses you can exploit for bonus damage and AP.[~]Discovering them will give you a huge advantage, so don’t be afraid to try things out![~]
+TIPS_ENEMYINFO_INFO;If you press [#FFFFFAF0][i01][/#] during battle, a window will open containing info on the Mirages[~]you are facing. And with the [#ffff00ff]Libra[/#] ability, you can see even more detailed information.[~][~]You can switch between Mirages with [#FFFFFAF0][i08][/#] and [#FFFFFAF0][i09][/#].[~]
+TIPS_TIPS_INFO;The tips you see in these panels are never out of reach.[~]You can view them again by selecting the [#ffff00ff]Tip Jar[/#][~]from the game menu.[~][~]In fact, you might even notice Enna Kros has slipped[~]a few extra tidbits in there that don’t appear during the[~]course of the game, so remember to check the Tip Jar[~]every now and then.[~]
+TIPS_PRIMERO_INFO;In Grymoire, the smaller people are called [#ffff00ff]Lilikin[/#],[~]and the taller people are called [#ffff00ff]Jiants[/#].[~][~]The twins can switch freely between these forms.[~]To change Reynn, press [#FFFFFAF0][#FFFFFFFF][i8][/#][/#] + [#FFFFFAF0][#FFFFFFFF][i3][/#][/#].[~]To change Lann, press [#FFFFFAF0][#FFFFFFFF][i8][/#][/#] + [#FFFFFAF0][#FFFFFFFF][i5][/#][/#].[~]
+TIPS_PRIMERO_INFO_01;Although you’re free to strut around as either size,[~]you will start combat in your current form, so it’s never[~]a bad idea to have stacks set up for both situations.[~]
+TIPS_CHANGE_INFO;Press [#FFFFFAF0][i09][/#] to toggle which character you control.[~][~]It doesn’t have to be Lann for the long haul or[~]Reynn always taking the reins. Sometimes you just[~]need a change of pace![~]
+TIPS_CHANGE_INFO_01;The character in the lead has no effect on combat,[~]so feel free to use this feature just for fun.
+TIPS_HOKAKU_INFO;In order to imprism a Mirage, you’ll need an[~][#ffff00ff]empty prism[/#] compatible with that Mirage.[~][~]But there’s some good news![~]Enna Kros will provide you with your first compatible[~]prism whenever you encounter a new Mirage.[~]
+TIPS_HOKAKU_INFO_01;Huh? Why doesn’t Enna Kros just fork over the whole lot[~]of them right now? Come on, where’s the fun in that?[~]Besides, she doesn’t do bulk orders.[~][~]Don’t worry! You’ll be able to befriend almost every[~]Mirage you meet...eventually. But be sure to take the[~]time to get to know the friends you have before[~]looking for new ones.[~]
+TIPS_GARDENJEM_INFO;Once a prism holds a Mirage, it is known as a[~][#ffff00ff]prismarium[/#]. A Mirage’s prismarium allows you to use[~]the Mirage in battle.[~][~]If you look closely at a prismarium, you can see a[~]miniature world inside. They’re like snow globes...[~]but be nice and don’t try to shake them.[~]
+TIPS_GARDENJEM_INFO_01;So, to recap:[~]- You start with an empty prism.[~]- Imprisming a Mirage in the prism turns it into a[~]  prismarium.[~]- The prismarium lets you add the Mirage to your[~]  stacks and use it in battle.[~][~]Even if you fail to imprism a Mirage you won’t lose[~]the prism, so there’s no need to hold back.[~]Good luck![~]
+TIPS_HOKAKUCHANCE_INFO;You can’t just walk up to Mirages and imprism them.[~]To collect a Mirage, you need to knock it into the[~][#ffff00ff]prismtunity[/#] state first.[~][~]Mirages won’t let their guard down forever,[~]so don’t miss a prismtunity when it arrives.[~]
+TIPS_HOKAKUCHANCE_INFO_01;Sometimes all you need to create a prismtunity is a big, heavy club.[~]But the brute force approach doesn’t always work.[~]Try putting the club down and thinking outside the box.[~]Prismtunity requirements vary from Mirage to Mirage, but [#ffff00ff]Libra[/#] can often[~]provide you with a good hint.[~]
+TIPS_NOSENOSE_INFO;"When you [#ffff00ff]stack[/#] with Mirages, the stats (such as HP)[~]of all the stack’s members are [#ffff00ff]combined[/#].[~]Your abilities may also transform
+TIPS_BARABARA_INFO;Anyone not in a stack is considered to be [#ffff00ff]unstacked[/#][~]and can take action [#ffff00ff]individually[/#].[~][~]This can sometimes be very useful![~]Your party’s weaknesses are isolated and damage is[~]spread out while unstacked, which can significantly[~]increase your chances of survival.[~]
+TIPS_BARABARA_INFO_01;Here’s an example:[~][~]If a stack is KO’d or poisoned, the whole stack[~]suffers the same fate. But if they’re unstacked,[~]only one ally has to take the hit.[~][~]In other words, it can be easier to recover from[~]debilitating attacks, as long as you pick up on[~]the signs and unstack in time.[~]
+TIPS_PARTY1_INFO;Use the [#ffff00ff]Stack Setup[/#] screen in the game menu to[~]choose which Mirages will fight alongside you.[~](Or is it on top of you?)[~][~]You should set up stacks for both your forms:[~]Lilikin and Jiant. That way you’re ready for battle[~]no matter what size you’re using to explore.[~]
+TIPS_PARTY1_INFO_01;A stack can be up to three members high.[~][~]There is one simple rule: [#ffff00ff]smaller goes on top of bigger[/#].[~]Try it out, and you’ll get the hang of it in no time![~]
+TIPS_PARTY2_INFO;Lann, Reynn, and their Mirages are assigned [#ffff00ff]sizes[/#]:[~]S, M, L...[~][~]In your stacks, L goes on the bottom, M goes in[~]the middle, and S goes on the top. Easy, right?[~]
+TIPS_PARTY2_INFO_01;When Reynn and Lann are L-sized Jiants,[~]Mirages will always stack above them.[~][~]But when the twins are M-sized Lilikin,[~]things get a little more crazy.[~]Suddenly they can ride on top of L-sized Mirages[~][f2]and [/f]put S-sized Mirages on top of their heads...[~]at the same time![~]
+TIPS_BORD_INFO;Each Mirage has its own [#ffff00ff]Mirage Board[/#]: a special chart[~]that’s packed with new powers and potential.[~][~]Abilities, stat boosts... Each space on the board holds[~]a new surprise. You can unlock the spaces using the[~][#ffff00ff]SP[/#] (Skill Points) your Mirages earn when they level up.[~]
+TIPS_BORD_INFO_01;Some spaces on the Mirage Boards cannot be[~]unlocked until you meet special conditions.[~]But with a little work, they’re all within reach.[~]
+TIPS_HENSHINKA_INFO;[#ffff00ff]Transfiguration[/#], or [#ffff00ff]transfigging[/#], is the act of changing into a more[~]powerful Mirage or changing back again. A Mirage gets to keep all spaces[~]it has unlocked in all of its Mirage Boards. This means, for example,[~]that a chocochick you transfig into a chocobo yourself will potentially[~]be more powerful than a chocobo you imprism in the wild.[~]
+TIPS_HENSHINKA_INFO_01;A Mirage can transfig into any form and size you’ve unlocked, but there’s one catch:[~]you can only do this from the Prism Case. If you’re not anywhere near a Gate or[~]a Save Crystal, you can call Serafie with a [#ffff00ff]Seraphone[/#] to access the case.
+TIPS_HENSHINKA_WAZA_INFO;Just so you know, some Mirages have unique abilities[~]that aren’t shared between transfigged forms.[~][~]A perfect example would be Tama’s secret weapon,[~]the Super Fox-Dimensional TamaBeam*.[~][~][s20]* DOES NOT ACTUALLY EXIST[/s][~]
+TIPS_HENSHINKA_WAZA_INFO_01;Wait, but what if the TamaBeam [f2]did [/f]exist?[~]Is that what you want? A sidekick with eye lasers?![~]Eye lasers that would eradicate all foes![~]Eye lasers that would burn her cute little retinas![~][~]Eye lasers that...would be exceedingly painful.[~][~]...Shame on you, wishing for that![~]Let’s look into getting Tama a tail laser instead.[~]
+TIPS_DARKCREVASS_INFO;[#ffff00ff]Murkrifts[/#] are home to strange, rare, and usually[~]very dangerous Mirages.[~][~]If you want to explore one, make sure that you’re[~]fully prepared before diving in![~]
+TIPS_DARKCREVASS_INFO_01;Most murkrifts will be too tough for you to handle[~]when you first find them.[~][~]If you do end up getting whomped, come back later,[~]after you’ve gotten a bit stronger.
+TIPS_GAMEOVER_INFO;"When the entire party is defeated, Tama will whisk[~]everyone back to the safety of Nine Wood Hills.[~]There is no penalty, but you will have to fight your[~]way back to where you were.[~][~]Be careful, though
+TIPS_SHOP_INFO;Chocolatte has a habit of picking up all sorts of[~]strange items. Those items can be yours if you’re[~]ready to fork over enough of Grymoire’s currency,[~]which is known as [#ffff00ff]gil[/#].[~]
+TIPS_SHOP_INFO_01;The Chocolatte Mart’s selection is always improving,[~]so when you visit Nine Wood Hills, don’t miss the[~]opportunity to stop by and see what’s in stock.[~]
+TIPS_NOTGET_INFO;Some Mirages already belong to another master.[~]If you look carefully, you can see the chains holding[~]their souls captive.[~][~]Unfortunately, these Mirages [#ffff00ff]cannot be imprismed[/#],[~]no matter how hard you try.[~]
+TIPS_NOTGET_INFO_01;Defeating a Mirage’s master will break its chains,[~]allowing you to imprism it.[~][~]The problem, of course, is finding the master.[~]
+TIPS_DOSSHIRI_INFO;[#ffff00ff]Puzzle Switches[/#], like the one you see here,[~]respond to the Mirages you stack on top of them.[~][~]You’ll need to use Mirages with the right combined[~][#ffff00ff]weight[/#] and [#ffff00ff]elemental resistance[/#] to solve them.[~]But once you do, the switches will trigger changes[~]in the environment and help you proceed.[~]
+TIPS_DOSSHIRI_INFO_01;Most switches can be solved using Mirages that[~]lurk nearby, so if you find yourself stuck, try hunting[~]around in the same dungeon for new Mirages.[~]
+TIPS_TERRITORY_INFO;Powerful Mirages can create their own spheres of influence, known as [#ffff00ff]thresholds[/#].[~][~]Tama can’t rescue Reynn and Lann from defeat while inside an enemy threshold.[~]To put it simply: losing a battle against these powerful enemies = instant Game Over.[~]Remember to [#ffff00ff]save[/#] your game and get prepared before entering a threshold.[~]
+TIPS_TERRITORY_INFO_01;Another thing to note: powerful Mirages bind themselves to their thresholds,[~]which means that a Mirage inside its own threshold can’t be imprismed.[~][~]However, defeating a Mirage will cause its threshold to shatter, so the [#ffff00ff]next time[/#][~]you encounter it, you might just be able to imprism it.[~]
+TIPS_GEMCASE_INFO;Enna Kros has entrusted Serafie with a [#ffff00ff]Prism Case[/#][~]that automatically stores all the prismariums you collect.[~]You can use it to select which Mirages you take with you[~]on your adventures.[~][~]The Prism Case is also where you are permitted to[~][#ffff00ff]transfig[/#] your Mirages. Talk about a handy contraption![~]
+TIPS_GEMCASE_INFO_01;Serafie keeps the Prism Case in Nine Wood Hills.[~]You can access it by talking to her directly, but the case[~]is also at your disposal in Grymoire. Just select it from[~]the menu at Gates or Save Crystals.[~]
+TIPS_SABER_INFO;Among Grymoire’s denizens, there are a select few[~]born with the potential to become powerful heroes.[~]With the right stimuli, these [#ffff00ff]Mediums[/#] learn to channel[~]their power, and awaken as Grymoire’s greatest[~]defenders: the [#ffff00ff]Champions[/#].[~][~]Now that Cornelia’s brigade captain has awoken as[~]the Warrior of Light, it’s safe to say he must have been[~]one such Medium.[~]
+TIPS_SABER_INFO_01;If you have the Warrior of Light’s [#ffff00ff]Champion Medal[/#],[~]you can invoke his power and summon him to your[~]side in battle.[~][~]You never know who’s really a Medium in disguise,[~]but as long as you treat the folks you meet right,[~]their powers are sure to come to light.[~]
+TIPS_CALLINGBADGE_INFO;To obtain new Champion Medals, visit the tearoom on[~]the other side of the strange door in Nine Wood Hills.[~]There, you can trade in [#ffff00ff]arma gems[/#] for new medals.[~][~]Arma gems turn up in a variety of places...but only[~]ever so rarely. Think carefully before spending them.[~]
+TIPS_CALLINGBADGE_INFO_01;You can carry up to three Champion Medals into battle.[~]Use the game menu to select which Champions you[~]want in your corner.[~]
+TIPS_SABERENAGY_INFO;The [#ffff00ff]Champion Gauge[/#] determines whether or not[~]you can invoke Champions in battle. The gauge fills up[~]while you fight, to a maximum of three stars.[~][~]Keep in mind that each Champion requires a[~]different number of stars to summon.[~]
+TIPS_SABERENAGY_INFO_01;At first, summoning a Champion across[~]Grymoire appears to be a miracle—an act of god.[~]But didn’t “god” tell you she wasn’t helping?[~][~]Perhaps there’s a mechanism to this miracle...[~]one that requires paying a great price.[~]
+TIPS_MIRASTONE_INFO;[#ffff00ff]Mirajewels[/#] are made by extracting your Mirages’ abilities and crystallizing them into[~]gemstones that impart those same abilities to Reynn and Lann.[~]
+TIPS_MIRASTONE_INFO_01;As the twins fulfill certain conditions like raising their levels, they’ll unlock more[~]mirajewel slots. Eventually, they’ll be able to equip up to eight mirajewels apiece.[~]
+TIPS_BOOK_INFO;Have you noticed that some of the spaces on your[~]Mirage Boards are blank?[~]You can customize these slots by placing special[~]items called [#ffff00ff]ability seeds[/#].[~][~]For example, if you place a Blizzard seed on the[~]blank space of a fritt’s Mirage Board, that space will[~]become Blizzard and give your otherwise fiery fritt[~]access to ice magic. Pretty neat, huh?[~]
+TIPS_BOOK_INFO_01;"You can pick up ability seeds in a number of ways,[~]including from the Chocolatte Mart.[~][~]And don’t worry
+TIPS_MEGAMIRAGE_INFO;[#ffff00ff]Mega Mirages[/#] are XL-sized Mirages that are too big[~]to put in your stacks. Instead, Lann and Reynn can[~]summon them in battle by expending both their AP.[~][~]Make no mistake, though: Mega Mirages are powerful[~]enough to justify the cost![~]
+TIPS_MEGAMIRAGE_INFO_01;Your other Mirages will be returned to their[~]prismariums while a Mega Mirage is present.[~][~]Mega Mirages continue to fight until they run out of HP,[~]or until Reynn and Lann run out of AP.[~][~]You can unsummon them before that happens,[~]but be careful, because you won’t be able to call on[~]the Mega Mirage again for a little while.[~]
+TIPS_MASTER_INFO;Once a Mirage masters its Mirage Boards by[~]unlocking all the spaces, it will be awarded a shiny[~]and wonderful [#FFFFFFFF][#FFFFFFFF][i151][/#][/#].[~][~]But you don’t have to settle for just a badge of honor.[~]You will also be given a chance to select a single[~][#ffff00ff]bonus ability[/#] for your Mirage.[~]
+TIPS_MASTER_INFO_01;Finishing a Mirage Board is hard work, so think of the[~]star as your Mirage’s present for being such a trooper.[~][~]And with the bonus ability and ability seeds, your[~]Mirage has a chance to stand out and be truly special![~]
+TIPS_TOKOTOKO_INFO;Mirages that have learned the [#ffff00ff]Stroll[/#] ability will appear[~]alongside Reynn and Lann in the field, so you can[~]explore Grymoire together.[~][~]If you are accompanied by multiple Mirages with the[~]Stroll ability, you can cycle between them with [#FFFFFAF0][i24][/#].[~]
+TIPS_TOKOTOKO_INFO_01;Sometimes, strolling Mirages will discover useful items.[~]Try bringing different Mirages to different places.[~]You might be surprised by what they find![~]
+TIPS_NORINORI_INFO;If a Mirage has the [#ffff00ff]Joyride[/#] ability, you can hop aboard[~]and let it carry you around, even in a dungeon.[~][~]Why walk when you can let a fun friend do all the[~]legwork for you?[~]
+TIPS_NORINORI_INFO_01;Press [#FFFFFAF0][i13][/#] to hop on a Mirage.[~]Keep pressing [#FFFFFAF0][i13][/#] to switch between Mirages with[~]the Joyride ability.[~][~]When you’re done, press [#FFFFFAF0][i15][/#] to hop back off and[~]give your hardworking pal a break.[~]
+TIPS_FIRE_INFO;NOT USED
+TIPS_FIRE_INFO_01;A Mirage’s [#ffff00ff]Sizzle[/#] ability can be used to burn away[~]vegetation or melt ice that’s blocking your path.[~]Oh, and it might also be able to light fuses...[~][~]You can use Sizzle wherever you see a [#FFFFFAF0][i410][/#].[~]Just bring a Mirage that knows Sizzle to that spot,[~]then examine the site to get burning![~]
+TIPS_FREEZE_INFO;If you’ve got a patch of water you want to walk over,[~]a Mirage’s [#ffff00ff]Chill[/#] ability is your best friend.[~]It even works on lava...sometimes.[~][~]Pretty amazing, right? You can use Chill anywhere[~]you see a [#FFFFFAF0][i411][/#].[~]
+TIPS_FREEZE_INFO_01;Don’t forget: a Mirage must be accompanying you[~]if you want to use its special abilities. Take the Mirage[~]you need out of your Prism Case ahead of time.[~]
+TIPS_ELECTRIC_INFO;Mirages who have learned the [#ffff00ff]Zap[/#] ability can[~]electrify and energize objects. Use this ability on[~]machines, special devices, and anywhere else you[~]see a [#FFFFFAF0][i412][/#].[~]
+TIPS_ELECTRIC_INFO_01;Surprised to hear there are machines in Grymoire?[~][~]Perhaps they [f2]do [/f]feel a bit out of place...but only[~]because most of them aren’t from Grymoire at all.[~]
+TIPS_BREAK_INFO;[#ffff00ff]Smash[/#] is your go-to Mirage ability when you need[~]to shatter rocks and other junk blocking your path.[~][~]You can destroy anything marked with a [#FFFFFAF0][i413][/#].[~]
+TIPS_BREAK_INFO_01;Tama would have loved to help you break things,[~]but sadly she hasn’t spent enough time at the gym.[~]Best to leave the smashing to the buff Mirages with[~]muscle to spare.[~]
+TIPS_FRYING_INFO;[#ffff00ff]Flutter[/#] lets you fly to places you normally couldn’t reach.[~]Look for places marked with a [#FFFFFAF0][i416][/#].[~][~]Sadly, you can’t fly forever. You can only use Flutter[~]to take you short distances.[~]
+TIPS_FRYING_INFO_01;You may be wondering why Tama, of all Mirages,[~]doesn’t have this ability.[~][~]Well, Tama may be able to float around free as a bird,[~]but she [f2]refuses [/f]to carry Lann.[~][~]...After all, it’s [f2]his [/f]job to carry [f2]her[/f].[~]
+TIPS_TEREPOSTONE_INFO;The [#ffff00ff]Teleport Stone[/#] can be used as many times as[~]you want to whisk you back to the entrance of a[~]dungeon faster than you can blink.[~][~]Unfortunately, it’s a one-way trip, but the stone can[~]come in handy when you need to swap in Mirages[~]or return to Nine Wood Hills for a breather.[~]
+TIPS_SHERAPHONE_INFO;The [#ffff00ff]Seraphone[/#] is a special device you can use to call Serafie and access your[~]Prism Case remotely. Serafie’s not too keen on leaving Nine Wood Hills,[~]but thanks to the Seraphone, you can still swap in Mirages while out on the go.[~]
+TIPS_SHERAPHONE_INFO_01;Just keep in mind that each Seraphone can only be used once, because Serafie doesn’t[~]feel like getting off her bu—[~][~]Er, because your data security is important, of course.[~]
+TIPS_GATE_INFO;Throughout Grymoire, you will find shining [#ffff00ff]Gates[/#][~]like the one you see here.[~][~]Approaching a Gate will connect it to the Main Gate[~]in Nine Wood Hills. Once it’s linked up, you can use[~]the Gate to travel anywhere you’ve already been.[~]
+TIPS_GATE_INFO_01;[#ffff00ff]Exit Gates[/#] are special one-way doors for leaving[~]dungeons, so they’re not accessible from the[~]Main Gate in Nine Wood Hills.[~]
+TIPS_SAVE_INFO;[#ffff00ff]Save Crystals[/#] form naturally in dangerous[~]places throughout Grymoire.[~][~]In addition to restoring your HP and AP,[~]they allow you to [#ffff00ff]save your progress[/#] and[~]access the Prism Case.[~]
+TIPS_SAVE_INFO_01;Save Crystals are places of peace and safety.[~]When you see one, remember to save your progress,[~]because you never know what dangers lie around[~]the next corner.[~]
+TIPS_QUEST_INFO;As you progress through the story, a chronicle of[~]your travels is recorded in the game menu’s[~][#ffff00ff]Adventure Log[/#].[~][~]If you haven’t dropped by Grymoire in a while,[~]this is a great way to catch up.[~]
+TIPS_QUEST_INFO_01;Select [#ffff00ff]Miniventures[/#] to have a peek at quests and[~]errands you’ve undertaken.[~][~]Naturally, you can stop by to check your progress,[~]but you can also [#ffff00ff]collect quest rewards[/#] here too.[~]
+TIPS_AVIRITY_INFO;Not happy with the button shortcuts you see in battle?[~]Just select [#ffff00ff]Abilities[/#] from the game menu.[~][~]Abilities are assigned to buttons automatically as you[~]acquire them, but at some point you’ll need to take[~]the reins and customize your shortcuts.[~]
+TIPS_MAP_INFO;Pressing [#FFFFFFFF][i0][/#] while in a dungeon displays a [#ffff00ff]map[/#][~]of your surroundings.[~][~]Not only does the map help you get your bearings,[~]it also lists your destination, the location of Gates[~]and Save Crystals, and even includes a list of[~]Mirages you’ve discovered nearby.[~][~]You unlock each map as soon as you enter an area.[~]
+TIPS_WORLDMAP_INFO;It’s time to take to the skies.[~]While an area map is open, you can open the[~][#ffff00ff]World Map[/#] with a single press of [#FFFFFAF0][i05][/#].[~]You can still choose your destination from a list,[~]but chances are there’s something else you’ve been[~]dying to do.[~][~]Why not take the helm and give your [#ffff00ff]airship[/#] a spin?[~]Who knows, you might even discover new Mirages[~]while you’re at it![~]
+TIPS_AUTO_INFO;Tired of the grind?[~]Then here are a few tips you’re sure to like.[~][~]Hold [#FFFFFAF0][i09][/#] during battle to [#ffff00ff]fast-forward[/#] and make[~]time fly like a speeding Tama![~][~]You can also enable [#ffff00ff]Auto-Battle Mode[/#] with a single[~]press of [#FFFFFAF0][i00][/#]. In this mode, the party[~]continues fighting without any input from you.[~]
+TIPS_AUTO_INFO_03;A few words of warning, though:[~][~]When playing in Active Mode, time continues to flow[~]while you choose your commands, which means[~]enemies will keep attacking while you fast-forward.[~][~]Also, in Auto-Battle Mode, party members merely[~][#ffff00ff]repeat the last commands[/#] you gave them. They don’t[~]make choices for you, so keep an eye on the action.[~]
+TIPS_FASTFORWARD_INFO;Are you the impatient type?[~]Here’s a fun little trick.[~]During cutscenes, you can hold [#FFFFFAF0][i09][/#] to quickly[~][#ffff00ff]speed through[/#] the conversation.[~][~]...Oh, not good enough for you?[~]Then you can always press [#FFFFFAF0][i01][/#], then [#FFFFFAF0][i04][/#] to [#ffff00ff]skip[~]the scene[/#] altogether.[~]
+TIPS_FASTFORWARD_INFO_01;Of course, if you start skipping scenes with abandon,[~]it won’t be long before you have zero idea what’s[~]going on in the story.[~][~]But then again, if this is your second trip through[~]Grymoire, you may want to get right down to business.[~]You’ve always got the Adventure Log to fall back on.[~]
+TIPS_ALMAGEM_INFO;[#ffff00ff]Arma gems[/#] can be surprisingly tricky to track down.[~]But they’re worth the effort, because The Girl Who[~]Forgot Her Name can use them to unlock some[~]very special quests.[~][~]Speak to her on the other side of the [#ffff00ff]door in[~]Nine Wood Hills[/#].[~]
+TIPS_ALMAGEM_INFO_01;Between the quests and Champion Medals,[~]you’ll have plenty of reasons to burn through your[~]arma gem supply. So where do you get more?[~][~]Here’s a little tip: arma gems are easier to find[~]in [#ffff00ff]special places[/#]. Good luck![~]
+TIPS_ALTOBOX_INFO;[#ffff00ff]Eldboxes[/#] are special containers that you’ll need[~]if you want to capture mechanical Mirages.[~][~]Rumor has it that Chocolatte sometimes gets[~]eldboxes in stock, so stop by her shop if you’re[~]looking to get your hands on more.[~]
+TIPS_ALTOBOX_INFO_01;Rumor [f2]also [/f]has it that eldboxes bring back a lot of[~]personal memories for Enna Kros.[~][~]Eldbox technology originated outside of Grymoire,[~]but sometimes the borders between worlds get a[~]little fuzzy, and—[~][~]Well, that’s a story for another time.[~]
+TIPS_ARENA_INFO;At the [#ffa7eafc]Coliseum[/#], you can have another crack at fighting past adversaries.[~]These opponents unlock as you progress through the story or defeat them.[~]
+TIPS_ARENA_INFO_01;Additionally, as you complete chapters, you will unlock unique challenges against[~]teams of Mirages that range from the brutal to the bizarre.[~]
+TIPS_ARENA_INFO_03;Here are the rules of the Coliseum:[~][~]- You can repeat a challenge you have already completed, but you will receive a[~]  different reward for repeat victories.[~]- You begin matches with full HP and AP, and no stars in your Champion Gauge.[~]  Once the fight is over, those values will return to what they were before the match.[~]- You are not allowed to use the Escape command.[~]
+TIPS_ARENA_B_INFO;NOT USED
+TIPS_ARENA_B_INFO_01;NOT USED
+TIPS_MINIGAME_INFO;NOT USED
+TIPS_NETWORK_INFO;In [#ffa7eafc]Multiplayer[/#], you and your friends can have your Mirages battle it out.[~][~]To begin, [#ffa7eafc]you need to create at least one multiplayer team[/#] by placing a Mirage in[~]each of the team’s two stacks. You can save up to three multiplayer teams, each with[~]its own custom ability shortcuts.[~][~]You are allowed to use the same Mirage in multiple multiplayer teams.[~]
+TIPS_NETWORK_INFO_01;Special rules apply during Multiplayer:[~][~]- All stacks begin with 4 AP.[~]- Your stacks are shown on the right, and your opponent’s on the left.[~]- Battles have a time limit of five minutes.[~]- All Mirages will be set to level 50, regardless of their current level.[~]- Fast-forwarding, Auto-Battle Mode, and the Mirage info screen are disabled.[~]
+TIPS_NETWORK_INFO_02;Special rules apply during Multiplayer:[~][~]- You cannot call upon Champions or Mega Mirages.[~]- You cannot use the Imprism or Escape commands.[~]- No items are allowed except those provided at the start of the match.[~]- Lann and Reynn cannot participate in the battle.[~]- Some special abilities like Libra are disabled or have no effect.[~]- Battles are set to Active Mode and locked at Battle Speed 3.
+TIPS_NETWORK_INFO_03;There are two types of Multiplayer battles.[~][~]The first is the [#ffa7eafc]Duel[/#], where you and your opponent use two stacks each to duke it out.[~]
+TIPS_NETWORK_INFO_04;The second type is the [#ffa7eafc]Point Match[/#], which consists of three consecutive battles:[~][~]- Stack 1 vs. Stack 1 (worth 1 point)[~]- Stack 2 vs. Stack 2 (worth 1 point)[~]- Stack 1 & 2 vs. Stack 1 & 2 (worth 2 points)[~][~]The points are then tallied up to determine a winner.[~]In the case of a tie, a final match will be held to reach a final judgment.[~]
+TIPS_NETWORK_INFO_05;When playing online, matches are held in rooms known as [#ffa7eafc]battlefronts[/#].[~]You can optionally assign your battlefront a [#ffa7eafc]number[/#], which friends can then[~]use to search for you easily.[~]
+TIPS_NETWORK_INFO_06;Your game will [#ffa7eafc]automatically save[/#] in the following situations:[~][~]- After selecting “Play Online”[~]- At the end of a multiplayer match[~][~]Do not turn the power off while the game is saving.
+TIPS_NETWORK_INFO_07;When trading Mirages, there are a few things to keep in mind:[~][~]- You cannot trade Mirages with a higher level than the other player’s Reynn or Lann.[~]  (The limit is decided by whichever twin’s level is higher.)[~]- Custom abilities granted by ability seeds will be traded along with Mirages.[~]- Unique Mirages like Tama cannot be traded away.[~]- After a trade is complete, you will receive an empty prism for the Mirage you traded.[~]- Mirages received from trades are sent to your Prism Case.[~]
+TIPS_NETWORK_INFO_08;STEAM NOT USED
+TIPS_NETWORK_INFO_09;Your game will [#ffa7eafc]automatically save[/#] in the following situations:[~][~]- After selecting “Play Online”[~]- At the end of a multiplayer match[~]- After completing a trade[~][~]Do not turn the power off while the game is saving.
+TIPS_RENAMECARD_INFO;You can use the [#ffff00ff]Rename Prism[/#] to change a Mirage’s name whenever you want.[~]It’s reusable, so there’s no need to hold back!
+TIPS_WINGLOAD_INFO;Press [#FFFFFAF0][i05][/#] anywhere in Nine Wood Hills to open[~]a list of shortcuts. You can use these [#ffff00ff]windways[/#] to[~]quickly warp around town.[~]
+TIPS_SPSKILL_INFO_01;[#ffff00ff]Layered Abilities[/#][~]Stacking Mirages with abilities of like elements[~]causes those abilities to layer into a more[~]powerful form.[~][~]For example, stacking three Mirages with[~][#ffff00ff]Fire + Fire + Fira[/#] results in a stack that can[~]wield [#ffff00ff]Firaga[/#]. Tama’s Foxfire is a fire attack too,[~]so it can be used as a substitute.[~]
+TIPS_SPSKILL_INFO_02;[#ffff00ff]Combo Abilities[/#][~]If you stack Mirages that use [#ffff00ff]physical weapons[/#][~]like swords and fangs, the stack will be able to[~]wield combo abilities like [#ffff00ff]Cross Slash[/#].[~][~]Of course that’s not the only example, so tinker[~]around and see what you can come up with.[~]
+TIPS_SPSKILL_INFO_03;[#ffff00ff]Super Abilities[/#][~]Some L-sized characters have super abilities.[~]For example, Jiant Reynn can wield one called[~][#ffff00ff]Channel Element[/#].[~][~]Tama has always wanted her own super ability,[~]but she’s just not big enough.[~]
+TIPS_HIDEOUT_INFO;Nearly every dungeon has a secret area just waiting to be discovered.[~]Rare Mirages often lurk in these well-hidden spots.[~][~]You might not have the right tools to access a hidden area the first time you visit[~]a dungeon. Try returning once you have a few more tricks up your sleeve.[~]
+TIPS_RESERVE_INFO_05;NOT USED
+TIPS_RESERVE_INFO_06;NOT USED
+TIPS_RESERVE_INFO_07;NOT USED
+TIPS_RESERVE_INFO_08;NOT USED
+TIPS_RESERVE_INFO_09;When Reynn and Lann equip [#ffff00ff]mirajewels[/#], they temporarily gain those abilities.[~]If you’ve got a stack you like, but need just one more piece to unlock a more[~]powerful ability, mirajewels are a great way to make up the difference.[~][~]You can unlock mirajewels on Mirage Boards or find them in treasure chests.[~]
+TIPS_RESERVE_INFO_10;NOT USED
+TIPS_RESERVE_INFO_11;The [#ffff00ff]mega sharquals[/#] of the Low Seas are mega deadly.[~][~]It’s very unlikely you’ll be able to defeat one the first time you encounter them,[~]so you might want to steer clear for now and come back when you’re stronger.
+TIPS_RESERVE_INFO_12;Watch out! There’s a [#ffff00ff]searcher[/#] on the prowl![~][~]If you aren’t looking for a fight, you’d better hide[~]until it’s gone. Or, if you want to imprism one,[~]why not let it find you?[~]
+TIPS_RESERVE_INFO_13;You’ll find the [#ffff00ff]jump pads[/#] Bartz showed you[~]scattered across Big Bridge. You can use these to[~]get past enemy blockades, so keep an eye open.[~]
+TIPS_RESERVE_INFO_14;The [#ffff00ff]EXP[/#] (experience) you earn in battle is split[~]between all participating party members.[~]Mirages that are accompanying you but didn’t[~]fight in the battle still receive a flat 8% of the[~]total EXP earned.[~][~]However, Mirages in your Prism Case get nothing,[~]so make sure to bring Mirages along with you if[~]you’re trying to make them stronger.[~]
+TIPS_RESERVE_INFO_15;If you’re reading this, then you must be looking for more fun here in Grymoire.[~]Well, just for you, we’ve prepared some brand-new dungeons.[~][~]Think you’re ready? Are you [f2]sure? [/f]Then drop by the Girl’s Tearoom.[~]The Gates to these tricky dungeons are waiting for you there. [~]
+TIPS_RESERVE_INFO_16;Like Lann and Reynn, [#ffff00ff]Hauyn[/#] can switch between[~]Lilikin and Jiant forms. Just press [#FFFFFAF0][i08][/#] + [#FFFFFAF0][i04][/#].[~][~]You can also take control of Hauyn by pressing [#FFFFFAF0][i09][/#][~]until she is the party leader.[~]
+TIPS_RESERVE_INFO_17;[#ffff00ff]Intervention quests[/#] are special quests you can access[~]from The Girl Who Forgot Her Name’s [#ffff00ff]tearoom[/#].[~][~]During these quests, you will reach out to the souls of[~]friends and help them in their hour of need—[~]whether that hour falls in the past, present, or future.[~][~]In addition to meeting new Mirages, you will receive[~]rewards for completing the quests.[~]
+TIPS_RESERVE_INFO_18;When using the Basic Menu, enemies are targeted automatically for you.[~]However, you can always [#ffff00ff]override this[/#] and use [#FFFFFAF0][i24][/#] to manually select a target.[~]
+TIPS_RESERVE_INFO_19;With a Champion Medal equipped, press [#FFFFFAF0][i13][/#] repeatedly until the Champion you want[~]is selected, then press [#FFFFFAF0][i03][/#] to invoke that [#ffff00ff]Champion[/#].[~][~]If you have a [#ffff00ff]Mega Mirage[/#] with you, press [#FFFFFAF0][i15][/#] to select the Mega Mirage, then [#FFFFFAF0][i03][/#][~]to summon it.[~]
+TIPS_RESERVE_INFO_20;If you finish all of The Girl Who Forgot Her Name’s intervention quests and then[~]defeat Brandelis again, Enna Kros might just have a special surprise for you...[~]
+TIPS_RESERVE_INFO_21;Each Mirage is strong or weak against certain [#ffff00ff]elements[/#] or [#ffff00ff]status ailments[/#].[~]Learn to identify the following symbols when looking at Mirage data:[~][~][#FFFFFAF0][i100][/#] Fire           [#FFFFFAF0][i101][/#] Ice               [#FFFFFAF0][i102][/#] Thunder    [#FFFFFAF0][i104][/#] Wind[~][#FFFFFAF0][i105][/#] Water       [#FFFFFAF0][i103][/#] Earth           [#FFFFFAF0][i106][/#] Light          [#FFFFFAF0][i107][/#] Dark[~][~][#FFFFFAF0][i108][/#] Poison      [#FFFFFAF0][i109][/#] Confusion   [#FFFFFAF0][i110][/#] Sleep        [#FFFFFAF0][i111][/#] Blindness[~][#FFFFFAF0][i112][/#] Oblivion    [#FFFFFAF0][i114][/#] Berserk       [#FFFFFAF0][i113][/#] Slow         [#FFFFFAF0][i115][/#] Death[~][~][#FFFFFAF0][i301][/#] Nullifies elemental attacks     [#FFFFFAF0][i300][/#] Absorbs elemental attacks[~]
+TIPS_RESERVE_INFO_22;In addition to status ailments, characters sometimes undergo other [#ffff00ff]positive[~]and negative changes[/#] in battle. These are usually triggered by abilities, and are[~]sometimes represented by the following symbols:[~][~][#FFFFFAF0][i117][/#] Stun          [#FFFFFAF0][i118][/#] Protect        [#FFFFFAF0][i119][/#] Shell         [#FFFFFAF0][i120][/#] Reflect[~][#FFFFFAF0][i121][/#] Regen       [#FFFFFAF0][i122][/#] Haste         [#FFFFFAF0][i123][/#] Bravery    [#FFFFFAF0][i124][/#] Faith        [#FFFFFAF0][i116][/#] KO[~][~][#FFFFFAF0][i125][i126][/#] Strength↑/↓              [#FFFFFAF0][i127][i128][/#] Defense↑/↓[~][#FFFFFAF0][i129][i130][/#] Magic↑/↓                 [#FFFFFAF0][i131][i132][/#] Magic Defense↑/↓[~][#FFFFFAF0][i135][i136][/#] Accuracy↑/↓            [#FFFFFAF0][i133][i134][/#] Evasion↑/↓[~]
+TIPS_RESERVE_INFO_23;Secret Memory (Omega God)
+TIPS_RESERVE_INFO_24;A new intervention quest is available in the Girl’s Tearoom.[~]Get your hands on a special Cogna by mechanical designer Kunio Okawara!
+TIPS_RESERVE_INFO_25;Coliseum Ticket (Miney)
+TIPS_RESERVE_INFO_26;A new challenger has crashed the Coliseum![~]Now’s your chance to imprism Miney, one of the queen’s quacho attendants!
+TIPS_RESERVE_INFO_27;Coliseum Ticket (Mo)
+TIPS_RESERVE_INFO_28;A new challenger has crashed the Coliseum![~]Now’s your chance to imprism Mo, one of the queen’s quacho attendants!
+LOADING_TIPS_TEST;You can fully restore your HP and AP at Save Crystals.
+LOADING_TIPS_GAMEOVER;You will be sent back to Sylver Park if you are defeated,[~]but you won’t lose any gil or experience.
+LOADING_TIPS_CHANGE;Lann and Reynn can freely switch between Lilikin and Jiant forms.[~]Press [#FFFFFFFF][i8][/#] + [#FFFFFFFF][i5][/#] to change Lann, and [#FFFFFFFF][i8][/#] + [#FFFFFFFF][i3][/#] to change Reynn.
+LOADING_TIPS_AP;You must expend AP to use abilities and magic.[~]AP regenerates during battle.
+LOADING_TIPS_00;A Mirage’s Joyride ability lets you zip around the map in style.[~]Unfortunately, though, you can’t use it in town.
+LOADING_TIPS_01;Some Mirages, like the chocobo, have their own special music[~]that plays while using Joyride on certain outdoor maps.
+LOADING_TIPS_02;Have you visited the Twins’ Room yet?[~]Inside, you can view the Mirage Manual and the Who’s Who.
+LOADING_TIPS_03;The Chocolatte Mart on North Promenade sells lots of useful items.
+LOADING_TIPS_04;NOT USED
+LOADING_TIPS_05;Think you might be lost?[~]Press [#FFFFFFFF][i0][/#] to open the map and get your bearings.
+LOADING_TIPS_06;Visit the [#FFFFFFFF][i4][/#] menu’s Adventure Log to view a chronicle of your journey so far.
+LOADING_TIPS_07;Press [#FFFFFFFF][i5][/#] on the map screen to bring up the World Map.
+LOADING_TIPS_08;Press [#FFFFFFFF][i5][/#] on the World Map to take control of the airship.
+LOADING_TIPS_09;You can access your Prism Case at Gates, Save Crystals,[~]or by using a Seraphone.
+LOADING_TIPS_10;Use the Teleport Stone to return to the entrance of a dungeon.
+LOADING_TIPS_11;You can use the Rename Prism to rename almost any Mirage.
+LOADING_TIPS_12;If you are defeated even once inside a threshold, it’s Game Over.[~]You will have to continue from your last save point.
+LOADING_TIPS_13;While using the Defend command, you can prevent your stack from toppling.
+LOADING_TIPS_14;If your stack is about to topple, it might be a good idea to unstack yourself first.
+LOADING_TIPS_15;You can view a Mirage’s stats on its Mirage Board.
+LOADING_TIPS_16;Stacking Mirages that can use Fire allows you to use Fira.[~]Try other combinations too!
+LOADING_TIPS_17;Stacking matching elements isn’t the only way to access new abilities.[~]Try combining Mirages with different elements. You might be surprised!
+LOADING_TIPS_18;Adding a Mirage with the right ability to your stacks can unlock higher-tier abilities.
+LOADING_TIPS_19;Ability seeds can fill blank spaces on Mirage Boards.[~]They’re perfect for rounding out a Mirage’s repertoire.
+LOADING_TIPS_20;You can claim your miniventure rewards from the [#FFFFFFFF][i4][/#] menu’s Adventure Log.
+TIPS_COMAND_INFO_02;NOT USED
+TIPS_BATTLEMODE_INFO_02;NOT USED
+TIPS_BATTLEMODE_INFO_03;NOT USED
+TIPS_COMANDMANU_INFO_02;NOT USED
+TIPS_AP_INFO_02;NOT USED
+TIPS_PRIMERO_INFO_02;NOT USED
+TIPS_CHANGE_INFO_02;NOT USED
+TIPS_HOKAKU_INFO_02;NOT USED
+TIPS_GARDENJEM_INFO_02;NOT USED
+TIPS_HOKAKUCHANCE_INFO_02;NOT USED
+TIPS_NOSENOSE_INFO_01;NOT USED
+TIPS_NOSENOSE_INFO_02;NOT USED
+TIPS_BARABARA_INFO_02;NOT USED
+TIPS_PARTY1_INFO_02;NOT USED
+TIPS_PARTY2_INFO_02;NOT USED
+TIPS_BORD_INFO_02;NOT USED
+TIPS_HENSHINKA_INFO_02;NOT USED
+TIPS_HENSHINKA_WAZA_INFO_02;NOT USED
+TIPS_DARKCREVASS_INFO_02;NOT USED
+TIPS_GAMEOVER_INFO_01;NOT USED
+TIPS_GAMEOVER_INFO_02;NOT USED
+TIPS_SHOP_INFO_02;NOT USED
+TIPS_NOTGET_INFO_02;NOT USED
+TIPS_DOSSHIRI_INFO_02;NOT USED
+TIPS_TERRITORY_INFO_02;NOT USED
+TIPS_GEMCASE_INFO_02;NOT USED
+TIPS_SABER_INFO_02;NOT USED
+TIPS_CALLINGBADGE_INFO_02;NOT USED
+TIPS_SABERENAGY_INFO_02;NOT USED
+TIPS_MIRASTONE_INFO_02;NOT USED
+TIPS_BOOK_INFO_02;NOT USED
+TIPS_MEGAMIRAGE_INFO_02;NOT USED
+TIPS_MASTER_INFO_02;NOT USED
+TIPS_TOKOTOKO_INFO_02;NOT USED
+TIPS_NORINORI_INFO_02;NOT USED
+TIPS_FIRE_INFO_02;NOT USED
+TIPS_FREEZE_INFO_02;NOT USED
+TIPS_ELECTRIC_INFO_02;NOT USED
+TIPS_BREAK_INFO_02;NOT USED
+TIPS_FRYING_INFO_02;NOT USED
+TIPS_TEREPOSTONE_INFO_01;NOT USED
+TIPS_TEREPOSTONE_INFO_02;NOT USED
+TIPS_SHERAPHONE_INFO_02;NOT USED
+TIPS_QUEST_INFO_02;NOT USED
+TIPS_MAP_INFO_01;NOT USED
+TIPS_MAP_INFO_02;NOT USED
+TIPS_WORLDMAP_INFO_01;NOT USED
+TIPS_WORLDMAP_INFO_02;NOT USED
+TIPS_AUTO_INFO_01;NOT USED
+TIPS_AUTO_INFO_02;NOT USED
+TIPS_FASTFORWARD_INFO_02;NOT USED
+TIPS_ALMAGEM_INFO_02;NOT USED
+TIPS_ALTOBOX_INFO_02;NOT USED
+TIPS_ARENA_INFO_02;NOT USED
+TIPS_ARENA_B_INFO_02;NOT USED
+KEYBOARD_TIPS_TOKOTOKO_INFO;Mirages that have learned the [#ffff00ff]Stroll[/#] ability will appear[~]alongside Reynn and Lann in the field, so you can[~]explore Grymoire together.[~][~]If you are accompanied by multiple Mirages with the[~]Stroll ability, you can cycle between them with [#FFFFFAF0][i14][i12][/#].[~]
+KEYBOARD_TIPS_RESERVE_INFO_18;When using the Basic Menu, enemies are targeted automatically for you.[~]However, you can always [#ffff00ff]override this[/#] and use [#FFFFFAF0][i14][i12][/#] to manually select a target.[~]
+KEYBOARD_TIPS_ATB_INFO;Get ready, it’s battle time![~]Characters [#ffff00ff]take turns[/#] based on agility.[~]The faster a character, the sooner they get to act.[~][~]See that long, thin bar? Each face represents a[~]different character. When a character’s icon reaches the[~]top of the bar, they can select the action to perform.[~][~]You can use [#ffffffff][i27][i26][/#] to [#ffff00ff]switch between[/#][~][#ffff00ff]characters[/#] who are ready to act.[~]

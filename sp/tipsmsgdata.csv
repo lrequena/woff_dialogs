@@ -1,0 +1,311 @@
+﻿TIPS_ATB_TITLE;Batalla en Tiempo Continuo
+TIPS_COMAND_TITLE;Atajos y combinaciones de botones
+TIPS_BATTLEMODE_TITLE;Modos de combate
+TIPS_COMANDMANU_TITLE;El menú Clásico
+TIPS_AP_TITLE;Puntos de acción (PA)
+TIPS_ENEMYINFO_TITLE;El hechizo Libra
+TIPS_TIPS_TITLE;Sabiduría popular
+TIPS_PRIMERO_TITLE;Koloso o pezqueco
+TIPS_CHANGE_TITLE;Cambiar el líder
+TIPS_HOKAKU_TITLE;Captura de mirages
+TIPS_GARDENJEM_TITLE;Los prismáriums
+TIPS_HOKAKUCHANCE_TITLE;El momento ideal para capturar
+TIPS_NOSENOSE_TITLE;Formación en torre
+TIPS_BARABARA_TITLE;En solitario
+TIPS_PARTY1_TITLE;Configurar las formaciones
+TIPS_PARTY2_TITLE;Tamaños pequeño (S), medio (M) y grande (L)
+TIPS_BORD_TITLE;Los tableros mirágicos
+TIPS_HENSHINKA_TITLE;Transfiguración
+TIPS_HENSHINKA_TITLE_02;Habilidades únicas
+TIPS_DARKCREVASS_TITLE;Las fisuras lúgubres
+TIPS_GAMEOVER_TITLE;Derrota...
+TIPS_SHOP_TITLE;¡Choco-boco-compras!
+TIPS_NOTGET_TITLE;Mirages que no se pueden capturar
+TIPS_DOSSHIRI_TITLE;Los altares misteriosos
+TIPS_TERRITORY_TITLE;¡Cuidado en el dominio!
+TIPS_GEMCASE_TITLE;Los prismáriums: una buena organización
+TIPS_SABER_TITLE;Protectores e iluminados
+TIPS_CALLINGBADGE_TITLE;Los emblemas de protector
+TIPS_SABERENAGY_TITLE;La esfera de protector
+TIPS_MIRASTONE_TITLE;Los miralitos
+TIPS_BOOK_TITLE;Semillas de hechizos y habilidades
+TIPS_MEGAMIRAGE_TITLE;Los megamirages
+TIPS_MASTER_TITLE;Los mirages maestros
+TIPS_TOKOTOKO_TITLE;La habilidad Escolta
+TIPS_NORINORI_TITLE;La habilidad Montura
+TIPS_FIRE_TITLE;La habilidad Prender fuego
+TIPS_FREEZE_TITLE;La habilidad Helar
+TIPS_ELECTRIC_TITLE;La habilidad Chispas
+TIPS_BREAK_TITLE;La habilidad Destrozar
+TIPS_FRYING_TITLE;La habilidad Vuelo
+TIPS_TEREPOSTONE_TITLE;La teleportita
+TIPS_SHERAPHONE_TITLE;Los seráfonos
+TIPS_GATE_TITLE;Los portales
+TIPS_SAVE_TITLE;Los cristales de guardado
+TIPS_QUEST_TITLE;Una aventura inolvidable
+TIPS_AVIRITY_TITLE;Asignación de habilidades
+TIPS_MAP_TITLE;El mapa
+TIPS_WORLDMAP_TITLE;Viajar en barco volador
+TIPS_AUTO_TITLE;Acelerar los combates
+TIPS_FASTFORWARD_TITLE;Acelerar las conversaciones
+TIPS_ALMAGEM_TITLE;Las gemalmas
+TIPS_ALTOBOX_TITLE;Los holocubos
+TIPS_ARENA_TITLE;El Coliseo
+TIPS_ARENA_TITLE_02;Reglas del Coliseo
+TIPS_MINIGAME_TITLE;Minijuegos
+TIPS_NETWORK_TITLE;Combates multijugador
+TIPS_NETWORK_TITLE_02;Reglas de combates multijugador (primera parte)
+TIPS_NETWORK_TITLE_03;Reglas de combates multijugador (segunda parte)
+TIPS_NETWORK_TITLE_04;Modos de combate multijugador (primera parte)
+TIPS_NETWORK_TITLE_05;Modos de combate multijugador (segunda parte)
+TIPS_NETWORK_TITLE_06;Número de sala
+TIPS_NETWORK_TITLE_07;Guardado automático en multijugador
+TIPS_NETWORK_TITLE_08;Intercambio de mirages
+TIPS_RENAMECARD_TITLE;Cambio de nombre
+TIPS_WINGLOAD_TITLE;Corrientes etéreas
+TIPS_SPSKILL_TITLE;Las habilidades especiales
+TIPS_HIDEOUT_TITLE;Áreas ocultas
+TIPS_RESERVE_TITLE_04;3221225472
+TIPS_RESERVE_TITLE_05;3221225472
+TIPS_RESERVE_TITLE_06;3221225472
+TIPS_RESERVE_TITLE_07;3221225472
+TIPS_RESERVE_TITLE_08;Los miralitos
+TIPS_RESERVE_TITLE_09;3221225472
+TIPS_RESERVE_TITLE_10;¡Cuidado con los escualos!
+TIPS_RESERVE_TITLE_11;Los rastreadores
+TIPS_RESERVE_TITLE_12;Los trampolines mágicos
+TIPS_RESERVE_TITLE_13;Los puntos de experiencia
+TIPS_RESERVE_TITLE_14;Aventuras tras finalizar el juego
+TIPS_RESERVE_TITLE_15;Hauyn
+TIPS_RESERVE_TITLE_16;Los viajes astrales
+TIPS_RESERVE_TITLE_17;Elegir tu propio objetivo
+TIPS_RESERVE_TITLE_18;Invocaciones mediante el menú Simple
+TIPS_RESERVE_TITLE_19;Viajes astrales de la chica sin nombre
+TIPS_RESERVE_TITLE_20;Los elementos y los estados alterados o beneficiosos
+TIPS_RESERVE_TITLE_21;Tienes a tu disposición la evocación secreta del Dios Omega.
+TIPS_RESERVE_TITLE_22;Tienes a tu disposición la pingüentrada del Coliseo.
+TIPS_RESERVE_TITLE_23;Tienes a tu disposición la pipoentrada del Coliseo.
+TIPS_ATB_INFO;¡Prepárate! Ha llegado la hora de luchar. Durante un combate, el más rápido actuará en primer lugar, un sistema conocido como [#ffff00ff]Batalla en Tiempo Continuo[/#] (BTC). ¿Ves esa barra fina a la izquierda? Cada rostro representa a alguien en combate, y cuando el icono llegue a la parte superior de la barra, ese personaje podrá elegir la acción que desee. No olvides que puedes usar el [#ffffffff][i22][/#] para cambiar entre los personajes que estén listos para actuar.
+TIPS_COMAND_INFO;"Las habilidades y hechizos se asignan de forma automática a [#FFFFFAF0][i03][i04][i05][i06][/#]
+TIPS_COMAND_INFO_01;Las acciones se irán asignando a los botones en el orden en que las aprendas, pero puedes reorganizarlas en el menú cuando quieras. ¡Configura los botones como más te convenga!
+TIPS_BATTLEMODE_INFO;Existen tres tipos diferentes de sistema de combate a tu disposición: los modos [#ffff00ff]Activo[/#], [#ffff00ff]Semiactivo[/#] y [#ffff00ff]En espera[/#]. En el modo Activo, el tiempo transcurre aunque no realices ninguna acción, de forma que el combate se desarrolla con rapidez y sin interrupciones.
+TIPS_BATTLEMODE_INFO_00;Modo Semiactivo
+TIPS_BATTLEMODE_INFO_01;En el modo En espera, el tiempo se detiene durante tu turno para que selecciones la acción que desees. En la opción [#ffff00ff]Modo de combate[/#] del menú [#ffff00ff]Configuración[/#] puedes seleccionar entre estos tres modos. Si el modo Activo resulta más complicado la primera vez que juegues, prueba a seleccionar En espera. Cuando te hayas acostumbrado a los combates, puedes cambiarlo de nuevo.
+TIPS_COMANDMANU_INFO;Otro consejo más: durante un combate, pulsa [#FFFFFAF0][i08][/#] para acceder al menú de acciones. Se conoce como [#ffff00ff]menú Clásico[/#] porque a mucha gente le recuerda a los días de antaño.
+TIPS_COMANDMANU_INFO_01;Algunas de las acciones solo están disponibles en el menú Clásico, como [#ffff00ff]Objetos[/#] o [#ffff00ff]Escapar[/#]. Ten cuidado con el paso del tiempo, pues variará según juegues en los modos Activo o En espera. Por cierto, mediante el menú Clásico puedes elegir los objetivos, algo muy útil si quieres más control en un combate.
+TIPS_AP_INFO;Para usar habilidades, hechizos u otras acciones en combate necesitas PA ([#ffff00ff]puntos de acción[/#]), los cuales recuperas automática y gradualmente al llegar tu turno o emplear un ataque eficaz contra un enemigo.
+TIPS_AP_INFO_01;Cuanto más poderosa sea una habilidad, más PA requerirá, así que no los malgastes y úsalos para lanzar los ataques más devastadores. La mayoría de los mirages tienen puntos débiles: descúbrelos para infligir más daño y obtener PA adicionales. ¡Facilitarán mucho tu victoria!
+TIPS_ENEMYINFO_INFO;Puedes pulsar [#FFFFFAF0][i01][/#] durante el combate para ver información sobre los mirages contra los que estás luchando. Si usas el hechizo [#ffff00ff]Libra[/#], obtendrás información aún más detallada. ¡Es muy útil! Otro consejo: tras pulsar [#FFFFFAF0][i01][/#] prueba a utilizar [#FFFFFAF0][i09][/#] y [#FFFFFAF0][i08][/#] para cambiar entre las fichas de los combatientes.
+TIPS_TIPS_INFO;Todos los tutoriales están disponibles en la opción [#ffff00ff]Sabiduría popular[/#] del menú principal. Ahí se añadirá información que no encontrarás en ningún otro sitio, así que échale un vistazo con frecuencia, aunque creas que lo tienes todo dominado.
+TIPS_PRIMERO_INFO;En Grymoire se usa el término [#ffff00ff]pezqueco[/#] para la gente de pequeña estatura, mientras que los [#ffff00ff]kolosos[/#] son más grandes. Pulsa [#FFFFFAF0][#FFFFFFFF][i8][/#][/#] y [#FFFFFAF0][#FFFFFFFF][i5][/#][/#] para que Lann cambie de tamaño, y para que lo haga Reynn, pulsa [#FFFFFAF0][#FFFFFFFF][i8][/#][/#] y [#FFFFFAF0][#FFFFFFFF][i3][/#][/#].
+TIPS_PRIMERO_INFO_01;Puedes escoger la apariencia que quieras, pero recuerda que empezarás el combate en esa forma, así que tenlo en cuenta a la hora de crear las formaciones.
+TIPS_CHANGE_INFO;Pulsa [#FFFFFAF0][i09][/#] para cambiar el líder del grupo entre Lann y Reynn. ¡Prueba a cambiar de líder y apariencia!
+TIPS_CHANGE_INFO_01;Quién sea el líder del grupo no afecta al combate, así que no te preocupes por eso. Pero elige bien entre pezqueco o koloso, porque eso sí cambiará la formación con la que luches. ¡Escoge sabiamente!
+TIPS_HOKAKU_INFO;Para capturar un mirage necesitas un prisma vacío diseñado para ese tipo de mirage en concreto. No te preocupes por cómo conseguirlos: Enna Kros te los proporcionará la primera vez que te topes con una nueva especie de mirage.
+TIPS_HOKAKU_INFO_01;Por magnánima que sea, no te entregará todos los prismas de golpe, pues eso no tendría gracia alguna. Con el tiempo podrás capturar todos los mirages que veas, pero es recomendable fortalecer los que tienes antes de hacerte con otros.
+TIPS_GARDENJEM_INFO;Los prismas que contienen un mirage se llaman [#ffff00ff]prismáriums[/#] y te permiten usar dicho mirage en combate. Si observas un prismárium de cerca, podrás ver en su interior un pequeño mundo, como si fuera un acuario en miniatura.
+TIPS_GARDENJEM_INFO_01;Para capturar un mirage, usa un prisma vacío. Cuando lo hayas capturado, el prisma pasará a ser un prismárium y podrás añadir el mirage a una torre para que luche a tu lado. Los prismas no se gastan aunque falles al capturar un mirage, ¡así que no desistas!
+TIPS_HOKAKUCHANCE_INFO;Para poder capturar un mirage tienen que darse unas condiciones específicas que no duran mucho tiempo, ¡así que aprovecha la oportunidad cuando surja!
+TIPS_HOKAKUCHANCE_INFO_01;A veces tan solo hará falta un buen mamporro para hacerte con un mirage, pero en caso de que la fuerza bruta no funcione, tendrás que descubrir otro método. Las condiciones de captura varían según el tipo de mirage. El hechizo Libra te vendrá de perlas para conseguir pistas.
+TIPS_NOSENOSE_INFO;Cuando te colocas un mirage sobre la cabeza para formar una torre, los atributos (como la vitalidad) de todos los miembros se combinan, y según quién forme parte de una torre, las habilidades y los hechizos pueden variar. Algunas habilidades poderosas solo están disponibles cuando se acoplan mirages específicos. Lann y Reynn siempre serán más fuertes acoplados que en solitario, pero existe una desventaja: los puntos débiles de cada miembro se añaden a toda la formación, y eso puede acarrear problemas.
+TIPS_BARABARA_INFO;Cuando los miembros de una torre no están acoplados por circunstancias varias, luchan en solitario y pueden usar acciones por separado. ¡A veces resulta muy útil! Los beneficios de una torre son obvios, pero permanecer en solitario permite repartir el daño y las debilidades entre todos los miembros, con lo que las posibilidades de supervivencia aumentan.
+TIPS_BARABARA_INFO_01;"Por ejemplo, si envenenan o noquean a una torre, todos los miembros de esa torre sufrirán ese efecto, pero si los miembros están en solitario, tan solo el objetivo se verá afectado
+TIPS_PARTY1_INFO;Puedes decidir qué mirages te acompañarán en combate en el menú [#ffff00ff]Formaciones[/#]. Crea torres para los tamaños pezqueco y koloso, y prepárate para cualquier combate.
+TIPS_PARTY1_INFO_01;¡Presta atención al abecé de las formaciones! Solo puedes colocar mirages más pequeños que Lann y Reynn sobre su cabeza, así que los que sean más grandes tendrán que ir debajo de ellos. Una torre puede estar compuesta por un máximo de tres miembros. ¡Prueba todo lo que quieras!
+TIPS_PARTY2_INFO;"Reynn y Lann pueden alternar entre los tamaños pezqueco y koloso siempre que quieras. Cuando sean kolosos, los mirages se acoplarán encima de ellos
+TIPS_PARTY2_INFO_01;Quizá sea más fácil imaginarse la posición en la torre según el tamaño:[~]- Grande (L): debajo del todo.[~]- Medio (M): como indica su nombre, ¡en medio![~]- Pequeño (S): encima del todo.[~]Los kolosos son tamaño L y los pezquecos tamaño M. Es decir, Lann y Reynn estarán siempre debajo del todo o en medio de la formación. Fácil, ¿a que sí?
+TIPS_BORD_INFO;Los tableros mirágicos contienen todas las habilidades que los mirages pueden aprender, ya sean técnicas, hechizos, habilidades pasivas... Hay un gran abanico a tu disposición. Cada vez que un mirage sube de nivel obtiene [#ffff00ff]puntos de habilidad[/#] (PH), que sirven para que aprenda nuevas habilidades.
+TIPS_BORD_INFO_01;Ten en cuenta que para aprender algunas habilidades, se han de cumplir ciertos requisitos. ¡Intenta aprender todas las que puedas!
+TIPS_HENSHINKA_INFO;Los mirages no olvidan las habilidades aprendidas antes de la transfiguración, lo que quiere decir que un mirage al que transfigures será más poderoso que uno que captures ya transfigurado.
+TIPS_HENSHINKA_INFO_01;Un mirage puede transfigurar entre las formas que tenga desbloqueadas, aunque con un pero: solo puede hacerlo en la Caja prismática. Puedes llamar a Serafie con un seráfono para que lleve la Caja prismática, donde quieras y cuando quieras.
+TIPS_HENSHINKA_WAZA_INFO;Algunos mirages cuentan con habilidades especiales que solo ellos pueden aprender y que no comparten con sus formas transfiguradas. Descubre cuáles son y sácales el mayor provecho posible. Puede que Tama lance rayos por los ojos.
+TIPS_HENSHINKA_WAZA_INFO_01;Esa última línea seguramente la haya añadido Tama a este tutorial mediante algún poder mágico oculto. No, Tama no lanza rayos por los ojos, ¡qué cosas!
+TIPS_DARKCREVASS_INFO;En las [#ffff00ff]fisuras lúgubres[/#] suelen habitar mirages extraños y muy feroces. Si te adentras en una, prepárate a conciencia. 
+TIPS_DARKCREVASS_INFO_01;La mayoría de esos mirages serán demasiado poderosos la primera vez que te enfrentes a ellos, así que será mejor que vuelvas a ese lugar cuando seas más fuerte.
+TIPS_GAMEOVER_INFO;Si derrotan al equipo entero, Tama se encargará de llevar a los gemelos a Colina Nonarboleda. No perderás nada si te derrotan, pero tendrás que regresar de nuevo al lugar donde te vencieron. Es, por así decirlo, una especie de <QUOT>retirada táctica<QUOT>. Si te encuentras en el interior del dominio de un mirage poderoso, Tama no podrá usar sus poderes para salvarte el pellejo, así que ten cuidado.
+TIPS_SHOP_INFO;Chocolatte tiene la costumbre de recoger toda suerte de objetos allá adonde va y te los venderá a cambio de guiles grymoirianos. Sácales partido a esos guiles que con tanto sudor has conseguido en los combates.
+TIPS_SHOP_INFO_01;Cuando regreses a Colina Nonarboleda, pásate por la tienda de Chocolatte para hacer algunas compras y comprobar qué nuevos objetos tiene, pues a medida que pase el tiempo sus mercancías variarán.
+TIPS_NOTGET_INFO;Algunos mirages están obligados a servir a su amo en contra de su voluntad, y eso se aprecia por las cadenas visibles alrededor de sus almas. Estos mirages no se pueden capturar, por mucho que lo intentes.
+TIPS_NOTGET_INFO_01;La única manera de capturarlos es derrotar primero a su amo para así librarlos de las cadenas. Aunque para ello tendrás que encontrar al amo, y eso puede ser un poco más complicado...
+TIPS_DOSSHIRI_INFO;Puedes activar los [#ffff00ff]altares misteriosos[/#] presentes en algunas mazmorras colocando mirages encima de ellos. No temas: casi siempre encontrarás los mirages necesarios en la misma mazmorra, por lo que no tendrás que alejarte demasiado.
+TIPS_DOSSHIRI_INFO_01;"Los altares, repartidos a lo largo y ancho de Grymoire, responden al peso y a la resistencia elemental de cada mirage
+TIPS_TERRITORY_INFO;Los mirages poderosos crean sus propios dominios y Tama no puede hacer regresar a Lann y Reynn a Colina Nonarboleda desde su interior, así que ten mucho cuidado. En pocas palabras: enemigo poderoso + derrota = fin de la partida. Asegúrate de guardar la partida y de prepararte bien antes de entrar en un dominio.
+TIPS_TERRITORY_INFO_01;Otro consejo: los mirages más poderosos se fusionan con el dominio que crean, así que resulta imposible capturarlos. Sin embargo, el dominio desaparecerá al derrotarlos, con lo que puede que logres capturar el mirage la próxima vez que te topes con él.
+TIPS_GEMCASE_INFO;"La Caja prismática que Enna Kros ha prestado a Serafie permite almacenar todos los prismáriums que reúnas durante tus aventuras. También puedes transfigurar los mirages en el interior de la Caja prismática tantas veces como quieras
+TIPS_GEMCASE_INFO_01;Serafie guarda la Caja prismática en Colina Nonarboleda, y para usarla tan solo tienes que hablar con tu hada favorita o acceder a ella desde cualquier punto de Grymoire a través de un cristal de guardado o los portales.
+TIPS_SABER_INFO;Un iluminado es alguien que tiene el potencial de convertirse en un protector. El Guerrero de la Luz, por ejemplo, era un iluminado. 
+TIPS_SABER_INFO_01;Si tienes el emblema del Guerrero de la Luz, podrás invocarlo durante un combate para que te ayude. Hay muchos iluminados en Grymoire, pero tendrás que descubrir quién alberga el poder de un protector en su interior...
+TIPS_CALLINGBADGE_INFO;Al otro lado de la extraña puerta en Colina Nonarboleda puedes cambiar [#ffff00ff]gemalmas[/#] por [#ffff00ff]emblemas de protector[/#]. Las gemalmas son objetos raros que se pueden encontrar en cualquier lugar. ¡Consigue todas las que puedas!
+TIPS_CALLINGBADGE_INFO_01;Un emblema de protector es la prueba de que has despertado a un protector. Tan solo puedes llevar tres al mismo tiempo, así que elígelos bien.
+TIPS_SABERENAGY_INFO;La esfera de protector sirve para invocar protectores durante un combate y se rellena mientras luchas, hasta un máximo de tres estrellas. Ten en cuenta que el coste de invocación varía dependiendo del protector que quieras usar.
+TIPS_SABERENAGY_INFO_01;Al invocar un protector estás cambiando las leyes de este mundo, pero las reglas no pueden cambiarse. Es, por así decirlo, una especie de paradoja, pues lo imposible es posible, o probable, siempre y cuando se esté dispuesto a pagar una buena cantidad de... Enna Kros debería explicarlo en algún momento.
+TIPS_MIRASTONE_INFO;Los [#ffff00ff]miralitos[/#] son extrañas piedras preciosas que se obtienen al extraer y cristalizar las habilidades de los mirages. Consíguelos y añádelos al equipo de Lann y Reynn para que puedan usar sus habilidades.
+TIPS_MIRASTONE_INFO_01;A medida que Lann y Reynn suban de nivel y cumplan ciertas condiciones, podrán equiparse con más miralitos, hasta un máximo de ocho.
+TIPS_BOOK_INFO;¿Te has percatado de los huecos vacíos en los tableros mirágicos? Puedes plantar en ellos semillas y obtener toda suerte de hechizos y habilidades. Por ejemplo, si usas una semilla de Hielo en un hueco vacío del tablero mirágico de un ifritito, este aprenderá el hechizo [#ffff00ff]Hielo[/#]. ¡Usa las semillas para personalizar los mirages a tu gusto!
+TIPS_BOOK_INFO_01;Podrás comprar semillas en la tienda o encontrarlas en todo tipo de lugares. Además, puedes reemplazar las habilidades aprendidas por otras nuevas cuando quieras. Piensa qué habilidades prefieres que aprendan tus mirages, pero no te preocupes: podrás cambiarlas más tarde.
+TIPS_MEGAMIRAGE_INFO;Los poderosos [#ffff00ff]megamirages[/#] no pueden asignarse en el menú Formaciones, sino que los puedes invocar durante un combate, aunque has de combinar los PA de Reynn y Lann. Si los retiras de un combate tendrás que esperar un rato para invocarlos de nuevo.
+TIPS_MEGAMIRAGE_INFO_01;Los megamirages son tan enormes que, al invocar uno, los demás mirages del grupo regresarán a sus prismáriums. Los megamirages luchan hasta quedarse sin VIT o hasta que Lann y Reynn se queden sin PA.
+TIPS_MASTER_INFO;Cuando un mirage aprende todas las habilidades de su tablero mirágico, se le otorga una estrella, la cual puedes canjear para que aprenda una habilidad nueva de entre un abanico de poderosas habilidades adicionales. ¡Elige la que más te guste!
+TIPS_MASTER_INFO_01;Lleva mucho tiempo completar un tablero mirágico, por lo que es una especie de recompensa. Con las semillas y la habilidad adicional que consigas al completarlo, ¡tus mirages serán únicos!
+TIPS_TOKOTOKO_INFO;Los mirages que aprenden la habilidad [#ffff00ff]Escolta[/#] siguen a Lann y Reynn a todos sitios. Si cuentas con más de un mirage al mismo tiempo que haya aprendido esta habilidad, puedes cambiar entre ellos pulsando [#FFFFFAF0][i24][/#].
+TIPS_TOKOTOKO_INFO_01;Los mirages que te acompañen encontrarán de vez en cuando objetos útiles. Prueba a llevarlos a diferentes lugares, ¡a ver qué encuentran!
+TIPS_NORINORI_INFO;La habilidad [#ffff00ff]Montura[/#] permite a Lann y Reynn montar sobre un mirage, incluso en el interior de una mazmorra. ¡Te lo pasarás bomba! 
+TIPS_NORINORI_INFO_01;Pulsa [#FFFFFAF0][i13][/#] para subirte a lomos de ese mirage o cambiar de montura si otro mirage de tu grupo cuenta con esa habilidad. Si pulsas [#FFFFFAF0][i15][/#] te desmontarás del mirage.
+TIPS_FIRE_INFO;3221225472
+TIPS_FIRE_INFO_01;[#ffff00ff]Prender fuego[/#] te permite quemar plantas o descongelar bloques de hielo que te impidan el paso. Ah, y también puede prender la mecha de algo concreto. Lleva contigo un mirage que conozca la habilidad y, cuando veas el icono [#FFFFFAF0][i410][/#], examínalo para prender fuego a ese objeto.
+TIPS_FREEZE_INFO;¿Conoces la habilidad [#ffff00ff]Helar[/#]? Gracias a ella puedes atravesar una zona de agua, por ejemplo. ¡A veces funciona incluso con ríos de lava! Útil, ¿eh? Puedes helar todo lo que aparezca indicado con el icono [#FFFFFAF0][i411][/#]. 
+TIPS_FREEZE_INFO_01;Como es lógico, necesitarás un mirage en tu equipo que conozca esa habilidad, así que sácalo de la Caja prismática si no forma parte de tu grupo actual.
+TIPS_ELECTRIC_INFO;Pasemos a explicar la habilidad [#ffff00ff]Chispas[/#]. Gracias a ella podrás cargar con electricidad ciertos objetos. Bastante obvio, ¿no? Puedes activar máquinas y dispositivos, y funciona con cualquier objeto que tenga el icono [#FFFFFAF0][i412][/#] sobre él.
+TIPS_ELECTRIC_INFO_01;Quizá te sorprenda saber que hay máquinas en Grymoire. Lo cierto es que es posible que provengan de otros mundos... Te encontrarás con alguna que otra, ¡aunque no demasiadas!
+TIPS_BREAK_INFO;Hablemos acerca de la habilidad [#ffff00ff]Destrozar[/#]. Gracias a ella harás añicos rocas y otros obstáculos que te impidan el paso. Puedes usarla donde veas el icono [#FFFFFAF0][i413][/#].
+TIPS_BREAK_INFO_01;Por lo general son los mirages más pesados los que cuentan con esta habilidad, así que es mejor no esperar que Tama la aprenda, que ha pagado la cuota del gimnasio pero no va nunca.
+TIPS_FRYING_INFO;Mediante la habilidad [#ffff00ff]Vuelo[/#] podrás volar durante un pequeño tramo y acceder así a zonas a las que Lann y Reynn no pueden llegar por su cuenta. Usa Vuelo en lugares indicados con el icono [#FFFFFAF0][i416][/#].
+TIPS_FRYING_INFO_01;Tama, por mucho que vuele, no tiene la fuerza suficiente para llevar en volandas a los gemelos, y aunque la tuviera, seguramente se negaría en redondo.
+TIPS_TEREPOSTONE_INFO;La [#ffff00ff]teleportita[/#], que puedes usar tantas veces como quieras, te permite regresar a la entrada de una mazmorra al instante. Quizá te lleve un rato volver al lugar donde estuvieras, pero te vendrá bien para curarte, ir a Colina Nonarboleda o reorganizar tu equipo.
+TIPS_SHERAPHONE_INFO;El [#ffff00ff]seráfono[/#] es un objeto especial que sirve para invocar a Serafie dondequiera que estés. Ella traerá consigo la Caja prismática, así que podrás acceder a todos tus prismáriums y transfigurar tus mirages.
+TIPS_SHERAPHONE_INFO_01;Recuerda que los seráfonos son de un único uso, quizá porque Serafie pasa de to... Es decir, es por protección de datos.
+TIPS_GATE_INFO;"Grymoire está salpicado de portales a través de los cuales puedes regresar a Colina Nonarboleda
+TIPS_GATE_INFO_01;Los [#ffff00ff]portales de salida[/#], sin embargo, son de dirección única y no se puede acceder a ellos desde el portal principal en Colina Nonarboleda, por lo que solo sirven para abandonar las mazmorras.
+TIPS_SAVE_INFO;Los [#ffff00ff]cristales de guardado[/#] se forman de manera natural en diversas ubicaciones de todo Grymoire, sobre todo en los lugares más peligrosos. Por lo general, en ellos puedes restablecer la VIT y los PA de Lann y Reynn, guardar tu partida e invocar a Serafie.
+TIPS_SAVE_INFO_01;Son un remanso de paz y tranquilidad, así que recuerda dónde están ubicados y asegúrate de guardar tu progreso siempre que puedas.
+TIPS_QUEST_INFO;Los sucesos durante tus aventuras quedan registrados en el [#ffff00ff]Diario[/#], el cual puedes leer en cualquier momento desde el menú principal.
+TIPS_QUEST_INFO_01;La opción [#ffff00ff]Misiones secundarias[/#] te permite ver información sobre encargos y viajes astrales que hayas completado, consultar los objetivos y resúmenes de los mismos, e incluso recoger las recompensas.
+TIPS_AVIRITY_INFO;Para cambiar las habilidades asignadas a los botones, accede al menú [#ffff00ff]Habilidades[/#] en el menú principal. Se asignan de forma automática nada más aprenderse, pero siempre puedes reemplazarlas o reasignarlas desde el menú Habilidades.
+TIPS_MAP_INFO;Si pulsas [#FFFFFFFF][i0][/#] dentro de una mazmorra, se mostrará el mapa de la misma, además de una lista de los mirages autóctonos, tu objetivo e información variopinta (cristales de guardado, ubicación de portales, etcétera). Si en algún momento te pierdes, ¡saca el mapa! En cuanto entres en un área nueva, el mapa se actualizará y mostrará toda esa nueva zona.
+TIPS_WORLDMAP_INFO;¡Ha llegado la hora de surcar los cielos! Abre el mapamundi y pulsa [#FFFFFAF0][i05][/#] para ponerte al timón. La lista de destinos sigue a tu disposición, pero como se trata de un barco volador, ¿por qué no aprovechas para explorar el mundo? Quién sabe, ¡quizá descubras nuevos mirages!
+TIPS_AUTO_INFO;¿Te gusta la acción frenética? Entonces este consejo te será de gran ayuda: mantén pulsado [#FFFFFAF0][i09][/#] durante el combate para que la velocidad aumente. También puedes pulsar [#FFFFFAF0][i00][/#] para activar el modo de combate Automático, en cuyo caso todo tu equipo luchará de forma automática.
+TIPS_AUTO_INFO_03;"Al mantener pulsado [#FFFFFAF0][i09][/#], el tiempo correrá igual de rápido para los enemigos, así que tenlo en cuenta si juegas en el modo Activo, pues les llegará el turno en un visto y no visto. En el modo Automático, cada miembro repetirá su última acción
+TIPS_FASTFORWARD_INFO;¿Eres impaciente? Aquí tienes un truco: cuando no estés en un combate, mantén pulsado [#FFFFFAF0][i09][/#] para pasar rápidamente las conversaciones, y si quieres saltarte una escena, pulsa primero [#FFFFFAF0][i01][/#] y, luego, [#FFFFFAF0][i04][/#].
+TIPS_FASTFORWARD_INFO_01;Eso sí, con esta última opción te saltarás toda la escena y no sabrás qué ha ocurrido. Quizá sea útil si juegas por segunda vez.
+TIPS_ALMAGEM_INFO;Las gemalmas pueden ser muy complicadas de encontrar, pero también son muy útiles. Entrégaselas a la chica sin nombre, que se encuentra en la habitación al otro lado de la puerta misteriosa en Colina Nonarboleda, para que te asigne misiones especiales.
+TIPS_ALMAGEM_INFO_01;Sin embargo, también las querrás para los emblemas de protector, así que no las malgastes. Una pista: podrás conseguir muchas en cierto lugar misterioso. ¡Suerte con la búsqueda!
+TIPS_ALTOBOX_INFO;Los holocubos son artefactos especiales diseñados para atrapar mirages mecánicos. Chocolatte suele encontrar alguno que otro, así que pásate por su tienda y cómpraselos. 
+TIPS_ALTOBOX_INFO_01;Los holocubos no fueron creados en Grymoire y parece que Enna Kros los recuerda con melancolía. Cuanto más débiles son los límites de un mundo, mayores son las posibilidades de... Bueno, eso es una explicación para otro momento.
+TIPS_ARENA_INFO;En el Coliseo, Lann y Reynn pueden enfrentarse de nuevo a poderosos mirages con los que se han topado durante sus aventuras.
+TIPS_ARENA_INFO_01;Podrás desbloquear nuevos retos al derrotar enemigos poderosos en el Coliseo y a medida que avances en la historia.[~][~]Pásate por el Coliseo tras terminar un episodio y comprueba qué nuevos retos tienes a tu disposición.
+TIPS_ARENA_INFO_03;- Recibirás una recompensa especial la primera vez que derrotes a un rival determinado, pero si vuelves a vencerlo, la recompensa será diferente. [~]- Al comienzo de un combate tu VIT y tus PA estarán al máximo, pero no así tu esfera de protector, que estará vacía.[~]- Si abandonas el Coliseo, la VIT, los PA y la barra de protector volverán a ser los mismos que cuando entraste al Coliseo.[~]- No puedes escapar de un combate.
+TIPS_ARENA_B_INFO;3221225472
+TIPS_ARENA_B_INFO_01;3221225472
+TIPS_MINIGAME_INFO;3221225472
+TIPS_NETWORK_INFO;Para participar en [#ffff00ff]combates multijugador[/#], tendrás que crear una formación multijugador, con al menos un mirage en cada torre. Puedes guardar hasta tres formaciones en total, cada una con sus propios atajos de botones. Recuerda que puedes usar el mismo mirage en varias formaciones multijugador.
+TIPS_NETWORK_INFO_01;En los combates multijugador se aplican estas reglas:[~][~]1) Cada torre comienza con 4 PA.[~]2) Tus torres aparecen a la derecha de la pantalla y las del adversario a la izquierda.[~]3) La duración máxima del combate es de cinco minutos.[~]4) El nivel de los mirages se ajusta a nivel 50, independientemente de su nivel real.[~]5) No se puede: acelerar el combate, activar el modo Automático o comprobar la información de los mirages.
+TIPS_NETWORK_INFO_02;En los combates multijugador se aplican estas reglas:[~][~]6) No están disponibles las siguientes acciones: Protector, Megamirage, Capturar o Escapar.[~]7) Solo se pueden usar los objetos proporcionados.[~]8) Lann y Reynn no pueden participar.[~]9) Algunas habilidades, como Libra, no están disponibles o no surten efecto.[~]10) Los combates multijugador tienen lugar siempre en modo Activo y la velocidad está fijada en 3.
+TIPS_NETWORK_INFO_03;Existen dos tipos de combates multijugador.[~][~]En el primero, <QUOT>Victoria por KO<QUOT>, se enfrentan dos torres rivales hasta que una de ellas derrota a la otra y se alza con la victoria.
+TIPS_NETWORK_INFO_04;"En el segundo, <QUOT>Victoria por puntos<QUOT>, las dos torres rivales se enfrentan en tres combates consecutivos:[~][~]1) Primer combate: se enfrentan las torres n.º 1 (izquierda de la pantalla) de cada jugador.[~]2) Segundo combate: se enfrentan las torres n.º 2 (derecha de la pantalla) de cada jugador.[~]3) Tercer combate: las dos torres de los jugadores se enfrentan entre sí.[~]4) Victoria en el primer o segundo combate: 1 punto
+TIPS_NETWORK_INFO_05;Cada sala creada para combates multijugador tiene un número. Puedes proporcionar ese número a los amigos con los que quieras jugar para que busquen tu sala y se unan.
+TIPS_NETWORK_INFO_06;La partida se guarda de forma automática después de cada combate multijugador o tras seleccionar [#ffff00ff]Combate multijugador[/#]. No apagues el equipo mientras se guarda la partida.
+TIPS_NETWORK_INFO_07;Durante el intercambio de mirages se aplican estas reglas:[~][~]1) No puedes intercambiar un mirage de nivel superior al Lann o Reynn del otro jugador.[~]2) Los hechizos o las habilidades que se hayan plantado en los huecos vacíos de los mirages que se intercambien se conservan.[~]3) No se pueden intercambiar mirages únicos como Tama.[~]4) Tras finalizar un intercambio recibirás un prisma vacío del mirage que hayas intercambiado.[~]5) Los mirages que obtengas mediante intercambios se envían directamente a tu Caja prismática.
+TIPS_NETWORK_INFO_08;STEAM NOT USED
+TIPS_NETWORK_INFO_09;La partida se guarda de forma automática en los siguientes casos:[~][~]1) Tras seleccionar Combate multijugador[~]2) Tras terminar un combate multijugador[~]3) Tras completar un intercambio[~][~]No apagues el equipo mientras se guarda la partida.
+TIPS_RENAMECARD_INFO;Puedes cambiar cuando quieras el nombre de un mirage mediante el cáliz bautismal, así que elige el nombre que más te guste.
+TIPS_WINGLOAD_INFO;Si pulsas [#FFFFFAF0][i05][/#] dentro de Colina Nonarboleda, accederás al menú de las corrientes etéreas y podrás seleccionar adónde viajar en un instante. Eso sí, Tama piensa que hay que andar un poco y hacer algo de deporte.
+TIPS_SPSKILL_INFO_01;Algunos hechizos con varios niveles pueden fusionarse. Por ejemplo, si sumas [#ffff00ff]Piro[/#], [#ffff00ff]Piro[/#] y [#ffff00ff]Piro+[/#] puedes usar el hechizo [#ffff00ff]Piro++[/#]. Así que ten en cuenta que formar torres con miembros que pertenecen al mismo elemento puede tener sus ventajas, pues sus habilidades se verán potenciadas. La habilidad [#ffff00ff]Fuego fatuo[/#] de Tama cuenta como hechizo o habilidad de Fuego, por cierto.
+TIPS_SPSKILL_INFO_02;Al formar una torre con mirages que cuenten con algún arma afilada, como una espada o un colmillo, se puede usar el [#ffff00ff]Ataque cruzado[/#]. Existen diversas posibilidades, así que prueba a combinar mirages.
+TIPS_SPSKILL_INFO_03;Algunos de los mirages y personajes de tamaño L cuentan con habilidades especiales que resultan letales. Por ejemplo, Reynn en tamaño koloso puede usar Armonización de diferentes elementos.
+TIPS_HIDEOUT_INFO;En casi todas las mazmorras existen áreas ocultas en las cuales habitan mirages raros. La mayoría de ellas solo podrás descubrirlas tras cumplir ciertas condiciones o activar algún mecanismo y quizá no puedas conseguirlo durante tu primera visita, así que prepárate bien y regresa más tarde.
+TIPS_RESERVE_INFO_05;3221225472
+TIPS_RESERVE_INFO_06;3221225472
+TIPS_RESERVE_INFO_07;3221225472
+TIPS_RESERVE_INFO_08;3221225472
+TIPS_RESERVE_INFO_09;Lann y Reynn pueden equipar miralitos que consigan en cofres, a través de los tableros mirágicos o en la tienda de Chocolatte, por ejemplo. Si les equipas miralitos adecuados según la torre podrán usar habilidades especiales.
+TIPS_RESERVE_INFO_10;3221225472
+TIPS_RESERVE_INFO_11;Los tibutrones que habitan en el Inframar son muy fuertes y seguramente no puedas derrotarlos la primera vez que los veas, así que será mejor que los evites a toda costa y te enfrentes a ellos en el futuro.
+TIPS_RESERVE_INFO_12;"¡Los rastreadores están patrullando! Si no te apetece entablar combate, busca algún sitio donde esconderte
+TIPS_RESERVE_INFO_13;Hay varias ubicaciones en el Gran Puente donde puedes saltar tal y como te enseñó Bartz. Aprende a saltar en el momento adecuado para evitar encuentros con algunos enemigos.
+TIPS_RESERVE_INFO_14;Los puntos de experiencia se reparten entre los miembros que han participado en un combate. Los mirages de tu grupo actual que no hayan combatido, con independencia de cuántos sean, recibirán un 8% de la experiencia total, que se repartirá entre todos. Los mirages que permanezcan en la Caja prismática, sin embargo, no obtienen experiencia, así que sácalos de ella para que suban de nivel.
+TIPS_RESERVE_INFO_15;¿Tienes ganas de más aventuras? En tal caso existen nuevas mazmorras disponibles, así que prepárate a conciencia. Cuando te apetezca poner tus habilidades a prueba, pásate por la habitación de la chica sin nombre y adéntrate en los portales que descubrirás allí.
+TIPS_RESERVE_INFO_16;Pulsa [#FFFFFAF0][i08][/#] y [#FFFFFAF0][i04][/#] para que Hauyn cambie de kolosa a pezqueca y viceversa. Con [#FFFFFAF0][i09][/#], además, se convertirá en la líder del grupo.
+TIPS_RESERVE_INFO_17;Los [#ffff00ff]viajes astrales[/#] son misiones especiales que recibirás de la chica sin nombre que te permitirán tocar el alma de quien te hayas encontrado durante tus aventuras. El pasado, presente y futuro no tienen razón de ser aquí, y por ello podrás ayudar a tus amigos en su lucha contra enemigos poderosos. El combate será arduo, pero la recompensa merecerá la pena. ¡No lo dudes y prueba un viaje astral!
+TIPS_RESERVE_INFO_18;Si usas el menú de combate Simple, puedes elegir con el botón hacia la izquierda o la derecha el objetivo. Puede resultar útil, ya que el objetivo se establece de forma automática.
+TIPS_RESERVE_INFO_19;Si usas el menú de combate Simple y tienes equipado algún emblema de protector, pulsa [#FFFFFAF0][i13][/#] para seleccionar el que quieras y, a continuación, [#FFFFFAF0][i03][/#] para invocarlo. Si cuentas con un megamirage en tu grupo, pulsa [#FFFFFAF0][i15][/#] para seleccionarlo y, luego, [#FFFFFAF0][i03][/#] para invocarlo.
+TIPS_RESERVE_INFO_20;Si completas todos los viajes astrales que te ofrece la chica sin nombre y derrotas a Brandelis por segunda vez, puede que Enna Kros te dé una sorpresa agradable.
+TIPS_RESERVE_INFO_21;La mayoría de los mirages son afines o débiles a ciertos elementos, y algunos muestran mayor resistencia a estados perjudiciales, como Veneno. A continuación se muestran los iconos de resistencias a elementos y estados perjudiciales: [~][~][#FFFFFAF0][i100][/#] Fuego [#FFFFFAF0][i101][/#] Hielo [#FFFFFAF0][i102][/#] Rayo [#FFFFFAF0][i104][/#] Aire [~][#FFFFFAF0][i105][/#] Agua [#FFFFFAF0][i103][/#] Tierra [#FFFFFAF0][i106][/#] Luz [#FFFFFAF0][i107][/#] Oscuridad[~][~][#FFFFFAF0][i108][/#] Veneno [#FFFFFAF0][i109][/#] Confusión [#FFFFFAF0][i110][/#] Sueño [#FFFFFAF0][i111][/#] Ceguera[~][#FFFFFAF0][i112][/#] Amnesia [#FFFFFAF0][i114][/#] Locura [#FFFFFAF0][i113][/#] Freno [#FFFFFAF0][i115][/#] Condena[~][~][#FFFFFAF0][i301][/#] Inmunidad [#FFFFFAF0][i300][/#] Absorción[~]
+TIPS_RESERVE_INFO_22;El estado de los mirages y personajes puede cambiar durante el curso del combate. Existen numerosas habilidades u objetos que confieren estados beneficiosos y perjudiciales a los combatientes durante un combate. A continuación se muestran los iconos correspondientes:[~][~][#FFFFFAF0][i117][/#] Aturdimiento [#FFFFFAF0][i118][/#] Coraza [#FFFFFAF0][i119][/#] Escudo [#FFFFFAF0][i120][/#] Espejo[~][#FFFFFAF0][i121][/#] Revitalia [#FFFFFAF0][i122][/#] Prisa [#FFFFFAF0][i123][/#] Bravura [#FFFFFAF0][i124][/#] Fe[~][#FFFFFAF0][i116][/#] Muerte [~][~][#FFFFFAF0][i125][i126][/#] Ataque físico↑/↓ [#FFFFFAF0][i127][i128][/#] Defensa física↑/↓[~][#FFFFFAF0][i129][i130][/#] Ataque mágico↑/↓ [#FFFFFAF0][i131][i132][/#] Defensa mágica↑/↓[~][#FFFFFAF0][i135][i136][/#] Puntería↑/↓ [#FFFFFAF0][i133][i134][/#] Evasión↑/↓ [~]
+TIPS_RESERVE_INFO_23;Evocación secreta del Dios Omega
+TIPS_RESERVE_INFO_24;Hay un nuevo viaje astral disponible en la habitación de la chica sin nombre.[~]Hazte con el daemonbot diseñado por Kunio Okawara.
+TIPS_RESERVE_INFO_25;Pingüentrada del Coliseo
+TIPS_RESERVE_INFO_26;¡Un nuevo reto te espera en el Coliseo![~]Esta es tu oportunidad de capturar a Pingü, uno de los sirvientes de la pingüirreina.
+TIPS_RESERVE_INFO_27;Tienes a tu disposición la pipoentrada del Coliseo.
+TIPS_RESERVE_INFO_28;¡Un nuevo reto te espera en el Coliseo![~]Esta es tu oportunidad de capturar a Pipo, uno de los sirvientes de la pingüirreina.
+LOADING_TIPS_TEST;Los cristales de guardado restablecen toda tu VIT y tus PA.
+LOADING_TIPS_GAMEOVER;Cuando derroten a tu equipo no perderás el dinero ni experiencia conseguidos, sino que regresarás a Parque Nexus.
+LOADING_TIPS_CHANGE;Puedes cambiar entre koloso y pezqueco. Para que Lann cambie de tamaño, pulsa [#FFFFFFFF][i8][/#] y [#FFFFFFFF][i5][/#], y para que lo haga Reynn, [#FFFFFFFF][i8][/#] y [#FFFFFFFF][i3][/#].
+LOADING_TIPS_AP;Para usar las habilidades y los hechizos necesitas puntos de acción (PA), que se restablecen durante el combate.
+LOADING_TIPS_00;Puedes montar sobre algunos de tus mirages en mazmorras y regiones exteriores, pero no en ciudades.
+LOADING_TIPS_01;Algunos mirages cuentan con un tema especial cuando montas sobre ellos, como el chocobo, aunque solo en determinadas regiones del mapa.
+LOADING_TIPS_02;Desde la habitación de los gemelos puedes acceder tanto a la miragepedia como a los archivos personales.
+LOADING_TIPS_03;Si necesitas comprar objetos, pásate por la tienda de Chocolatte en la Galería Norte.
+LOADING_TIPS_04;3221225472
+LOADING_TIPS_05;Si te has perdido, pulsa [#FFFFFFFF][i0][/#] para ver el mapa.
+LOADING_TIPS_06;Si quieres recapitular los acontecimientos sucedidos hasta el momento, elige Diario en el menú principal.
+LOADING_TIPS_07;Pulsa [#FFFFFFFF][i5][/#] en el mapa para ver todo el mapamundi.
+LOADING_TIPS_08;Pulsa [#FFFFFFFF][i5][/#] en el mapamundi para pilotar el barco volador.
+LOADING_TIPS_09;Puedes acceder a la Caja prismática desde un portal, un cristal de guardado o al usar un seráfono.
+LOADING_TIPS_10;Usa la teleportita para regresar a la entrada de la mazmorra en la que te encuentres.
+LOADING_TIPS_11;Puedes cambiar el nombre de la mayoría de tus mirages mediante el cáliz bautismal.
+LOADING_TIPS_12;Si pierdes un combate dentro de un dominio, la partida llegará a su fin y tendrás que retomarla desde el último punto de guardado.
+LOADING_TIPS_13;Durante un combate puedes recuperar un poco de estabilidad al defenderte. Puede resultar útil si tu torre se tambalea.
+LOADING_TIPS_14;Si están a punto derribar tu torre, es buena idea que te desacoples.
+LOADING_TIPS_15;Puedes comprobar los atributos de un mirage desde su tablero mirágico.
+LOADING_TIPS_16;Si dos mirages que pueden usar Piro forman una torre, podrán utilizar Piro+. Prueba diferentes combinaciones.
+LOADING_TIPS_17;Los mirages de elementos diferentes también pueden utilizar habilidades nuevas si forman una torre.
+LOADING_TIPS_18;Quizá puedas utilizar habilidades poderosas si los mirages que forman la torre cuentan con habilidades determinadas.
+LOADING_TIPS_19;Las semillas de habilidad se pueden utilizar en los huecos vacíos, y sirven tanto para cubrir los puntos débiles del mirage como para reforzar sus puntos fuertes.
+LOADING_TIPS_20;Desde el Diario puedes obtener la recompensa de los encargos.
+TIPS_COMAND_INFO_02;3221225472
+TIPS_BATTLEMODE_INFO_02;3221225472
+TIPS_BATTLEMODE_INFO_03;3221225472
+TIPS_COMANDMANU_INFO_02;3221225472
+TIPS_AP_INFO_02;3221225472
+TIPS_PRIMERO_INFO_02;3221225472
+TIPS_CHANGE_INFO_02;3221225472
+TIPS_HOKAKU_INFO_02;3221225472
+TIPS_GARDENJEM_INFO_02;3221225472
+TIPS_HOKAKUCHANCE_INFO_02;3221225472
+TIPS_NOSENOSE_INFO_01;3221225472
+TIPS_NOSENOSE_INFO_02;3221225472
+TIPS_BARABARA_INFO_02;3221225472
+TIPS_PARTY1_INFO_02;3221225472
+TIPS_PARTY2_INFO_02;3221225472
+TIPS_BORD_INFO_02;3221225472
+TIPS_HENSHINKA_INFO_02;3221225472
+TIPS_HENSHINKA_WAZA_INFO_02;3221225472
+TIPS_DARKCREVASS_INFO_02;3221225472
+TIPS_GAMEOVER_INFO_01;3221225472
+TIPS_GAMEOVER_INFO_02;3221225472
+TIPS_SHOP_INFO_02;3221225472
+TIPS_NOTGET_INFO_02;3221225472
+TIPS_DOSSHIRI_INFO_02;3221225472
+TIPS_TERRITORY_INFO_02;3221225472
+TIPS_GEMCASE_INFO_02;3221225472
+TIPS_SABER_INFO_02;3221225472
+TIPS_CALLINGBADGE_INFO_02;3221225472
+TIPS_SABERENAGY_INFO_02;3221225472
+TIPS_MIRASTONE_INFO_02;3221225472
+TIPS_BOOK_INFO_02;3221225472
+TIPS_MEGAMIRAGE_INFO_02;3221225472
+TIPS_MASTER_INFO_02;3221225472
+TIPS_TOKOTOKO_INFO_02;3221225472
+TIPS_NORINORI_INFO_02;3221225472
+TIPS_FIRE_INFO_02;3221225472
+TIPS_FREEZE_INFO_02;3221225472
+TIPS_ELECTRIC_INFO_02;3221225472
+TIPS_BREAK_INFO_02;3221225472
+TIPS_FRYING_INFO_02;3221225472
+TIPS_TEREPOSTONE_INFO_01;3221225472
+TIPS_TEREPOSTONE_INFO_02;3221225472
+TIPS_SHERAPHONE_INFO_02;3221225472
+TIPS_QUEST_INFO_02;3221225472
+TIPS_MAP_INFO_01;3221225472
+TIPS_MAP_INFO_02;3221225472
+TIPS_WORLDMAP_INFO_01;3221225472
+TIPS_WORLDMAP_INFO_02;3221225472
+TIPS_AUTO_INFO_01;3221225472
+TIPS_AUTO_INFO_02;3221225472
+TIPS_FASTFORWARD_INFO_02;3221225472
+TIPS_ALMAGEM_INFO_02;3221225472
+TIPS_ALTOBOX_INFO_02;3221225472
+TIPS_ARENA_INFO_02;3221225472
+TIPS_ARENA_B_INFO_02;3221225472
+KEYBOARD_TIPS_TOKOTOKO_INFO;Los mirages que aprenden la habilidad [#ffff00ff]Escolta[/#] siguen a Lann y Reynn a todos sitios. Si cuentas con más de un mirage al mismo tiempo que haya aprendido esta habilidad, puedes cambiar entre ellos pulsando [#FFFFFAF0][i14][i12][/#].
+KEYBOARD_TIPS_ATB_INFO;¡Prepárate! Ha llegado la hora de luchar. Durante un combate, el más rápido actuará en primer lugar, un sistema conocido como [#ffff00ff]Batalla en Tiempo Continuo[/#] (BTC). ¿Ves esa barra fina a la izquierda? Cada rostro representa a alguien en combate, y cuando el icono llegue a la parte superior de la barra, ese personaje podrá elegir la acción que desee. No olvides que puedes usar el [#ffffffff][i27][i26][/#] para cambiar entre los personajes que estén listos para actuar.

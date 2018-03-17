@@ -1,0 +1,773 @@
+﻿COMMON_EMPTY;<VACÍO>
+COMMON_ERROR;Error: <STR PARAM>
+COMMON_RELEASE;Eliminar
+COMMON_GIL;guiles
+COMMON_HELP_MESSAGE_TITLE;INFO.
+COMMON_EXPERIENTIAL;EXP
+COMMON_YES;Sí
+COMMON_NO;No
+COMMON_QUESTION_00;¿?
+COMMON_QUESTION_01;¿?
+COMMON_QUESTION_02;<SPACE><NUM PARAM> ¿?
+COMMON_LIBRARY_MIRAGE;Miragepedia
+COMMON_LIBRARY_PERSON;Archivos personales
+COMMON_LIBRARY_TUTORIAL;Sabiduría popular
+COMMON_LIBRARY_MOVIEVIEWER;Videoteca
+COMMON_NO_INF_00;---
+COMMON_NO_INF_01;-
+COMMON_NOT_LV;--
+COMMON_MIRAGE_HABITAT;Mirages descubiertos
+COMMON_MIRAGEBOARD;Tablero mirágico
+COMMON_ITEM;Objetos
+COMMON_ABILITY;Habilidades
+COMMON_MIRASTONE;Miralitos
+COMMON_DICTIONARY_ENTRY;Se ha añadido una entrada <MESID02 MONSTER_NAME><MESID01 MONSTER_NAME> a la miragepedia.
+COMMON_GET_GEM;Has obtenido el [#ffffff73]prismárium de <MESID01 MONSTER_NAME>[/#].
+COMMON_GET_ARUTOBOX;Has obtenido el [#ffffff73]holocubo <MESID02 MONSTER_NAME><MESID01 MONSTER_NAME>[/#].
+COMMON_NOSENOSE_ICON;<STR PARAM1><STR PARAM2>
+COMMON_PLAYERNAME_DEFAULT_00;Lann
+COMMON_PLAYERNAME_DEFAULT_01;Reynn
+COMMON_TOWERNAME_DEFAULT_00;Lann A
+COMMON_TOWERNAME_DEFAULT_01;Reynn A
+COMMON_TOWERNAME_DEFAULT_02;Lann B
+COMMON_TOWERNAME_DEFAULT_03;Reynn B
+COMMON_USE_ERROR;No se puede usar en este momento.
+COMMON_ABILITY_LIST;Habilidades propias
+COMMON_ITEM_NAME;<MESID00 ITEM>
+SUBMENU_ABILITY_DETAIL;Menú de habilidades
+SUBMENU_BODY_CHANGE;Cambiar tamaño
+SUBMENU_HENSINKA;Transfiguración
+SUBMENU_ADIEU;Liberar
+SUBMENU_FORMATION;Formación
+STATUS_STATUS;Atributos
+STATUS_LEVEL;Nv.
+STATUS_HP;VIT
+STATUS_AP;PA
+STATUS_HP_LONG;Vitalidad
+STATUS_AP_LONG;Puntos de acción
+STATUS_SP;PH
+STATUS_PHYSICAL_ATTACK;Ataque físico
+STATUS_PHYSICAL_DEFENSE;Defensa física
+STATUS_MAGIC_ATTACK;Ataque mágico
+STATUS_MAGIC_DEFENSE;Defensa mágica
+STATUS_AGILITY;Agilidad
+STATUS_DOSSIRI;Peso
+STATUS_RESIST_LIST;Resiliencia
+STATUS_ELEMENT_LIST;Resistencia a elementos
+STATUS_ABILITY_LIST;Habilidades disponibles
+STATUS_ABILITY_LIST2;Habilidades disponibles <NUM PAGE>
+STATUS_NEXTEXP;Siguiente nivel
+STATUS_NAME;3221225472
+STATUS_LIST;Información general
+STATUS_GROWTH;Tasa de desarrollo
+STATUS_ABILITY_LIST3;Habilidades de torre
+STATUS_ABILITY_LIST4;Habilidades de torre <NUM PAGE>
+STATUS_STR_PARAM_TAG;<STR PARAM>
+STATUS_NUM_PARAM_TAG;<NUM PARAM>
+STATUS_UP_DELTA;△
+STATUS_DOWN_DELTA;▼
+STATUS_INVALID_DELTA_PARAM_TAG;---
+STATUS_LEFT_PARENTHESES;(
+STATUS_RIGHT_PARANTHESES;)
+STATUS_EXP_MAX_PARAM_TAG;---
+MAINMENU_ITEM00;Tableros mirágicos
+MAINMENU_ITEM01;Objetos
+MAINMENU_ITEM02;Habilidades
+MAINMENU_ITEM03;Formaciones
+MAINMENU_ITEM04;Miralitos
+MAINMENU_ITEM06;Emblemas de protector
+MAINMENU_ITEM10;Diario
+MAINMENU_ITEM07;Sabiduría popular
+MAINMENU_ITEM08;Configuración
+MAINMENU_ITEM09;Guardar
+MAINMENU_HELP_ITEM00;Desbloquea el potencial de tus mirages.
+MAINMENU_HELP_ITEM01;Echa un vistazo a los objetos que tienes y usa algunos.
+MAINMENU_HELP_ITEM02;Comprueba y usa las habilidades o asígnalas a botones.
+MAINMENU_HELP_ITEM03;Modifica la formación de tus torres.
+MAINMENU_HELP_ITEM04;Equipa miralitos para que Lann y Reynn usen habilidades.
+MAINMENU_HELP_ITEM06;Equipa hasta tres emblemas para invocar protectores.
+MAINMENU_HELP_ITEM10;Recuerda los sucesos acaecidos hasta ahora.
+MAINMENU_HELP_ITEM07;Consulta información que puede serte muy útil.
+MAINMENU_HELP_ITEM08;Cambia la configuración del juego.
+MAINMENU_HELP_ITEM09;Guarda la partida.
+MAINMENU_HELP_MESSAGE_UNION_SELECT;Elige una torre.
+MAINMENU_HELP_MESSAGE_NAME_INPUT;Introduce un nombre.
+MAINMENU_TIME;Tiempo de juego
+MAINMENU_MONER_FIX_TEXT;Dinero
+MAINMENU_MONER_NUM_PARAM;<NUM MONERPARAM> <STR_MONER_NAME>
+BOARD_ACQUIRE_CONDITION;Condición de desbloqueo: consigue nivel <NUM PARAM> o superior.
+BOARD_ACQUIRE_CONDITION_01;Condición de desbloqueo: ¿?
+BOARD_ACQUIRE_CONDITION_02;Condición de desbloqueo: obtén <MESID04 ITEM> [#ffffff73]<MESID01 ITEM>[/#].
+BOARD_QUESTION_MASS_CONFIRM;¿Desbloquear?
+BOARD_QUESTION_BONUS_SELECT;Escoge una bonificación por maestría (<STR ICON>) de la lista.
+BOARD_QUESTION_BONUS_CONFIRM;¿Obtener <STR PARAM> a cambio de <STR ICON>?
+BOARD_QUESTION_BLANKITEM;¿Asignar nueva habilidad?
+BOARD_QUESTION_BLANKITEM_OVERRIDE;¿Sobrescribir con nueva habilidad?
+BOARD_BLANKITEM_NONE;No tienes semillas para asignar una habilidad a este hueco vacío.
+BOARD_QUESTION_BLANKITEM_CONFIRM;¿Quieres usar <MESID04 ITEM> [#ffffff73]<MESID01 ITEM>[/#] para aprender la habilidad?
+BOARD_QUESTION_BLANKITEM_CONFIRM_OVERRIDE;Perderás la habilidad actual. ¿Quieres continuar?
+BOARD_HELP_MESSAGE_MASS_EVOLUTION;Selecciona qué hueco quieres desbloquear.
+BOARD_HELP_MESSAGE_STONE;Obtienes <MESID04 STONE> [#ffffff73]<MESID01 STONE>[/#].
+BOARD_HELP_MESSAGE_MASS_GEM;Obtienes <MESID04 PARAM> [#ffffff73]<MESID01 PARAM>[/#].
+BOARD_HELP_MESSAGE_MASS_BLANK;Puedes usar semillas en este hueco para aprender nuevas habilidades.
+BOARD_HELP_MESSAGE_MASS_BLANK_OCCUPY;Puedes sobrescribir esta habilidad.
+BOARD_NOTICE_MASTER;Has completado el tablero mirágico de este mirage (<STR ICON>).
+BOARD_NOTICE_GET;Has obtenido <MESID03 PARAM> [#ffffff73]<MESID01 PARAM>[/#].
+BOARD_NOTICE_EVOLUTION;El mirage puede transfigurarse en <MESID04 PARAM><MESID01 PARAM>.
+BOARD_NOTICE_ACQUIRE_ABILITY;Habilidad aprendida: <STR PARAM>
+BOARD_NOTICE_ACQUIRE_BLANK;Hueco vacío desbloqueado.
+BOARD_NOTICE_SET_BLANK;Se ha asignado <STR PARAM> al hueco vacío.
+BOARD_NOTICE_NO_ITEM;No tienes objetos que puedas usar aquí.
+BOARD_NOTICE_GEM_OVER;No puedes portar más prismas.
+BOARD_NOTICE_STONE_OVER;No puedes portar más miralitos como este. Descarta alguno para hacer espacio.
+BOARD_NOTICE_SP;PH insuficientes.
+BOARD_NOTICE_TEXT;Descripción
+BOARD_NOTICE_BLANK;Hueco vacío
+BOARD_MASS_HENSINKA;Transfiguración en <MESID01 PARAM>
+BOARD_MASS_HENSINKA_00;Transfiguración (<STR PARAM>)
+BOARD_HELP_MESSAGE_MASS_HENSINKA;El mirage puede transfigurarse en <MESID04 PARAM><MESID01 PARAM>.
+BOARD_HELP_MESSAGE_MASS_HENSINKA_01;Desbloquea la transfiguración en <STR PARAM>.
+BOARD_HELP_MESSAGE_SELECT;Elige un mirage.
+BOARD_HELP_MESSAGE_MASS_MIRAGE;Transfiguración en <MESID01 PARAM> desbloqueada.
+BOARD_NOTICE_OVERWRITE;Habilidad intercambiable
+BOARD_NOTICE_NOT_CHANGE;¿Quieres continuar? No podrás modificar tu decisión más tarde.
+BOARD_NOTICE_ON_HOLD;¿Obtener más tarde?
+BOARD_BONUS_00;Índice de sincronización
+BOARD_BONUS_MESSAGE;¡Bonificación de sincronización![~]Los atributos han mejorado.
+BOARD_MASS_RELEASE;Acceso al tablero mirágico <MESID02 PARAM><MESID01 PARAM>.
+BOARD_MASS_RELEASE_00;Acceso a un nuevo tablero mirágico (<STR PARAM>).
+BOARD_MASS_RELEASE_01;Ofrece acceso al tablero mirágico de una versión transfigurada.
+BOARD_NOTICE_CHANGE_BOARD;Has desbloqueado un nuevo tablero mirágico.
+CHARA_HELP_MESSAGE_SELECT;Selecciona el mirage.
+ITEM_SCROLL_NUM;Cantidad
+ITEM_CATEGORY_BATTLEITEM;Combate
+ITEM_CATEGORY_GARDENGEM;Prismas
+ITEM_CATEGORY_OTHER;Otros
+ITEM_CATEGORY_VALUABLS;Importantes
+ITEM_HELP_MESSAGE_BATTLEITEM;Lista de objetos de combate en tu posesión.
+ITEM_HELP_MESSAGE_GARDENGEM;Lista de prismas en tu posesión.
+ITEM_HELP_MESSAGE_OTHER;Lista de otros objetos en tu posesión.
+ITEM_HELP_MESSAGE_VALUABLS;Lista de objetos clave en tu posesión.
+ITEM_BRANCH00;¿Quieres usar este objeto?
+ABILITY_MAIN;Principal
+ABILITY_SUB;Atajos
+ABILITY_ICON_PARAM;[i11] [i450] <STR ICON>
+ABILITY_FIGHTCOMMANDO;Atacar
+ABILITY_HELP_MESSAGE;Aquí puedes asignar las habilidades adquiridas a diferentes combinaciones de botones.
+FORMATION_HELP_MESSAGE_MES00;Modifica las formaciones de combate.
+FORMATION_HELP_MESSAGE_MES01;Elige un mirage.
+FORMATION_HELP_MESSAGE_MES02;Muestra el tablero mirágico del mirage.
+FORMATION_HELP_MESSAGE_MES03;Accede al menú de habilidades.
+FORMATION_HELP_MESSAGE_MES04;Cambia de tamaño entre koloso y pezqueco.
+FORMATION_HELP_MESSAGE_MES05;Muestra la pantalla de miralitos.
+FORMATION_HELP_MESSAGE_SINGLE;Parámetros individuales
+FORMATION_HELP_MESSAGE_TOWER;Parámetros de la torre
+FORMATION_ICON_CHENGE;[i01]
+FORMATION_NOTICE_MES00;Una formación debe tener un miembro como mínimo.
+FORMATION_QUESTION_MES00;Este mirage pertenece a la formación <STR FORMATION>. ¿Quieres cambiarlo?
+FORMATION_VIEWER_ZOOM;Zoom
+FORMATION_VIEWER_MOVE_CAMERA;Mover cámara
+FORMATION_VIEWER_CHANGE_CHARA;Cambiar personaje
+FORMATION_VIEWER_CAMERA_ROTATE;Girar cámara
+FORMATION_VIEWER_MODEL_ROTATE;Girar
+STONEMENU_SORT_00;Reciente
+STONEMENU_SORT_01;Por tipo
+STONEMENU_HELP_MESSAGE_EMPTY;Equipa miralitos.
+STONEMENU_HELP_MESSAGE_REMOVE;Quita miralitos equipados.
+STONEMENU_HELP_MESSAGE_LOCK;Han de cumplirse las condiciones para desbloquear este espacio.
+STONEMENU_SLOT1_TERM01;Consigue nivel 20 o superior.
+STONEMENU_SLOT1_TERM02;Consigue nivel 40 o superior.
+STONEMENU_SLOT1_TERM03;Consigue nivel 60 o superior.
+STONEMENU_SLOT1_TERM04;Consigue nivel 80 o superior.
+STONEMENU_SLOT1_TERM05;Atrapa 30 mirages diferentes.
+STONEMENU_SLOT1_TERM06;Atrapa 60 mirages diferentes.
+STONEMENU_SLOT1_TERM07;Atrapa 90 mirages diferentes.
+STONEMENU_SLOT1_TERM08;Atrapa 120 mirages diferentes.
+STONEMENU_SLOT1_TERM09;Atrapa 150 mirages diferentes.
+STONEMENU_SLOT1_TERM10;Obtén <MESID04 ITEMNAME> [#ffffff73]<MESID01 ITEMNAME>[/#].
+STONEMENU_QUESTION_00;¿Quieres deshacerte de este miralito?
+STONEMENU_QUESTION_01;Otro personaje tiene el miralito equipado. ¿Quieres cambiarlo?
+STONEMENU_NOTICE_00;No puedes equitar dos miralitos iguales.
+LEGEND_DETAIL_USEGAUGE;Energía necesaria
+LEGEND_HELP_MESSAGE_00;Elige qué casilla de protector quieres modificar.
+LEGEND_HELP_MESSAGE_01;¿Qué emblema quieres usar?
+QUEST_HELP_MESSAGE_00;Comprueba los sucesos de la historia principal y las misiones secundarias.
+QUEST_HELP_MESSAGE_01;Muestra una lista de los viajes astrales disponibles.
+QUEST_MAIN_SCENARIO;Historia principal
+QUEST_SUB_QUEST;Misiones secundarias
+QUEST_PURPOSE;<SPACE>Progreso
+QUEST_RECEIPT_ORDER;<SPACE>Ubicación
+QUEST_REWARD;<SPACE>Recompensa
+QUEST_CONTENTS;<SPACE>Detalles
+QUEST_OUTLINE;Resumen
+QUEST_REWARD_ITEM;<SPACE>1 <MESID01 ITEMNAME>
+QUEST_REWARD_ITEM_PL;<SPACE><NUM PARAM> <MESID05 ITEMNAME>
+QUEST_REWARD_MIRAGE;<STR_MIRAGENAME>
+QUEST_REWARD_EXP;<NUM PARAM> puntos de <STR_QUESTEXP>
+QUEST_REWARD_MONEY;<NUM PARAM> <STR QUESTMONEY>
+QUEST_CAPTURE_NUMBER;Capturados
+QUEST_CRUSH_NUMBER;Derrotados
+QUEST_COLLECT_NUMBER;Objetos obtenidos
+QUEST_QUESTION_00;¿Aceptar?
+GUIDE_USE;Usar
+GUIDE_SELECT;Seleccionar
+GUIDE_DECIDE;Confirmar
+GUIDE_CONFIRM;Ver
+GUIDE_BACK;Atrás
+GUIDE_CURSOR;Mover cursor
+GUIDE_STATUS_CHANGE;Cambiar atributos
+GUIDE_STATUS_ON;Mostrar atributos
+GUIDE_STATUS_OFF;Ocultar atributos
+GUIDE_GET;Aprender
+GUIDE_SET;Establecer
+GUIDE_OVERWRITE;Sobreescribir
+GUIDE_ABILITY_CHECK;Ver habilidades
+GUIDE_CAMERA_CHANGE;Girar cámara
+GUIDE_SUBMENU;Submenú
+GUIDE_SORT_00;Filtrar
+GUIDE_SORT_01;Organizar
+GUIDE_CATEGORY_CHANGE_dummy;3221225472
+GUIDE_AIRSHIP_CONTROL;Montar en barco volador
+GUIDE_MIRAGE_HABITAT;Mirages descubiertos
+GUIDE_SCALING;Zoom
+FORMATION_GUIDE_VIEWER;Ver modelo
+FORMATION_GUIDE_FAVORITE_REGIST;Registrar como favorita
+MAINMENU_GUIDE_MAIN;Cambiar vista
+MAINMENU_GUIDE_RESERVE;Vista de miembros
+MAINMENU_GUIDE_NAME_INPUT;Cambiar nombre de torre
+GEMCASE_GUIDE_UNION;Formación
+GEMCASE_GUIDE_FAVORITE_CALL;Elegir favorita
+GUIDE_NEXT;Siguiente
+GUIDE_CLOSE;Cerrar
+GUIDE_CONDITION;Condiciones
+GUIDE_SCROLLING;Desplazamiento
+GUIDE_INFO_DISP;Mostrar información
+GUIDE_INFO_HIDE;Ocultar información
+GUIDE_WORLDMAP;Mapamundi
+GUIDE_UNION;Torre/En solitario
+GUIDE_ABILITY_SET;Asignar habilidad
+GUIDE_AIRSHIP_RISE_AND_FALL;Ascender/descender
+GUIDE_AIRSHIP_TURNING;Virar
+GUIDE_AIRSHIP_RUN;Hacia delante
+GUIDE_AIRSHIP;Barco volador
+GUIDE_GATE_MOVE;Usar portal
+GUIDE_CATEGORY_CHANGE;Cambiar categorías
+GUIDE_OKINIIRI_REGISTER;Registrar
+GUIDE_OKINIIRI_CALL;Aplicar
+GUIDE_OKINIIRI_STATUS_DETAIL;Ver atributos
+GUIDE_CONFIG_FIRST;Predeterminado
+GUIDE_CONFIG_DUMP;Descartar
+GUIDE_SHOP_SELECT;Cantidad
+GUIDE_COMMENTARY_CHANGE;Cambiar información
+GUIDE_CHARA_CHANGE;Cambiar de personaje
+GUIDE_MOVIE_PLAYBACK;Reproducir
+GUIDE_CONFIG_PLAYBACK;Reproducir muestra
+GUIDE_COSTUME_CHANGE;Cambiar apariencia
+GUIDE_MENU_OPEN;Mostrar/ocultar menú
+GUIDE_MENU_CLOSE;Ocultar menú
+GUIDE_SCREEN_ESCAPE;Cerrar ventana
+GUIDE_SWITCH_SET;Activar
+GUIDE_UPLOAD;Confirmar
+GUIDE_DOWNLOAD;Confirmar
+GUIDE_ZOOMINOUT;Cambiar vista
+GUIDE_AREANA_PAGE;Cambiar de página
+GUIDE_FORMATIONSTATUS_CHANGE;Cambiar información
+GUIDE_GET_REWARD;Obtener recompensa
+MAPGUIDE_CHECK_GATE;<STR ICON> Examinar
+HELPGUIDE_CHECK_RETURNGATE;<STR ICON> Examinar
+HELPGUIDE_CHECK_HILLSGATE;<STR ICON> Examinar
+HELPGUIDE_CHECK_TREASURE;<STR ICON> Examinar
+HELPGUIDE_CHECK_SPOT;<STR ICON> Examinar
+HELPGUIDE_CHECK_FUSE;<STR ICON> Examinar
+HELPGUIDE_CHECK_OBJECT;<STR ICON> Examinar
+HELPGUIDE_SAVE;<STR ICON> Examinar
+HELPGUIDE_WORLDMAP_OBJECT;Examinar
+HELPGUIDE_TALK;<STR ICON> Hablar
+HELPGUIDE_IN_ARTILLERY;<STR ICON> Entrar
+HELPGUIDE_OUT_ARTILLERY;<STR ICON> Salir
+HELPGUIDE_ENTER;<STR ICON> Entrar
+HELPGUIDE_EXIT;<STR ICON> Salir
+HELPGUIDE_JUMP;<STR ICON> Saltar
+HELPGUIDE_CLOSE;<STR ICON> Cerrar
+HELPGUIDE_NEXT;<STR ICON> Siguiente
+GEMCASE_HELP_MESSAGE_00;Elige un mirage.
+GEMCASE_HELP_MESSAGE_01;¿Qué mirage quieres cambiar?
+GEMCASE_HELP_MESSAGE_02;Transfigura un mirage para que cambie de apariencia.
+GEMCASE_HELP_MESSAGE_03;Muestra el tablero mirágico.
+GEMCASE_HELP_MESSAGE_04;Muestra el menú de habilidades.
+GEMCASE_HELP_MESSAGE_05;Cambia de tamaño entre koloso y pezqueco.
+GEMCASE_HELP_MESSAGE_06;Muestra la pantalla de miralitos.
+GEMCASE_HELP_MESSAGE_07;Suelta el mirage y déjalo en libertad.
+GEMCASE_HELP_MESSAGE_08;Comprueba la lista de habilidades.
+GEMCASE_QUESTION_PARTYOUT;Afectará a alguna formación. ¿Quieres continuar?
+GEMCASE_QUESTION_FORMATION_MOVE;¿Quieres ir al menú Formaciones?
+GEMCASE_QUESTION_SEPARATE;¿Quieres liberar este mirage?[~]Aviso: si lo liberas, no podrás recuperarlo.[~]Se eliminará de las formaciones multijugador.
+GEMCASE_QUESTION_SEPARATE_01;¿Quieres liberar este mirage?[~]Lo perderás para siempre.
+GEMCASE_NOT_ADIEU;No puedes liberar este mirage.
+GEMCASE_NOT_MEET_TWICE;¿Quieres liberar este mirage aunque no te vayas a encontrar con él nunca más?[~]No lo podrás recuperar y se eliminará de las formaciones multijugador.
+GEMCASE_NOT_CHANGE;No se puede realizar el cambio. La formación <STR PARAM> se quedaría sin miembros.
+GEMCASE_NOT_CHANGE_ADIEU;Debe haber al menos un mirage en la torre <STR PARAM>.
+GEMCASE_NOT_CHANGE_01;El mirage no puede transfigurarse, pues ha de permanecer en la torre <STR PARAM>.
+GEMCASE_LEAVE;¿Finalizar?
+GEMCASE_NOT_CHANGE_MAINCHARACTER;No se puede colocar a <MESID00 Name> en la <STR PARAM>.
+DARKCREVASSE_LV;Nv. <NUM PARAM>
+WORLDMAP_HELP_MESSAGE;Muestra el mapamundi de Grymoire.
+WORLDMAP_TITLE_TOGATE;Elige un destino.
+WORLDMAP_DUNGEON_CATEGORY;Mazmorras
+WORLDMAP_AREA_CATEGORY;Regiones
+WORLDMAP_TOWN_CATEGORY;Poblados
+DUNGEONMAP_ICON_DESTINATION;Destino
+DUNGEONMAP_ICON_QUEST;Encargo
+DUNGEONMAP_ICON_RESONANCE;Altar misterioso
+DUNGEONMAP_ICON_GATE;Portal
+DUNGEONMAP_ICON_RETURN_GATE;Portal de salida
+DUNGEONMAP_ICON_SAVE_CRYSTAL;Cristal de guardado
+DUNGEONMAP_ICON_DARK_CREVASSE;Fisura lúgubre
+DUNGEONMAP_ICON_BURNED;Inflamable
+DUNGEONMAP_ICON_FROZEN;Congelable
+DUNGEONMAP_ICON_ELECTRICITY;Electrificable
+DUNGEONMAP_ICON_BROKEN;Rompible
+DUNGEONMAP_ICON_FOUND;Objeto oculto
+DUNGEONMAP_ICON_FLAP;Vuelo
+DUNGEONMAP_SUPPORT_ABILITY;Habilidades de apoyo
+GRAPHICS_SAVE;G
+LIBRARY_HELP_MESSAGE;Información de combate.
+LIBRA_CAPTURE_COUNT;En posesión
+LIBRA_HABITAT;Hábitats principales:[~]<STR PARAM1>[~]<STR PARAM2>
+LIBRA_CAPTURECHANCE;Condición de captura:[~]<STR PARAM1>[~]Ten en tu posesión un [#ffffff73]<MESID01 PARAM2>[/#].
+LIBRA_CAPTURECHANCE_1LINE;<STR PARAM1>
+LIBRA_CAPTURECHANCE_SECRET;Condición de captura:[~]<STR PARAM1>[~]<STR PARAM2>
+LIBRA_CAPTURECHANCE_NO_INF;Condición de captura:[~]---[~]---
+LIBRARY_CHANGE_INFO;Ver la familia
+SHOP_SELECT_BUY;Comprar
+SHOP_SELECT_SELL;Vender
+SHOP_HELP_MESSAGE_SELECT_BUY;Compra objetos.
+SHOP_HELP_MESSAGE_SELECT_SELL;Vende objetos y obtén guiles.
+SHOP_LIST_PRICE;Precio
+SHOP_LIST_SELECT_NUM;Cantidad
+SHOP_LIST_HAVE_NUM;En posesión
+SHOP_LIST_GIL;Guiles
+SHOP_LIST_TOTAL_PRICE;Total
+SHOP_QUESTION_SELECT_BUY;¿Comprar por <NUM MONEY> guiles?
+SHOP_QUESTION_SELECT_SELL;¿Vender por <NUM MONEY> guiles?
+SHOP_QUESTION_SELECT_BUY_ALMA_GEM;¿Cambiar por <NUM MONEY> gemalmas?
+SHOP_MEDALNAME;Emblema <MESID02 Name>
+SHOP_ALMA_GEM_NUM;Gemalmas
+SHOP_EXCHANGE;Intercambiar
+SHOP_HELP_MESSAGE_EXCHANGE;Intercambia gemalmas para obtener diversos objetos.
+NAME_INPUT_HELP_MESSAGE_CAPTURE;Has conseguido un nuevo mirage.
+NAME_INPUT_HELP_MESSAGE_GEM_LIMIT_00;Tu Caja prismática está llena.
+NAME_INPUT_HELP_MESSAGE_GEM_LIMIT_01;¿Quieres liberar este mirage?
+NAME_INPUT_HELP_MESSAGE_NAME;Puedes cambiar de nombre este mirage.
+NAME_INPUT_HELP_MESSAGE_NAME_INPUT;El nombre ha de tener un máximo de diez caracteres.
+NAME_INPUT_HELP_MESSAGE_BOX_SEND;Selecciona qué mirage quieres enviar a la Caja prismática.
+NAME_INPUT_QUESTION_LAST_NAME;¿Quieres utilizar este nombre?
+NAME_INPUT_NOTICE_SEND_GEM_DEFAULT;Has enviado <MESID05 MONSTER_NAME><MESID01 MONSTER_NAME> con Serafie.
+NAME_INPUT_NOTICE_SEND_GEM;Se ha enviado a <STR_MONSTER_NAME> con Serafie.
+NAME_INPUT_MESSAGE_BOX_SEND;¿Confirmar este mirage?
+NAME_INPUT_WINDOW_MES_00_00;Liberar este mirage
+NAME_INPUT_WINDOW_MES_00_01;Liberar uno de tus mirages
+NAME_INPUT_WINDOW_MES_01_00;Sí, quiero liberarlo
+NAME_INPUT_WINDOW_MES_01_01;He cambiado de idea
+NAME_INPUT_WINDOW_MES_02_00;Poner nombre al mirage
+NAME_INPUT_WINDOW_MES_02_01;No cambiar el nombre
+NAME_INPUT_WINDOW_MES_03_00;Así está bien
+NAME_INPUT_WINDOW_MES_03_01;Cambiarlo
+NAME_INPUT_WINDOW_MES_04_00;¿Quieres llevar este mirage contigo?
+NAME_INPUT_WINDOW_MES_04_01;Sí, llevarlo con el equipo
+NAME_INPUT_WINDOW_MES_04_02;No, dejarlo con Serafie
+NAME_INPUT_WINDOW_MES_05_00_DEFAULT;¿Quieres dejar <MESID05 MONSTER_NAME><MESID01 MONSTER_NAME> con Serafie?
+NAME_INPUT_WINDOW_MES_05_00;¿Quieres dejar a <STR_MONSTER_NAME> con Serafie?
+NAME_INPUT_WINDOW_MES_05_01_DEFAULT;Has dejado <MESID05 MONSTER_NAME><MESID01 MONSTER_NAME> con Serafie.
+NAME_INPUT_WINDOW_MES_05_01;Has dejado a <STR_MONSTER_NAME> a cargo de Serafie.
+NAME_INPUT_WINDOW_MES_06_00;Este nombre incluye una combinación de letras no permitida. Inténtalo de nuevo.
+NAME_INPUT_HELP_MESSAGE_NAMECHANGE;Puedes cambiar el nombre del mirage si lo deseas.
+NAME_INPUT_WINDOW_MES_00_02;Liberar otro mirage
+NAME_INPUT_NOTICE_RELEASE_DEFAULT;Has liberado <MESID05 PARAM><MESID01 PARAM>.
+NAME_INPUT_NOTICE_RELEASE;Has liberado a <STR PARAM>.
+NAME_INPUT_WINDOW_MES_07_00;Elegir uno de la Caja prismática
+NAME_INPUT_WINDOW_MES_07_01;Elegir uno de tu grupo
+NAME_INPUT_NOTICEMES_01_00;Poner nombre
+NAME_INPUT_ERROR_MES;Introduce un nombre.
+NAME_INPUT_ERROR_MES_01;El nombre contiene una combinación de caracteres prohibida.[~]Introduce un nuevo nombre.
+NAME_INPUT_HELP_MESSAGE_SELECT;Selecciona qué mirage quieres liberar.
+ATTRIBUTE_FIRE;[i100]
+ATTRIBUTE_WATER;[i105]
+ATTRIBUTE_THUNDER;[i102]
+ATTRIBUTE_WIND;[i104]
+ATTRIBUTE_ICE;[i101]
+ATTRIBUTE_EARTH;[i103]
+ATTRIBUTE_LIGHT;[i106]
+ATTRIBUTE_DARK;[i107]
+ATTRIBUTE_POISON;[i108]
+ATTRIBUTE_CONFUSION;[i109]
+ATTRIBUTE_SLEEP;[i110]
+ATTRIBUTE_BLIND;[i111]
+ATTRIBUTE_SILENCE;[i112]
+ATTRIBUTE_ABSORB;[i300]
+ATTRIBUTE_REGIST;[i301]
+NOSENOSE_ICON_SINGLE;[i138]
+GROWTH_ICON;[i222]
+ATTRIBUTE_SLOW;[i113]
+ATTRIBUTE_BERSERK;[i114]
+ATTRIBUTE_DEAD;[i115]
+ATTRIBUTE_DEAD2;[i116]
+ATTRIBUTE_STUN;[i117]
+ATTRIBUTE_PROTECT;[i118]
+ATTRIBUTE_SHELL;[i119]
+ATTRIBUTE_REFLECT;[i120]
+ATTRIBUTE_REGEN;[i121]
+ATTRIBUTE_HASTE;[i122]
+ATTRIBUTE_BRAVE;[i123]
+ATTRIBUTE_FAITH;[i124]
+ATTRIBUTE_PAUP;[i125]
+ATTRIBUTE_PADOWN;[i126]
+ATTRIBUTE_PDUP;[i127]
+ATTRIBUTE_PDDOWN;[i128]
+ATTRIBUTE_MAUP;[i129]
+ATTRIBUTE_MADOWN;[i130]
+ATTRIBUTE_MDUP;[i131]
+ATTRIBUTE_MDDOWN;[i132]
+ATTRIBUTE_DXUP;[i135]
+ATTRIBUTE_DXDOWN;[i136]
+ATTRIBUTE_EVUP;[i133]
+ATTRIBUTE_EVDOWN;[i134]
+ICON_DOSSIRI_00;[i250]
+ICON_DOSSIRI_01;[i251]
+ICON_DOSSIRI_02;[i252]
+ICON_DOSSIRI_03;[i253]
+ICON_DOSSIRI_04;[i254]
+ICON_DOSSIRI_05;[i255]
+ICON_DOSSIRI_06;[i256]
+ICON_DOSSIRI_07;[i257]
+ICON_DOSSIRI_08;[i258]
+ICON_DOSSIRI_09;[i259]
+ICON_DOSSIRI_10;[i251][i250]
+ICON_DOSSIRI_11;[i251][i251]
+ICON_DOSSIRI_12;[i251][i252]
+ICON_DOSSIRI_13;[i251][i253]
+ICON_DOSSIRI_14;[i251][i254]
+ICON_DOSSIRI_15;[i251][i255]
+ICON_BALANCE_00;[i310]
+ICON_BALANCE_01;[i311]
+ICON_BALANCE_02;[i312]
+ICON_BALANCE_03;[i313]
+ICON_CIRCLE;[i3]
+ICON_TRIANGLE;[i4]
+ICON_SQUARE;[i5]
+ICON_CROSS;[i6]
+PAUSE_DISPLAY;PAUSA
+PAUSE_TEXT_RETURN_TITLE;¿Quieres regresar a la pantalla del título? Se perderá el progreso no guardado.
+PAUSE_TEXT_SKIP_EVENT;¿Quieres saltarte esta escena?
+PAUSE_GUIDE_RETURN_TITLE;Regresar a la pantalla del título
+PAUSE_GUIDE_SKIP_EVENT;Saltar escena
+TITLE_NEWGAME;Nueva partida
+TITLE_CONFIG;Configuración
+TITLE_ONLINE;Red
+TITLE_CROSS_SAVE;Guardar en la nube
+FAVORITE_00;Favorita 1
+FAVORITE_01;Favorita 2
+FAVORITE_02;Favorita 3
+FAVORITE_03;Favorita 4
+FAVORITE_04;Favorita 5
+FAVORITE_REGISTER;¿Registrar como <STR FAVORITE>?
+FAVORITE_REGISTER_OVERWRITE;¿Sobrescribir <STR FAVORITE>?
+FAVORITE_REGISTER_SET;Registrada como <STR FAVORITE>.
+FAVORITE_CALL;¿Utilizar <STR FAVORITE>? [s20]Aviso: se perderán las formaciones actuales.[/s]
+FAVORITE_CALL_SET;Se ha asignado <STR FAVORITE>.
+FAVORITE_HELP_MESSAGE_00;Se registrará la formación actual como favorita.
+FAVORITE_HELP_MESSAGE_01;Utiliza una formación registrada como favorita.
+FAVORITE_FORMATION_HELP_MESSAGE;Te permite comprobar tus atributos.
+SWITCH_HELP_MESSAGE;Selecciona qué mirage quieres colocar.
+SWITCH_DECISION;Confirmar
+SWITCH_DECISION_QUESTION;¿Quieres usar esta combinación?
+SWITCH_CANCEL;Cancelar
+SWITCH_INFORMATION_MESSAGE_00;Coloca mirages sobre el altar misterioso
+SWITCH_INFORMATION_MESSAGE_01;Condiciones de desbloqueo
+SWITCH_INFORMATION_MESSAGE_02;No has cumplido los requisitos del altar.
+SWITCH_INFORMATION_MESSAGE_03;Ahora puedes activar el altar misterioso. Pulsa [i4].
+SWITCH_QUESTION_CANCEL;¿Quieres salir y recuperar los mirages?
+CONFIG_MENU_00;Velocidad de mensajes
+CONFIG_MENU_01;Nombres de personajes
+CONFIG_MENU_02;Minimapa
+CONFIG_MENU_03;Vibración
+CONFIG_MENU_04;Modo de combate
+CONFIG_MENU_05;Velocidad de combate
+CONFIG_MENU_06;Música de combate
+CONFIG_MENU_07;Música de protector
+CONFIG_MENU_08;Idioma de las voces
+CONFIG_MENU_09;Voces en diálogos
+CONFIG_MENU_10;Volumen de voces
+CONFIG_MENU_11;Volumen de música
+CONFIG_MENU_12;Volumen de efectos de sonido
+CONFIG_MENU_13;STEAM NOT USED
+CONFIG_MENU_COMMAND_FAST;Rápido
+CONFIG_MENU_COMMAND_SLOW;Lento
+CONFIG_MENU_COMMAND_ON;Sí
+CONFIG_MENU_COMMAND_OFF;No
+CONFIG_MENU_COMMAND_BIG;Grande
+CONFIG_MENU_COMMAND_SMALL;Pequeño
+CONFIG_MENU_COMMAND_PLUS;+
+CONFIG_MENU_COMMAND_MINUS;-
+CONFIG_MENU_COMMAND_ACTIVE;Activo
+CONFIG_MENU_COMMAND_WAIT;En espera
+CONFIG_MENU_COMMAND_SEMI_ACTIVE;Semiactivo
+CONFIG_MENU_COMMAND_JAPANESE;Japonés
+CONFIG_MENU_COMMAND_ENGLISH;Inglés
+CONFIG_MENU_COMMAND_MOMENTARY;Activar al mantener pulsado el botón
+CONFIG_MENU_COMMAND_ALTERNATE;Activar o desactivar al pulsar el botón
+CONFIG_NOTICE_DLC;3221225472
+CONFIG_NOTICE_FIRST;¿Restablecer la configuración predeterminada?
+CONFIG_NOTICE_VOICE_CHANGE;Esta opción tan solo se puede modificar en el menú Configuración de la pantalla del título.
+CONFIG_HELP_MESSAGE00;Ajusta la velocidad de aparición de los mensajes.
+CONFIG_HELP_MESSAGE01;Activa o desactiva los nombres de los personajes encima de los subtítulos.
+CONFIG_HELP_MESSAGE02;Activa o desactiva el minimapa.
+CONFIG_HELP_MESSAGE03;Activa o desactiva la función de vibración del mando.
+CONFIG_HELP_MESSAGE04;Cambia el modo de combate del juego.
+CONFIG_HELP_MESSAGE05;Ajusta la velocidad de los combates.
+CONFIG_HELP_MESSAGE06;Cambia la canción que suena durante los combates.
+CONFIG_HELP_MESSAGE07;Cambia la canción que suena al invocar a los protectores.
+CONFIG_HELP_MESSAGE08;Cambia el idioma de las voces.
+CONFIG_HELP_MESSAGE09;Activa o desactiva las voces durante los diálogos.
+CONFIG_HELP_MESSAGE10;Ajusta el volumen de las voces.
+CONFIG_HELP_MESSAGE11;Ajusta el volumen de la música.
+CONFIG_HELP_MESSAGE12;Ajusta el volumen de los efectos de sonido.
+CONFIG_HELP_MESSAGE13;STEAM NOT USED
+CONFIG_MENU_14;Menú de combate
+CONFIG_MENU_COMMAND_SIMPLE;Simple
+CONFIG_MENU_COMMAND_CLASSIC;Clásico
+CONFIG_HELP_MESSAGE14;Cambia el menú con el que comienzas un combate.
+CONFIG_MENU_15;Avance rápido
+CONFIG_HELP_MESSAGE15;Selecciona cómo quieres que funcione el avance rápido.
+CONFIG_MENU_16;NOT USED
+CONFIG_HELP_MESSAGE16;3221225472
+CONFIG_MENU_SUMMON_NORMAL;3221225472
+CONFIG_MENU_SUMMON_SHORT;3221225472
+OVER_NOTICE_MIRASTONE00_00;No puedes llevar más miralitos. Organiza los que tienes en tu posesión.
+OVER_NOTICE_MIRASTONE00_01;Ir al menú de miralitos.
+OVER_NOTICE_MIRASTONE00_02;Tirar este miralito.
+OVER_NOTICE_GEM00_00;No puedes llevar más.
+MINIGAME_00;Minijuegos
+MINIGAME_01;Space Einhänders
+MINIGAME_02;Shooter
+MINIGAME_03;Buscadaemonbots
+MINIGAME_04;Machacatilio
+MINIGAME_05;Operación Nébula
+BATTLE_BGM00;Combate 1
+BATTLE_BGM01;Combate 2
+BATTLE_BGM02;Combate contra jefe 1
+BATTLE_BGM03;Combate contra jefe 2
+BATTLE_BGM04;Combate contra jefe 3
+BATTLE_BGM05;Último combate 1
+BATTLE_BGM06;Último combate 2
+BATTLE_BGM07;Protector: Guerrero de la Luz
+BATTLE_BGM08;Protectora: Refia
+BATTLE_BGM09;Protector: Bartz
+BATTLE_BGM10;Protectora: Celes
+BATTLE_BGM11;Protectora: Terra
+BATTLE_BGM12;Protector: Cloud
+BATTLE_BGM13;Protectora: Tifa
+BATTLE_BGM14;Protectora: Shelke
+BATTLE_BGM15;Protector: Squall
+BATTLE_BGM16;Protector: Tidus
+BATTLE_BGM17;Protectora: Yuna
+BATTLE_BGM18;Protectora: Shantotto
+BATTLE_BGM19;Protector: Snow
+BATTLE_BGM20;Protectora: Lightning
+BATTLE_BGM21;Combate contra jefe 4
+BATTLE_BGM22;Protector: Sefirot
+BATTLE_BGM23;Protector: Sora
+BATTLE_BGM24;Protector: Balthier
+BATTLE_BGM25;Predeterminada
+BATTLE_BGM26;Aleatoria
+DICTIONARY_COMPLETE_RATE;Completado
+MIRAGE_COMPLETE_RATE;Mirages capturados
+DICTIONARY_KIND;Tipo
+DICTIONARY_HELP_MESSAGE_00;Ver información sobre el mirage.
+DICTIONARY_HELP_MESSAGE_01;Elige un mirage.
+DICTIONARY_PERCENT;%
+DICTIONARY_BACKGROUND;Fondo
+DICTIONARY_MOTION;Animación
+DICTIONARY_VOICE;Voz
+DICTIONARY_VOICE_PLAYBACK;Reproducir voz
+DICTIONARY_MOTION_PLAYBACK;Ver animación
+DICTIONARY_CAMERA_RESET;Posición inicial
+DICTIONARY_ICON_01;<STR ICON1> [i450] <STR ICON2>
+CHARACTER_DICTIONARY_HELP_MESSAGE_00;Elige un personaje.
+CHARACTER_DICTIONARY_HELP_MESSAGE_01;Muestra información detallada sobre el personaje.
+LIBRARY_HELP_MESSAGE_00;Muestra información sobre los mirages capturados.
+LIBRARY_HELP_MESSAGE_01;Muestra información sobre los personajes que has conocido.
+LIBRARY_HELP_MESSAGE_02;Muestra todo tipo de información útil.
+LIBRARY_HELP_MESSAGE_03;¿Qué información quieres consultar?
+TIPS_HELP_MESSAGE_LIST_TITLE;Selecciona qué información quieres leer.
+TIPS_NUM_PER_NUM_PARAM_TAG;<NUM PER_PARAM1>/<NUM PER_PARAM2>
+TIPS_PEGE_CHANGE;Cambiar de página
+SORT_SIZE;Por tamaño
+SORT_LEVEL;Por nivel
+SORT_GET;Por última captura
+SORT_ID;Por n.º de miragepedia
+SORT_DOSSIRI;Por peso
+SORT_SIZE_HELP;Ordenar por tamaño.
+SORT_LEVEL_HELP;Ordenar por nivel.
+SORT_ID_HELP;Ordenar por número de entrada en la miragepedia.
+SORT_DOSSIRI_HELP;Ordenar por peso.
+NOWLOADING_MESSAGE;Cargando
+NOWLOADING_MESSAGE_01;.
+TELEPOSTONE_MSG;¿Regresar a la entrada?
+CROSSSAVE_00;STEAM NOT USED
+CROSSSAVE_HELP_MESSAGE_00;STEAM NOT USED
+CROSSSAVE_UPLOAD_00;STEAM NOT USED
+CROSSSAVE_HELP_MESSAGE_UPLOAD_00;STEAM NOT USED
+CROSSSAVE_QUESTION_UPLOAD_00;STEAM NOT USED
+CROSSSAVE_QUESTION_UPLOAD_01;STEAM NOT USED
+CROSSSAVE_DOWNLOAD_00;STEAM NOT USED
+CROSSSAVE_HELP_MESSAGE_DOWNLOAD_00;STEAM NOT USED
+CROSSSAVE_QUESTION_DOWNLOAD_00;Se perderá el progreso no guardado. ¿Quieres continuar?
+CROSSSAVE_NOTICE_DOWNLOAD_00;STEAM NOT USED
+AIR_LOAD_HELP_MESSAGE_00;¿Adónde quieres ir?
+LIBRAR_SIZE;Tamaño
+LIBRAR_SIZE_S;S
+LIBRAR_SIZE_M;M
+LIBRAR_SIZE_L;L
+LIBRAR_SIZE_Ex;XL
+MOVIE_HELP_00;Selecciona qué escena quieres reproducir.
+MOVIE_QUESTION_00;¿Cancelar reproducción?
+MOVIE_QUESTION_01;¿Quieres regresar a la pantalla del título?
+MOVIE_QUESTION_02;Finalizar la reproducción
+AREANA_HELP_00;Elige a quién quieres enfrentarte.
+AREANA_LV;Nv. <NUM PARAM>
+AREANA_REWARD;Recompensa: [#ffffff73]<MESID01 ITEM>[/#] × ¿?
+AREANA_NAME;<STR MIRAGENAME>
+AREANA_QUESTION_CHALLENGE;¿Quieres aceptar el reto <QUOT><STR MIRAGENAME><QUOT>?
+AREANA_CHALLENGE_ERROR_00;Termina el prólogo para participar en este combate.
+AREANA_CHALLENGE_ERROR_01;Termina el capítulo I para participar en este combate.
+AREANA_CHALLENGE_ERROR_02;Termina el capítulo II para participar en este combate.
+AREANA_CHALLENGE_ERROR_03;Termina el capítulo III para participar en este combate.
+AREANA_CHALLENGE_ERROR_04;Termina el capítulo IV para participar en este combate.
+AREANA_CHALLENGE_ERROR_05;Termina el capítulo V para participar en este combate.
+AREANA_CHALLENGE_ERROR_06;Termina el capítulo VI para participar en este combate.
+AREANA_CHALLENGE_ERROR_07;Termina el capítulo VII para participar en este combate.
+AREANA_CHALLENGE_ERROR_08;Termina el capítulo VIII para participar en este combate.
+AREANA_CHALLENGE_ERROR_09;Termina el capítulo IX para participar en este combate.
+AREANA_CHALLENGE_ERROR_10;Termina el capítulo X para participar en este combate.
+AREANA_CHALLENGE_ERROR_11;Termina el capítulo XI para participar en este combate.
+AREANA_CHALLENGE_ERROR_12;Termina el capítulo XII para participar en este combate.
+AREANA_CHALLENGE_ERROR_13;Termina el capítulo XIII para participar en este combate.
+AREANA_CHALLENGE_ERROR_14;Termina el capítulo XIV para participar en este combate.
+AREANA_CHALLENGE_ERROR_15;Termina el capítulo XV para participar en este combate.
+AREANA_CHALLENGE_ERROR_16;Termina el capítulo XVI para participar en este combate.
+AREANA_CHALLENGE_ERROR_17;Termina el capítulo XVII para participar en este combate.
+AREANA_CHALLENGE_ERROR_18;Termina el capítulo XVIII para participar en este combate.
+AREANA_CHALLENGE_ERROR_19;Termina el capítulo XIX para participar en este combate.
+AREANA_CHALLENGE_ERROR_20;Termina el capítulo XX para participar en este combate.
+AREANA_CHALLENGE_ERROR_21;Termina el capítulo XXI para participar en este combate.
+AREANA_CHALLENGE_ERROR_22;Termina el capítulo XXII para participar en este combate.
+AREANA_CHALLENGE_SORTGUIDE_01;Por defecto
+AREANA_CHALLENGE_SORTGUIDE_02;Por nivel
+AREANA_CHALLENGE_SORTGUIDE_03;No completados primero
+AREANA_CHALLENGE_SORTGUIDE_04;Completados primero
+STATUS_KUZURENIKUSA;Estabilidad
+STATUS_KUZURENIKUSA_FUTUU;Normal
+STATUS_KUZURENIKUSA_YAYA;Débil
+STATUS_KUZURENIKUSA_SOKOSOKO;Buena
+STATUS_KUZURENIKUSA_ANTEI;Excelente
+TITLE_MESSAGE_00;Nueva partida
+TITLE_MESSAGE_01;Cargar partida
+TITLE_MESSAGE_02;STEAM NOT USED
+TITLE_MESSAGE_03;STEAM NOT USED
+TITLE_MESSAGE_04;STEAM NOT USED
+TITLE_MESSAGE_05;STEAM NOT USED
+TITLE_MESSAGE_06;3221225472
+TITLE_MESSAGE_07;3221225472
+TITLE_MESSAGE_08;Nuevos datos guardados
+TITLE_MESSAGE_09;STEAM NOT USED
+TITLE_MESSAGE_10;STEAM NOT USED
+TITLE_MESSAGE_11;STEAM NOT USED
+TITLE_MESSAGE_12;STEAM NOT USED
+TITLE_PRESS_ANY_BUTTON;Pulsa cualquier botón
+TITLE_CROSSSAVE_00;STEAM NOT USED
+TITLE_CROSSSAVE_01;STEAM NOT USED
+TITLE_CROSSSAVE_HELP_MESSAGE;3221225472
+TITLE_CROSSSAVE_NOTICE_UPLOAD;STEAM NOT USED
+TITLE_CROSSSAVE_NOTICE_DOWNLOAD;STEAM NOT USED
+TITLE_CROSSSAVE_WARNING_UPLOAD;3221225472
+TITLE_CROSSSAVE_UPLOAD_END;STEAM NOT USED
+TITLE_CROSSSAVE_WARNING_DOWNLOAD;3221225472
+TITLE_CROSSSAVE_DOWNLOAD_END;STEAM NOT USED
+TITLE_CROSSSAVE_DAMAGE_DATA;Estos datos guardados están dañados.
+TITLE_CROSSSAVE_NO_DETA;No hay datos guardados.
+TITLE_CROSSSAVE_CONNECTING;Conectando...
+TITLE_ERROR_00;Los vídeos de la videoteca se desbloquean mediante la historia principal.[~]Si empiezas una partida nueva o sobrescribes los datos guardados,[~]puede que algunos vídeos vuelvan a estar bloqueados.
+TITLE_ERROR_01;3221225472
+TITLE_ERROR_02;¿Quieres crear datos guardados nuevos y sobrescribir los datos dañados?[~]No podrás jugar si no creas datos guardados.
+TITLE_ERROR_03;3221225472
+TITLE_ERROR_04;3221225472
+TITLE_ERROR_05;STEAM NOT USED
+TITLE_ERROR_06;STEAM NOT USED
+TITLE_ERROR_07;No se puede leer correctamente el contenido descargable.[~][~]Si inicias el juego, quizá no esté disponible.
+TITLE_ERROR_08;3221225472
+TITLE_ERROR_09;STEAM NOT USED
+TITLE_ERROR_10;STEAM NOT USED
+TITLE_ERROR_11;Hay una nueva versión disponible.[~]Instálala y prueba de nuevo.
+TITLE_DOWNLOAD_HELP;STEAM NOT USED
+COPY_RIGHT_MESSAGE;STEAM NOT USED
+TITLE_WARNING_MESSAGE;3221225472
+TITLE_GAME_VERSION;Versión <NUM PARAM>
+TITLE_VOICE_ANNOUNCE;3221225472
+TITLE_LINKAGE_00;STEAM NOT USED
+TITLE_LINKAGE_01;STEAM NOT USED
+TITLE_LINKAGE_ERROR_00;STEAM NOT USED
+NPC_QUEST_RECEIVE_00;¿Quieres aceptar este encargo? Objetivo: <MESID00 PURPOSEMES>.
+NPC_QUEST_RECEIVE_01;Sí
+NPC_QUEST_RECEIVE_02;No
+NPC_QUEST_RECEIVE_03;Objetivos del encargo <QUOT><STR QUESTNAME><QUOT> completados.
+NPC_QUEST_RECEIVE_04;¿Quieres aceptar este encargo?[~]Objetos necesarios: <NUM PARAM> [#ffffff73]<MESID05 ITEMNAME>[/#]
+NPC_QUEST_RECEIVE_05;¿Quieres aceptar el encargo de caza?[~]Objetivo: <STR MIRAGENAME>
+NPC_QUEST_RECEIVE_06;¿Quieres aceptar este encargo?[~]Objetos necesarios: <NUM PARAM01> [#ffffff73]<MESID05 ITEMNAME01>[/#] y <NUM PARAM02> [#ffffff73]<MESID05 ITEMNAME02>[/#]
+QUEST_ACHIEVEMENT_MESSAGE_MULTI;Has obtenido <NUM COUNT> [#ffffff73]<MESID05 NAME>[/#] como recompensa.
+QUEST_ACHIEVEMENT_MESSAGE_SINGLE;Has obtenido <MESID04 NAME> [#ffffff73]<MESID01 NAME>[/#] como recompensa.
+QUEST_ACHIEVEMENT_OVER_MULTI;Ya no puedes llevar más [#ffffff73]<MESID05 NAME>[/#].
+QUEST_ACHIEVEMENT_OVER_SINGLE;Ya no puedes llevar más [#ffffff73]<MESID05 NAME>[/#].
+QUEST_ACHIEVEMENT_MESSAGE_GIL;Has obtenido <NUM COUNT> guiles como recompensa.
+TSS_MESSAGE_TEST;Consultar la información sobre los contenidos descargables.
+TSS_ADD_MESSAGE_00;Hay nuevos viajes astrales disponibles.
+TSS_ADD_MESSAGE_01;Hay nuevos mirages disponibles.
+TSS_ADD_MESSAGE_02;Has recibido una [#ffffff73]entrada espinosa del Coliseo[/#].
+TSS_ADD_MESSAGE_03;Has recibido una [#ffffff73]entrada nívea del Coliseo[/#].
+TSS_ADD_MESSAGE_04;Has recibido una [#ffffff73]entrada brillante del Coliseo[/#].
+TSS_ADD_MESSAGE_05;Has recibido una [#ffffff73]entrada carmesí del Coliseo[/#].
+TSS_ADD_MESSAGE_06;Has recibido una [#ffffff73]entrada metálica del Coliseo[/#].
+TSS_ADD_MESSAGE_07;Has recibido una [#ffffff73]entrada tétrica del Coliseo[/#].
+TSS_ADD_MESSAGE_08;Has recibido una [#ffffff73]entrada cerúlea del Coliseo[/#].
+TSS_ADD_MESSAGE_09;Has recibido una [#ffffff73]entrada granate del Coliseo[/#].
+TSS_ADD_MESSAGE_10;Has recibido una [#ffffff73]entrada dorada del Coliseo[/#].
+TSS_ADD_MESSAGE_11;Has recibido una [#ffffff73]entrada elástica del Coliseo[/#].
+TSS_ADD_MESSAGE_12;Has recibido una [#ffffff73]entrada irisada del Coliseo[/#].
+TSS_ADD_MESSAGE_13;Has recibido una [#ffffff73]entrada escamosa del Coliseo[/#].
+TSS_ADD_MESSAGE_14;Has recibido una [#ffffff73]entrada con chip del Coliseo[/#].
+TSS_ADD_MESSAGE_15;Has recibido una [#ffffff73]entrada hortera del Coliseo[/#].
+TSS_ADD_MESSAGE_16;Has recibido una [#ffffff73]entrada feérica del Coliseo[/#].
+TSS_ADD_MESSAGE_17;Has recibido una [#ffffff73]entrada P del Coliseo[/#].
+TSS_ADD_MESSAGE_18;Has recibido una [#ffffff73]entrada plumífera del Coliseo[/#].
+TSS_ADD_MESSAGE_19;Has recibido una [#ffffff73]pingüentrada del Coliseo[/#].
+TSS_ADD_MESSAGE_20;Has recibido una [#ffffff73]pipoentrada del Coliseo[/#].
+TSS_ADD_MESSAGE_21;Has obtenido un recuerdo secreto.
+TSS_ADD_MESSAGE_22;Has obtenido el [#ffffff73]emblema de Sefirot[/#].
+TSS_ADD_MESSAGE_23;3221225472
+TSS_ADD_MESSAGE_24;Has obtenido el [#ffffff73]emblema de Balthier[/#].
+TSS_ADD_MESSAGE_25;Has obtenido el [#ffffff73]emblema de Sora[/#].
+TSS_ADD_MESSAGE_26;Has obtenido RESERVADO.
+TSS_ADD_MESSAGE_27;Has obtenido RESERVADO.
+TSS_ADD_MESSAGE_28;Has obtenido RESERVADO.
+TSS_ADD_MESSAGE_29;Has obtenido RESERVADO.
+TSS_ADD_MESSAGE_30;Has obtenido RESERVADO.
+TSS_ADD_MESSAGE_31;Has obtenido RESERVADO.
+TSS_ADD_MESSAGE_32;Has obtenido RESERVADO.
+TSS_ADD_MESSAGE_33;Has obtenido RESERVADO.
+BED_MSG_01;¿Quieres descansar?
+BED_MSG_02;VIT y PA restablecidos.
+PLAYGO_DOWNLOADING;Descargando...
+PLAYGO_SAVEDATA_LOAD;Instalando... Espera, por favor.
+BADGE_RELEASE_MESSAGE;El [#ffffff73]emblema <MESID02 NAME>[/#] ya está disponible en la tienda de la chica sin nombre.
+PARTY_LEAVE;Reynn y su torre se han separado del grupo.
+QUEST_RESTRICTION;No está disponible.

@@ -1,0 +1,52 @@
+﻿ev03_0040_0000;What the [f2]honk?![/f]
+ev03_0040_0001;Ah! Be careful!
+ev03_0040_0002;Grrraaah!
+ev03_0040_0003;Ohhh... I expected some foolhardy adventurer[~]with a terminal case of curiosity.
+ev03_0040_0004;What’s this?
+ev03_0040_0005;Well, look who’s back.
+ev03_0040_0006;Ah! The half-pints. Hail and well met!
+ev03_0040_0007;Wha— Hale and Welmet? That’s not our names!
+ev03_0040_0008;I think he just means “hello.”
+ev03_0040_0009;Oh, and for the record,[~]he happens to be a half-wit [f2]and[/f] a half-pint.
+ev03_0040_0010;Heh...
+ev03_0040_0011;Ha ha ha!
+ev03_0040_0012;Ha ha ha ha![~]You haven’t changed a bit!
+ev03_0040_0013;Huh? What’s so funny?
+ev03_0040_0014;Oh, you’re having a “Lann moment.”[~]Guess I’ll just add this one to the pile.
+ev03_0040_0015;Wait, what pile? There’s a pile?
+ev03_0040_0016;Apparently, we’ve met the three of you before.[~]Although, we don’t remember it.
+ev03_0040_0017;You do not remember us?
+ev03_0040_0018;Reeeally? No wonder they haven’t summoned us.
+ev03_0040_0019;Then our course of action is clear.[~]We must ensure the pecking order[~]is pecking in the right order.
+ev03_0040_0020;If you seek to command the three of us again,[~]then demonstrate your strength now[~]or else be destroooyed!
+ev03_0040_0020_1;Destroooyed!
+ev03_0040_0021;Hold now! Why must you two[~]always let the blood rush to your head?
+ev03_0040_0022;Wha...what do you mean?
+ev03_0040_0023;Would you just look at them?[~]These are not the Mirage Keepers we knew.
+ev03_0040_0024;Hrm?
+ev03_0040_0025;Hi...
+ev03_0040_0026;You’re right. They do look rather... How do I put it?
+ev03_0040_0027;Put what?
+ev03_0040_0028;Lann does set the bar low.
+ev03_0040_0029;Like limbo the-bar low.
+ev03_0040_0030;Hm? ...Ahh. I see...
+ev03_0040_0031;See what?
+ev03_0040_0032;Very well. What say we pit them against just one of us...[~]to keep things nice and fair?
+ev03_0040_0033;Hmm, agreed then. Go on.[~]Choose from among us,[~]and choose wisely.
+ev03_0040_0034;Choose for what?
+ev03_0040_0035;Time certainly has not made you any more clever.
+ev03_0040_0036;What we’re trying to say is, the two of you[~]are no match for all three of us at once.[~]Which means...
+ev03_0040_0037;Right, I get it, thanks. Now let’s see...
+ev03_0040_0038;Huh? Wait, get what?
+ev03_0040_0039;Choose me! I know you’ve missed it.[~]Step now into the searing embrace of my Hellfire!
+ev03_0040_0040;Care to play? I’ll send chills up your spine[~]and right through your heart[~]with my Diamond Dust.
+ev03_0040_0041;’Twould be foolhardy to challenge me.[~]My Judgment Bolt strikes with such force[~]it would shatter your very soul.
+ev03_0040_0042a;Who will you be tested by?
+ev03_0040_0042b;Ifrit
+ev03_0040_0042c;Shiva
+ev03_0040_0042d;Ramuh
+ev03_0040_0042e;Begin the fight with <STR NAME>?
+ev03_0040_0042f;Yes
+ev03_0040_0042g;No
+ev03_0040_0000a;ANIMATION (Priority B): Starts here[~]Enter the Eidolons
+ev03_0040_0000b;ANIMATION (Priority B): Ends here

@@ -1,0 +1,5 @@
+﻿GIMMICK_GETITEM_GET_SINGLE;Has obtenido <MESID04 NAME> [#ffffff73]<MESID01 NAME>[/#].
+GIMMICK_GETITEM_GET_MULTI;Has obtenido <NUM COUNT> [#ffffff73]<MESID05 NAME>[/#].
+GIMMICK_GETITEM_OVER;Has encontrado <MESID04 NAME> [#ffffff73]<MESID01 NAME>[/#], pero no puedes llevar más.
+GIMMICK_GETITEM_OVERS;Ya no puedes llevar más [#ffffff73]<MESID05 NAME>[/#].
+GIMMICK_GETITEM_EMPTY;No hay nada en su interior...

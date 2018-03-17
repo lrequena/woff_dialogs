@@ -1,0 +1,91 @@
+﻿RESULT_INVALID_NAME;---
+RESULT_INVALID_LEVEL;---
+RESULT_INVALID_NEXT;---
+RESULT_EXP;Puntos de experiencia
+RESULT_GIL;guiles
+RESULT_NEXTEXP;Siguiente
+RESULT_LV;Nv.
+RESULT_ITEM;Objetos
+RESULT_ADD_GIL;Guiles obtenidos
+RESULT_NOW_GIL;Guiles en posesión
+RESULT_ITEM_OVER;Ya posees la cantidad máxima del objeto indicado en rojo.
+RESULT_HELP_NEXT;Siguiente
+ESCAPE_SUCCESS;Has escapado del combate.
+ESCAPE_FAILURE;No has logrado escapar.
+ESCAPE_PROHIBITED;No se puede escapar de este combate.
+MY_TOWER_COLLAPSE;Torre derribada.
+YOU_TOWER_COLLAPSE;Has derribado la torre enemiga.
+CAPTURE_ACTION_NAME;Capturar
+CAPTURE_SUCCESS;Has logrado capturar el mirage.
+CAPTURE_FAILURE;No has podido capturar el mirage.
+CAPTURE_FAILURE_TOWER;No se pueden capturar enemigos acoplados.
+CAPTURE_PROHIBITED;No puedes capturar al enemigo.
+LOSE_MESSAGE;Has perdido...
+CAPTURE_CHANCE_MSG;¡Oportunidad de captura!
+BATTLE_TOWER_NAME;Torre <MESID02 NAME><MESID01 NAME>
+COMMAND_ABILITY;Habilidades
+COMMAND_ITEM;Objetos
+COMMAND_TOWER_CREATE_MAIN;[i138] Acoplarse
+COMMAND_TOWER_RELEASE_MAIN;[i138] Desacoplarse
+COMMAND_TOWER_CREATE;Acoplarse
+COMMAND_TOWER_RELEASE;Desacoplarse
+COMMAND_GUARD;Defensa
+COMMAND_ESCAPE;Escapar
+COMMAND_CAPTURE;Capturar
+COMMAND_LEGEND;Protector
+COMMAND_EX;Megamirage
+COMMAND_EX_RELEASE;Retirar megamirage
+COMMAND_CLASSIC_INVALID_TEXT;---
+COMMAND_WIDE_SUB1_ABILITY;PA:
+COMMAND_WIDE_SUB1_EX;PA:
+COMMAND_TOWER_ABILITY_MARK;[i138]<STR ABILITY_NAME>
+COMMAND_ABILITY_NAME;<STR ABILITY_ICON><STR ABILITY_NAME>
+COMMAND_SHORTCUT_ICON_RR;[i350]
+COMMAND_SHORTCUT_ICON_RU;[i351]
+COMMAND_SHORTCUT_ICON_RL;[i352]
+COMMAND_SHORTCUT_ICON_RD;[i353]
+COMMAND_SHORTCUT_ICON_LR;[i12]
+COMMAND_SHORTCUT_ICON_LU;[i13]
+COMMAND_SHORTCUT_ICON_LL;[i14]
+COMMAND_SHORTCUT_ICON_LD;[i15]
+COMMAND_SHORTCUT_ICON_R;[i8]
+COMMAND_SHORTCUT_TEXT_SUB_SHORTCUT;Clásico
+COMMAND_SHORTCUT_INVALID_TEXT;---
+COMMAND_SHORTCUT_AP_TEXT;PA: <STR VALUE>
+COMMAND_SHORTCUT_ITEM_AP_TEXT;PA
+COMMAND_MENU_BACK_ICON;[i6]
+COMMAND_MENU_BACK;<STR ICON> Atrás
+ACTION_FAILURE_ABILITY;No se ha podido usar la habilidad.
+ACTION_FAILURE_LEGEND;No se ha podido invocar al protector.
+ACTION_FAILURE_CAPTURE;Objetivo no disponible.
+ACTION_FAILURE_MAKETOWER;No se ha podido formar la torre.
+ACTION_FAILURE_MAKEEX;No se ha podido invocar al megamirage.
+CAPTURE_FAILURE_COUNTER;Contraataque
+CAPTURE_FAILURE_ESCAPE;Huida
+RESULT_GIL_GET;Guiles obtenidos
+RESULT_GIL_ITEM;Objetos obtenidos
+RESULT_GIL_POSSESSION;guiles
+RESULT_ITEM_ERROR;Ya tienes la cantidad máxima de 〈アイテム名〉 y no puedes llevar más.
+GRAPHICS_CRITICAL;¡Crítico!
+GRAPHICS_WEAK;¡Vulnerable!
+GRAPHICS_ABSORB;¡Absorbido!
+GRAPHICS_RESIST;¡Resistido!
+GRAPHICS_BREAK;¡Desequilibrado!
+GRAPHICS_LEVELUP;¡Nivel ↑!
+GRAPHICS_MISS;¡Fallo!
+GRAPHICS_HEAD_START;Ataque sorpresa
+GRAPHICS_UNEXPECTED;Emboscada
+GRAPHICS_S;S
+GRAPHICS_M;M
+GRAPHICS_L;L
+INPUTMODE_ACTIV;Activo
+INPUTMODE_WAIT;En espera
+INPUTMODE_SHORTCUT;Simple
+INPUTMODE_CLASSIC;Clásico
+GRAPHICS_LVUP;¡Nivel ↑!
+FIRST_ENCOUNT_GEM_MSG;¡Una nueva especie de mirage! Has obtenido su prisma.
+FIRST_ENCOUNT_GEM_MSG_MACLO;¡Nuevas especies de mirages! Has obtenido sus prismas.
+FIRST_ENCOUNT_ALTBOX_MSG;¡Un nuevo tipo de mirage!
+FIRST_ENCOUNT_ALTBOX_MSG_MACLO;¡Nuevos tipos de mirages!
+ENEMY_ESCAPE_FAILURE;El mirage no ha podido escapar.
+LASTBOSS_FIRST_MSG;Una gran fuerza impide usar los emblemas de protector.

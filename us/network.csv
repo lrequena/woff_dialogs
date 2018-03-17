@@ -1,0 +1,139 @@
+﻿network_acceptance_00;Set Up Teams
+network_acceptance_01;Play Online
+network_acceptance_02;Play Ad Hoc
+network_acceptance_03;Trade
+network_acceptance_04;Multiplayer Menu
+network_acceptance_05;Multiplayer Rules
+network_formation_00;Choose a name for yourself that will be seen by other players.
+network_formation_01;Stack A1
+network_formation_02;Stack A2
+network_formation_03;Stack B1
+network_formation_04;Stack B2
+network_formation_05;Stack C1
+network_formation_06;Stack C2
+network_formation_07;Player Name
+network_formation_08;Cycle Teams
+network_formation_09;Reverse Stacks
+network_formation_10;Name
+network_formation_11;Player 1
+network_nosenose_00;The team has been modified.[~]Open the Abilities screen?
+network_ability_00;This ability cannot be used in multiplayer.
+network_internet_menu_00;Create a new battlefront.
+network_internet_menu_01;Search for a battlefront.
+network_internet_menu_02;Quickly challenge an unknown opponent.
+network_internet_menu_03;Create New
+network_internet_menu_04;Search
+network_internet_menu_05;Quick Match
+network_internet_menu_06;Searching for opponents...[~]Press <STR ICON> to cancel.
+network_buildroom_00;Customize your battlefront.
+network_buildroom_01;You can assign your room a number.
+network_buildroom_02;Use the current settings to create a new battlefront.
+network_buildroom_03;Game Type
+network_buildroom_04;Duel
+network_buildroom_05;Point Match
+network_buildroom_06;Room Number
+network_buildroom_07;On
+network_buildroom_08;Off
+network_buildroom_09;NOT USED
+network_searchroom_00;Customize your search.
+network_searchroom_01;Find battlefronts that match these conditions.
+network_searchroom_02;Conditions
+network_searchroom_03;Any
+network_searchroom_04;NOT USED
+network_selectroom_00;Displaying players who have created rooms that match your search.
+network_selectroom_01;Search Again
+network_selectroom_02;Profile
+network_selectroom_03;The selected room no longer exists.
+network_selectroom_04;Name
+network_selectroom_05;Username
+network_battleroom_00;Viewing battlefront information.
+network_battleroom_01;Wins
+network_battleroom_02;Win Rate
+network_battleroom_03;NOT USED
+network_battleroom_04;NOT USED
+network_battleroom_05;Ready!
+network_battleroom_06;The guest has left the room.
+network_battleroom_07;The host has left the room.
+network_battleroom_08;Close the room?
+network_battleroom_09;Leave the room?
+network_battleroom_10;You appear to be using illegitimate Mirage data.[~]Please change your team.
+network_battleroom_11;Your opponent is suspected of using illegitimate Mirage data.
+network_exchange_menu_00;Create a new trading post.
+network_exchange_menu_01;Search for trading posts.
+network_exchange_00;Viewing trading post information.
+network_exchange_01;Select a Mirage
+network_exchange_02;Ready!
+network_exchange_03;You cannot trade a Mirage with a higher LV than the recipient.
+network_exchange_04;Trade complete.
+network_exchange_05;Trading away this Mirage will remove it from your multiplayer teams.[~]Are you sure you want to proceed?
+network_exchange_06;You appear to be using illegitimate Mirage data.[~]Please select a different Mirage to trade.
+network_exchange_07;Preparing...
+network_exchange_08;Trading away this Mirage will remove it from your lineup in the main story.[~]Are you sure you want to proceed?
+network_exchange_09;Trading away this Mirage will remove it from[~]your lineup in the main story and your multiplayer teams.[~]Are you sure you want to proceed?
+network_exchange_gem_00;Select the Mirage to trade.
+network_bonus_00;Obtained a reward for reaching <STR PARAM> multiplayer victories:[~][#ffffff73]<STR ITEM>[/#]
+network_common_00;Connecting...
+network_error_00;Your network connection has been lost.
+network_error_01;STEAM NOT USED
+network_error_02;STEAM NOT USED
+network_error_03;Your network connection has been lost.[~]You will be returned to the Title Screen.
+network_error_04;Connection interrupted.[~]Please try again.
+network_error_05;An error has occurred.[~]Turn off your system, then try again.
+network_error_06;STEAM NOT USED
+network_error_07;STEAM NOT USED
+network_error_08;STEAM NOT USED
+network_error_09;STEAM NOT USED
+network_error_10;You cannot join this room because you and the other player[~]are using different versions of the game.
+network_error_11;Unable to join this room.
+network_error_12;Your network connection has been lost.
+network_quick_00;Customize your Quick Match settings.
+network_quick_01;Use these settings to play a Quick Match.
+network_load_00;Connecting...
+network_battle_00;Opponent Stack 1
+network_battle_01;Opponent Stack 2
+network_menu_00;Begin multiplayer?
+Wifitrade_menu_00;Size
+Wifitrade_menu_01;Mirage Type
+Wifitrade_menu_02;Objective
+Wifitrade_menu_03;Any
+Wifitrade_menu_04;S
+Wifitrade_menu_05;M
+Wifitrade_menu_06;L
+Wifitrade_menu_07;XL
+Wifitrade_menu_08;Here ya go!
+Wifitrade_menu_09;Hook me up!
+Wifitrade_selectroom_00;Objective
+Wifitrade_exchange_00;Select Message
+Wifitrade_exchange_01;Hi there!
+Wifitrade_exchange_02;Let's trade.
+Wifitrade_exchange_03;Okay.
+Wifitrade_exchange_04;Sorry.
+Wifitrade_exchange_05;Got another?
+Wifitrade_exchange_06;Thanks!
+Wifitrade_exchange_07;See ya.
+Wifitrade_exchange_08;Looks strong!
+Wifitrade_exchange_09;So cute!
+Wifitrade_exchange_10;Hold on...
+Wifitrade_exchange_11;Dude?!
+Wifitrade_exchange_12;Wow!
+Wifitrade_exchange_13;You the-got it!
+Wifitrade_exchange_14;Hee hee!
+Wifitrade_exchange_15;BZEEEK!
+Wifitrade_exchange_16;Choco-boco-ching!
+Wifitrade_exchange_17;Must be destiny!
+Wifitrade_exchange_18;(Changing message)
+Wifitrade_exchange_19;(Examining)
+Wifitrade_exchange_20;(Choosing Mirage)
+Wifitrade_exchange_21;Proceed with the trade?
+Wifitrade_exchange_22;Sorry, but a trade could not be completed.
+Wifitrade_exchange_23;Please wait while the other player makes their selection...[~](Press <STR ICON> if you want to cancel the trade.)
+UPDATA_101_PS4;STEAM NOT USED
+UPDATA_101_VITA;STEAM NOT USED
+UPDATA_102_PS4;STEAM NOT USED
+UPDATA_102_VITA;STEAM NOT USED
+UPDATA_103_PS4;STEAM NOT USED
+UPDATA_103_VITA;STEAM NOT USED
+UPDATA_104_PS4;NOT USED
+UPDATA_104_VITA;NOT USED
+KOUKAN_LAST_00;This Mirage cannot be traded away because[~]it will leave your stacks empty.
+KOUKAN_LAST_01;You cannot trade away the last Mirage in your stacks.

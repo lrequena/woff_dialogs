@@ -1,0 +1,41 @@
+﻿npc_seraphi_0000_0000;Mmm, mmm, mmm...
+npc_seraphi_0000_0001;Qué maravilla de tiempo hace últimamente, un gustazo.
+npc_seraphi_0000_0002;Veo que necesitáis mis servicios.
+npc_seraphi_0000_0003;Conectando con... ¡Radio macuto! A ver...
+npc_seraphi_0000_0004;Bueno, si nadie más pretende salvar el mundo, ¡ya me encargo yo, ea!
+npc_seraphi_0000_0005;Estoy taaan aburrida... ¿Aburrida? ¡Quería decir ocupada!
+npc_seraphi_0000_0006;Entre nosotros, creo que el chocobito que tiene Chocolatte en la cabeza es la verdadera Chocolatte.
+npc_seraphi_0000_0007;Ja, ja, ¡es broma!
+npc_seraphi_0001_0000;Creo que Chocolatte tiene nuevas mercancías.
+npc_seraphi_0001_0001;¿Queréis gestionar vuestros prismáriums?
+npc_seraphi_0002_0000;Un pequeño aviso: la Caja prismática tiene una capacidad limitada, así que cuidado.
+npc_seraphi_0002_0001;Si la llenáis hasta arriba de prismáriums, entonces... Puede que...
+npc_seraphi_0002_0002;no pase nada, así que no pongáis esa cara, ji, ji.
+npc_seraphi_0003_0000;Al igual que servidora, la Caja prismática mejora con el tiempo. ¡Qué ganas de verlo!
+npc_seraphi_0003_0001;El día en el que mejores te entregaré mi coronita, es decir, ¡nunca!
+npc_seraphi_0004_0000;La, la, laaa...
+npc_seraphi_0004_0001;¡Oye! Te he dicho una y otra vez que no hace falta que me riegues.
+npc_seraphi_0004_0002;Hala, tú empápame si eso.
+npc_seraphi_0004_0003;Je, je, je.
+npc_seraphi_0005_0000;El otro día pasó por aquí una chica que os estaba buscando. No sé quién era, pero llevaba una taza de té en la mano.
+npc_seraphi_0005_0001;Me reveló que ambos contáis con el don de tocar las almas de mucha gente, razón por la que tenéis que hablar con ella en cuanto tengáis un rato libre.
+npc_seraphi_0005_0002;Eso sí: no me ha dejado una dirección ni nada.
+npc_seraphi_0006_0000;Antes de que se me olvide: ¿conocéis el sistema de rastreo de mirages del barco volador? Le he añadido mi Radio macuto.
+npc_seraphi_0006_0001;¡Y lo he actualizado a su última versión! Podréis encontrar muchos más mirages que antes.
+npc_seraphi_0006_0002;¿Qué os parece? ¿A que soy la repanocha? Me lo podéis decir vosotros mismos.
+npc_seraphi_0006_0003;Qué pasada, Serafie. ¡Eres la repanocha! Eres la mejor mascota de un custodio de mirages.
+npc_seraphi_0006_0004;Je, je, je.
+npc_seraphi_0006_0005;¿Mascota? Yo diría más bien que es nuestra amiga o acompañante. Además, es un hada.
+npc_seraphi_0006_0006;Sea como fuere, ¡gracias, Serafie!
+npc_seraphi_0006_0007;No pasa nada. Y no me importa que me llame mascota. Venga, pasadlo bien en vuestras aventuras.
+npc_seraphi_QUESTION;¿Qué quieres?
+npc_seraphi_GEMCASE;Acceder a la Caja prismática
+npc_seraphi_TALK;Conversar
+npc_seraphi_HEAD;¿Qué tienes sobre la cabeza?
+npc_seraphi_GOSSIP;Usar Radio macuto
+npc_seraphi_CANCEL;Nada
+npc_seraphi_Apple;Manzana rayada[~]Los puntos de experiencia obtenidos en combate aumentan durante un breve periodo de tiempo.
+npc_seraphi_Mushroom;Seta luminosa[~]Resulta más fácil capturar mirages durante un breve periodo de tiempo.
+npc_seraphi_FairyStone;Piedra feérica[~]Rellena una estrella de la esfera de protector.
+npc_seraphi_Mover;Piedra del estudio[~]Todos los miembros del grupo obtienen 1 PH.
+npc_seraphi_FairyStone_MAX;Piedra feérica[~]Todas las barras de protector están llenas.

@@ -1,0 +1,64 @@
+﻿CAPTURE_HINT_001;Usa ataques de Fuego.
+CAPTURE_HINT_002;Usa ataques de Frío.
+CAPTURE_HINT_003;Usa ataques de Aire.
+CAPTURE_HINT_004;Usa ataques de Tierra.
+CAPTURE_HINT_005;Usa ataques de Rayo.
+CAPTURE_HINT_006;Usa ataques de Agua.
+CAPTURE_HINT_007;Usa ataques de Luz.
+CAPTURE_HINT_008;Usa ataques de Oscuridad.
+CAPTURE_HINT_009;Usa ataques físicos.
+CAPTURE_HINT_010;Usa ataques mágicos.
+CAPTURE_HINT_011;Reduce su VIT (una vez por combate).
+CAPTURE_HINT_012;Inflígele un estado perjudicial.
+CAPTURE_HINT_013;Inflígele Veneno.
+CAPTURE_HINT_014;Inflígele Sueño.
+CAPTURE_HINT_015;Inflígele Confusión.
+CAPTURE_HINT_016;Inflígele Ceguera.
+CAPTURE_HINT_017;Inflígele Amnesia.
+CAPTURE_HINT_018;Inflígele Locura.
+CAPTURE_HINT_019;Inflígele Freno.
+CAPTURE_HINT_020;Restablece su VIT.
+CAPTURE_HINT_021;Dale verduras gysahl.
+CAPTURE_HINT_022;Dale un elixir.
+CAPTURE_HINT_023;Dale un objeto curativo.
+CAPTURE_HINT_024;Inflígele un golpe crítico.
+CAPTURE_HINT_025;Invoca un protector.
+CAPTURE_HINT_026;Evita sus ataques.
+CAPTURE_HINT_027;Evita uno de sus ataques en concreto.
+CAPTURE_HINT_028;Devuélvele un hechizo.
+CAPTURE_HINT_029;Devuélvele un hechizo en concreto.
+CAPTURE_HINT_030;Contraataca un ataque suyo.
+CAPTURE_HINT_031;Obtén la victoria.
+CAPTURE_HINT_032;Anula los estados perjudiciales que inflige.
+CAPTURE_HINT_033;Vence a los demás enemigos antes (una vez por combate).
+CAPTURE_HINT_034;¿?
+CAPTURE_HINT_035;Otórgale un estado beneficioso.
+CAPTURE_HINT_036;Usa un mirage determinado en combate.
+CAPTURE_HINT_037;Prueba a usar ataques de Fuego, Frío y Rayo.
+CAPTURE_HINT_038;Consigue que evite un ataque tuyo.
+CAPTURE_HINT_039;Inflígele mucho daño con un solo ataque.
+CAPTURE_HINT_040;Restablécele mucha VIT de una sola vez.
+CAPTURE_HINT_041;Dale una poción.
+CAPTURE_HINT_042;Inflígele Condena.
+CAPTURE_HINT_043;Otórgale Coraza.
+CAPTURE_HINT_044;Otórgale Escudo.
+CAPTURE_HINT_045;Otórgale Espejo.
+CAPTURE_HINT_046;Otórgale Revitalia.
+CAPTURE_HINT_047;Otórgale Prisa.
+CAPTURE_HINT_048;Otórgale Bravura.
+CAPTURE_HINT_049;Otórgale Fe.
+CAPTURE_HINT_050;Aumenta su Ataque físico.
+CAPTURE_HINT_051;Reduce su Ataque físico.
+CAPTURE_HINT_052;Aumenta su Defensa física.
+CAPTURE_HINT_053;Reduce su Defensa física.
+CAPTURE_HINT_054;Aumenta su Ataque mágico.
+CAPTURE_HINT_055;Reduce su Ataque mágico.
+CAPTURE_HINT_056;Aumenta su Defensa mágica.
+CAPTURE_HINT_057;Reduce su Defensa mágica.
+CAPTURE_HINT_058;Aumenta su Puntería.
+CAPTURE_HINT_059;Reduce su Puntería.
+CAPTURE_HINT_060;Aumenta su Evasión.
+CAPTURE_HINT_061;Reduce su Evasión.
+CAPTURE_HINT_062;Lucha contra el mirage con un solo personaje.
+CAPTURE_HINT_063;No se puede capturar.
+CAPTURE_HINT_064_VIVI;Reduce su VIT (una vez por combate).

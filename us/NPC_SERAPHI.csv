@@ -1,0 +1,41 @@
+﻿npc_seraphi_0000_0000;Hmm hmm hmmmmmm, hm hm hmm hmm.
+npc_seraphi_0000_0001;My, what lovely weather we never stop having.
+npc_seraphi_0000_0002;I can see that you need my services.
+npc_seraphi_0000_0003;O Mighty Mill of Rumors! ...Talk to me.
+npc_seraphi_0000_0004;Hey, if no one else here is up to the task of saving the world, I will. Yup.
+npc_seraphi_0000_0005;I am so bored... Uh, I mean... Boy, do I work hard!
+npc_seraphi_0000_0006;Just between us, I’ve heard...that the chocobo on Chocolatte’s head is the [f2]real[/f] her.
+npc_seraphi_0000_0007;...Ha, just kidding!
+npc_seraphi_0001_0000;It looks like Chocolatte’s got some brand-new merch in stock.
+npc_seraphi_0001_0001;You here to manage your prismariums?
+npc_seraphi_0002_0000;A little heads-up there: the Prism Case can only hold so much, so watch your capacity.
+npc_seraphi_0002_0001;Because if you let the case overflow then...let’s...just...say...
+npc_seraphi_0002_0002;nothing at all ’cause I don’t wanna scare you.
+npc_seraphi_0003_0000;Much like me, the Prism Case will mature over time. Something to look forward to.
+npc_seraphi_0003_0001;You haven’t ever the-been and never [f2]will[/f] the-be mature, Serafie.
+npc_seraphi_0004_0000;Hmm hmm hmm, hm hm hmm hmm!
+npc_seraphi_0004_0001;Aaah! I’ve the-told you a million times that I the-don’t need to be the-watered!
+npc_seraphi_0004_0002;Ohhh... Go ahead, water the-away.
+npc_seraphi_0004_0003;Heh heh, heh heh heh!
+npc_seraphi_0005_0000;There was some girl here the other day looking for you two. I didn’t recognize her, but she was holding a teacup?
+npc_seraphi_0005_0001;Anyway, she said you two have been given “the power to touch the souls of many,” so you should stop by and visit her at your earliest convenience.
+npc_seraphi_0005_0002;Oh, but, uh...sorry, she didn’t leave an address.
+npc_seraphi_0006_0000;Oh, before I forget. You know your airship’s Mirage Tracking System? I took the liberty of outfitting it with my Rumor Radar...
+npc_seraphi_0006_0001;and giving it the mother of all upgrades! You’ll be able to seek out way more Mirages than before.
+npc_seraphi_0006_0002;What do you think? Am I amazing? Because you’re permitted to tell me I’m amazing.
+npc_seraphi_0006_0003;Duuude! Serafie, you [f2]are[/f] amazing! A Mirage Keeper couldn’t ask for a better furry friend. Go you!
+npc_seraphi_0006_0004;Aheh heh heh heh!
+npc_seraphi_0006_0005;Uh, Lann, I hope you meant “fairy friend,” not “furry friend.” And technically, she’s a pixie.
+npc_seraphi_0006_0006;But anyway, thanks Serafie!
+npc_seraphi_0006_0007;No problem. And “furry” works for me. Now get outta here and have fun, you two crazy kids.
+npc_seraphi_QUESTION;What would you like to do?
+npc_seraphi_GEMCASE;Prism Case
+npc_seraphi_TALK;Talk with Serafie
+npc_seraphi_HEAD;What’s that on your head?
+npc_seraphi_GOSSIP;Rumor Radar
+npc_seraphi_CANCEL;Leave
+npc_seraphi_Apple;Zebrapple[~]Temporarily increases the EXP earned in battle.
+npc_seraphi_Mushroom;Glowshroom[~]Temporarily makes Mirages easier to imprism in battle.
+npc_seraphi_FairyStone;Pixie Stone[~]Fills up one unit of the Champion Gauge.
+npc_seraphi_Mover;Mover[~]Increases the SP of all party members by 1.
+npc_seraphi_FairyStone_MAX;Pixie Stone[~](All Champion Gauges are already full.)

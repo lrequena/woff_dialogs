@@ -1,0 +1,773 @@
+﻿COMMON_EMPTY;<EMPTY>
+COMMON_ERROR;Error: <STR PARAM>
+COMMON_RELEASE;Remove
+COMMON_GIL;gil
+COMMON_HELP_MESSAGE_TITLE;HELP
+COMMON_EXPERIENTIAL;EXP
+COMMON_YES;Yes
+COMMON_NO;No
+COMMON_QUESTION_00;? ? ?
+COMMON_QUESTION_01;? ? ? ? ?
+COMMON_QUESTION_02;? ? ? ? ? ×<NUM PARAM>
+COMMON_LIBRARY_MIRAGE;Mirage Manual
+COMMON_LIBRARY_PERSON;Who’s Who
+COMMON_LIBRARY_TUTORIAL;Tip Jar
+COMMON_LIBRARY_MOVIEVIEWER;Theater Mode
+COMMON_NO_INF_00;———
+COMMON_NO_INF_01;-
+COMMON_NOT_LV;—
+COMMON_MIRAGE_HABITAT;Mirages Discovered
+COMMON_MIRAGEBOARD;Mirage Boards
+COMMON_ITEM;Items
+COMMON_ABILITY;Abilities
+COMMON_MIRASTONE;Mirajewels
+COMMON_DICTIONARY_ENTRY;<MESID00 MONSTER_NAME> has been added to the Mirage Manual.
+COMMON_GET_GEM;Obtained <MESID04 MONSTER_NAME>[#ffffff73]<MESID01 MONSTER_NAME> prismarium[/#].
+COMMON_GET_ARUTOBOX;Obtained <MESID04 MONSTER_NAME>[#ffffff73]<MESID01 MONSTER_NAME> eldbox[/#].
+COMMON_NOSENOSE_ICON;<STR PARAM1><STR PARAM2>
+COMMON_PLAYERNAME_DEFAULT_00;Lann
+COMMON_PLAYERNAME_DEFAULT_01;Reynn
+COMMON_TOWERNAME_DEFAULT_00;Bigstack L
+COMMON_TOWERNAME_DEFAULT_01;Bigstack R
+COMMON_TOWERNAME_DEFAULT_02;Lilstack L
+COMMON_TOWERNAME_DEFAULT_03;Lilstack R
+COMMON_USE_ERROR;Cannot be used here.
+COMMON_ABILITY_LIST;View Abilities
+COMMON_ITEM_NAME;<MESID00 ITEM>
+SUBMENU_ABILITY_DETAIL;Modify Abilities
+SUBMENU_BODY_CHANGE;Change Size
+SUBMENU_HENSINKA;Transfigurations
+SUBMENU_ADIEU;Dismiss
+SUBMENU_FORMATION;Stack Setup
+STATUS_STATUS;Stats
+STATUS_LEVEL;LV
+STATUS_HP;HP
+STATUS_AP;AP
+STATUS_HP_LONG;HP
+STATUS_AP_LONG;AP
+STATUS_SP;SP
+STATUS_PHYSICAL_ATTACK;Strength
+STATUS_PHYSICAL_DEFENSE;Defense
+STATUS_MAGIC_ATTACK;Magic
+STATUS_MAGIC_DEFENSE;Magic Defense
+STATUS_AGILITY;Agility
+STATUS_DOSSIRI;Weight
+STATUS_RESIST_LIST;Ailment Resistances
+STATUS_ELEMENT_LIST;Elemental Resistances
+STATUS_ABILITY_LIST;Available Abilities
+STATUS_ABILITY_LIST2;Available Abilities <NUM PAGE>
+STATUS_NEXTEXP;Next LV
+STATUS_NAME;NOT USED
+STATUS_LIST;Information
+STATUS_GROWTH;Growth Ratings
+STATUS_ABILITY_LIST3;Stack Abilities
+STATUS_ABILITY_LIST4;Stack Abilities <NUM PAGE>
+STATUS_STR_PARAM_TAG;<STR PARAM>
+STATUS_NUM_PARAM_TAG;<NUM PARAM>
+STATUS_UP_DELTA;↑
+STATUS_DOWN_DELTA;↓
+STATUS_INVALID_DELTA_PARAM_TAG;-
+STATUS_LEFT_PARENTHESES;(
+STATUS_RIGHT_PARANTHESES;)
+STATUS_EXP_MAX_PARAM_TAG;——
+MAINMENU_ITEM00;Mirage Boards
+MAINMENU_ITEM01;Items
+MAINMENU_ITEM02;Abilities
+MAINMENU_ITEM03;Stack Setup
+MAINMENU_ITEM04;Mirajewels
+MAINMENU_ITEM06;Champion Medals
+MAINMENU_ITEM10;Adventure Log
+MAINMENU_ITEM07;Tip Jar
+MAINMENU_ITEM08;Config
+MAINMENU_ITEM09;Save
+MAINMENU_HELP_ITEM00;View your Mirages’ powers and further their growth.
+MAINMENU_HELP_ITEM01;View or use items in your possession.
+MAINMENU_HELP_ITEM02;Assign abilities to button shortcuts.
+MAINMENU_HELP_ITEM03;Modify your stacks.
+MAINMENU_HELP_ITEM04;Equip stones that grant new abilities to Lann and Reynn.
+MAINMENU_HELP_ITEM06;Equip up to three medals that let you invoke Champions.
+MAINMENU_HELP_ITEM10;View a chronicle of events so far.
+MAINMENU_HELP_ITEM07;Access a variety of useful information.
+MAINMENU_HELP_ITEM08;Change your in-game settings.
+MAINMENU_HELP_ITEM09;Save your progress.
+MAINMENU_HELP_MESSAGE_UNION_SELECT;Select the stack to modify.
+MAINMENU_HELP_MESSAGE_NAME_INPUT;Enter a name.
+MAINMENU_TIME;Play Time
+MAINMENU_MONER_FIX_TEXT;Funds
+MAINMENU_MONER_NUM_PARAM;<NUM MONERPARAM> <STR MONER_NAME>
+BOARD_ACQUIRE_CONDITION;[#ffa7eafc]LOCKED:[/#] Reach LV <NUM PARAM> or higher
+BOARD_ACQUIRE_CONDITION_01;[#ffa7eafc]LOCKED:[/#] Obtain ? ? ?
+BOARD_ACQUIRE_CONDITION_02;[#ffa7eafc]LOCKED:[/#] Obtain <MESID04 ITEM><MESID01 ITEM>.
+BOARD_QUESTION_MASS_CONFIRM;Unlock this space?
+BOARD_QUESTION_BONUS_SELECT;<STR ICON> Choose a mastery bonus from the list below.
+BOARD_QUESTION_BONUS_CONFIRM;<STR ICON>Claim [#ffa7eafc]<STR PARAM>[/#]?
+BOARD_QUESTION_BLANKITEM;Place a custom ability?
+BOARD_QUESTION_BLANKITEM_OVERRIDE;Overwrite with another custom ability?
+BOARD_BLANKITEM_NONE;You have no seeds that can be used here.
+BOARD_QUESTION_BLANKITEM_CONFIRM;Use <MESID03 ITEM>[#ffffff73]<MESID01 ITEM>[/#] to learn this ability?
+BOARD_QUESTION_BLANKITEM_CONFIRM_OVERRIDE;The existing ability will be lost. Are you sure?
+BOARD_HELP_MESSAGE_MASS_EVOLUTION;Select the space to unlock.
+BOARD_HELP_MESSAGE_STONE;Obtain <MESID04 STONE>[#ffffff73]<MESID01 STONE>[/#].
+BOARD_HELP_MESSAGE_MASS_GEM;Obtain <MESID04 PARAM>[#ffffff73]<MESID01 PARAM>[/#].
+BOARD_HELP_MESSAGE_MASS_BLANK;You can use seeds on this space to learn custom abilities.
+BOARD_HELP_MESSAGE_MASS_BLANK_OCCUPY;You can overwrite the ability on this space.
+BOARD_NOTICE_MASTER;<STR ICON> Mirage Board mastered!
+BOARD_NOTICE_GET;Obtained <MESID04 PARAM>[#ffffff73]<MESID01 PARAM>[/#].
+BOARD_NOTICE_EVOLUTION;This Mirage can now transfig into <MESID04 PARAM><MESID01 PARAM>!
+BOARD_NOTICE_ACQUIRE_ABILITY;Learned [#ffa7eafc]<STR PARAM>[/#].
+BOARD_NOTICE_ACQUIRE_BLANK;Blank space acquired.
+BOARD_NOTICE_SET_BLANK;Placed and learned [#ffa7eafc]<STR PARAM>[/#].
+BOARD_NOTICE_NO_ITEM;You have no items that can be used here.
+BOARD_NOTICE_GEM_OVER;You cannot carry any more of this prism.
+BOARD_NOTICE_STONE_OVER;Mirajewels full. You must discard a mirajewel to make space.
+BOARD_NOTICE_SP;You don’t have enough SP.
+BOARD_NOTICE_TEXT;Description
+BOARD_NOTICE_BLANK;Blank Space
+BOARD_MASS_HENSINKA;Transfiguration (<MESID00 PARAM>)
+BOARD_MASS_HENSINKA_00;Transfiguration (<STR PARAM>)
+BOARD_HELP_MESSAGE_MASS_HENSINKA;Unlock the <MESID01 PARAM> transfiguration.
+BOARD_HELP_MESSAGE_MASS_HENSINKA_01;Unlock the <STR PARAM> transfiguration.
+BOARD_HELP_MESSAGE_SELECT;Select a Mirage to further its growth.
+BOARD_HELP_MESSAGE_MASS_MIRAGE;Unlocked the <MESID01 PARAM> transfiguration.
+BOARD_NOTICE_OVERWRITE;[s20]MODIFIABLE[/s]
+BOARD_NOTICE_NOT_CHANGE;You cannot change your mastery bonus later. Are you sure?
+BOARD_NOTICE_ON_HOLD;Obtain this later?
+BOARD_BONUS_00;Sync Level
+BOARD_BONUS_MESSAGE;Sync Bonus[~]Stats have increased.
+BOARD_MASS_RELEASE;Unlock Mirage Board (<MESID00 PARAM>)
+BOARD_MASS_RELEASE_00;Unlock Mirage Board (<STR PARAM>)
+BOARD_MASS_RELEASE_01;Grants access to a new transfiguration's Mirage Board.
+BOARD_NOTICE_CHANGE_BOARD;New Mirage Board unlocked.
+CHARA_HELP_MESSAGE_SELECT;Select a Mirage.
+ITEM_SCROLL_NUM;Qty
+ITEM_CATEGORY_BATTLEITEM;Battle Items
+ITEM_CATEGORY_GARDENGEM;Prisms
+ITEM_CATEGORY_OTHER;Miscellany
+ITEM_CATEGORY_VALUABLS;Key Items
+ITEM_HELP_MESSAGE_BATTLEITEM;Viewing battle items in your possession.
+ITEM_HELP_MESSAGE_GARDENGEM;Viewing prisms in your possession.
+ITEM_HELP_MESSAGE_OTHER;Viewing miscellaneous items in your possession.
+ITEM_HELP_MESSAGE_VALUABLS;Viewing key items in your possession.
+ITEM_BRANCH00;Use this item?
+ABILITY_MAIN;Main
+ABILITY_SUB;Shortcuts
+ABILITY_ICON_PARAM;[i11][i450]<STR ICON>
+ABILITY_FIGHTCOMMANDO;Attack
+ABILITY_HELP_MESSAGE;View abilities you have learned.
+FORMATION_HELP_MESSAGE_MES00;Modify your stacks.
+FORMATION_HELP_MESSAGE_MES01;Select the Mirage to swap in.
+FORMATION_HELP_MESSAGE_MES02;Go to the Mirage Boards menu.
+FORMATION_HELP_MESSAGE_MES03;Go to the Abilities menu.
+FORMATION_HELP_MESSAGE_MES04;Switch between Jiant and Lilikin forms.
+FORMATION_HELP_MESSAGE_MES05;Go to the mirajewels menu.
+FORMATION_HELP_MESSAGE_SINGLE;Unstacked Stats
+FORMATION_HELP_MESSAGE_TOWER;Stacked Stats
+FORMATION_ICON_CHENGE;[i01]
+FORMATION_NOTICE_MES00;You must leave at least one member in each stack.
+FORMATION_QUESTION_MES00;This Mirage is in a stack: <STR FORMATION>. Are you sure?
+FORMATION_VIEWER_ZOOM;Zoom
+FORMATION_VIEWER_MOVE_CAMERA;Move Camera
+FORMATION_VIEWER_CHANGE_CHARA;Cycle Characters
+FORMATION_VIEWER_CAMERA_ROTATE;Rotate Camera
+FORMATION_VIEWER_MODEL_ROTATE;Rotate Character
+STONEMENU_SORT_00;Order Acquired
+STONEMENU_SORT_01;By Type
+STONEMENU_HELP_MESSAGE_EMPTY;Equip mirajewels.
+STONEMENU_HELP_MESSAGE_REMOVE;Remove the equipped mirajewel.
+STONEMENU_HELP_MESSAGE_LOCK;Fulfill the requirements shown to unlock this slot.
+STONEMENU_SLOT1_TERM01;Reach LV 20 or higher.
+STONEMENU_SLOT1_TERM02;Reach LV 40 or higher.
+STONEMENU_SLOT1_TERM03;Reach LV 60 or higher.
+STONEMENU_SLOT1_TERM04;Reach LV 80 or higher.
+STONEMENU_SLOT1_TERM05;Collect 30 different Mirages.
+STONEMENU_SLOT1_TERM06;Collect 60 different Mirages.
+STONEMENU_SLOT1_TERM07;Collect 90 different Mirages.
+STONEMENU_SLOT1_TERM08;Collect 120 different Mirages.
+STONEMENU_SLOT1_TERM09;Collect 150 different Mirages.
+STONEMENU_SLOT1_TERM10;Obtain <MESID03 ITEMNAME>[#ffffff73]<MESID01 ITEMNAME>[/#].
+STONEMENU_QUESTION_00;Discard this mirajewel?
+STONEMENU_QUESTION_01;Remove the mirajewel from the other character using it?
+STONEMENU_NOTICE_00;You cannot equip two of the same mirajewel.
+LEGEND_DETAIL_USEGAUGE;Gauge Cost
+LEGEND_HELP_MESSAGE_00;Select the slot to modify.
+LEGEND_HELP_MESSAGE_01;Select the medal to use.
+QUEST_HELP_MESSAGE_00;Review the story so far and miniventures you have unlocked.
+QUEST_HELP_MESSAGE_01;Select an intervention quest.
+QUEST_MAIN_SCENARIO;The Story So Far
+QUEST_SUB_QUEST;Miniventures
+QUEST_PURPOSE;Progress
+QUEST_RECEIPT_ORDER;Location
+QUEST_REWARD;Reward
+QUEST_CONTENTS;Summary
+QUEST_OUTLINE;Synopsis
+QUEST_REWARD_ITEM;<MESID00 ITEMNAME>
+QUEST_REWARD_ITEM_PL;<MESID00 ITEMNAME> ×<NUM PARAM>
+QUEST_REWARD_MIRAGE;<STR MIRAGENAME>
+QUEST_REWARD_EXP;<STR QUESTEXP><NUM PARAM>
+QUEST_REWARD_MONEY;<NUM PARAM> <STR QUESTMONEY>
+QUEST_CAPTURE_NUMBER;Imprismed
+QUEST_CRUSH_NUMBER;Defeated
+QUEST_COLLECT_NUMBER;Collected
+QUEST_QUESTION_00;Accept this quest?
+GUIDE_USE;Use
+GUIDE_SELECT;Select
+GUIDE_DECIDE;Confirm
+GUIDE_CONFIRM;View
+GUIDE_BACK;Back
+GUIDE_CURSOR;Move Cursor
+GUIDE_STATUS_CHANGE;Cycle Stats
+GUIDE_STATUS_ON;Show Stats
+GUIDE_STATUS_OFF;Hide Stats
+GUIDE_GET;Unlock
+GUIDE_SET;Place
+GUIDE_OVERWRITE;Overwrite
+GUIDE_ABILITY_CHECK;View Abilities
+GUIDE_CAMERA_CHANGE;Toggle Camera
+GUIDE_SUBMENU;Submenu
+GUIDE_SORT_00;Sort
+GUIDE_SORT_01;Organize
+GUIDE_CATEGORY_CHANGE_dummy;NOT USED
+GUIDE_AIRSHIP_CONTROL;Board Airship
+GUIDE_MIRAGE_HABITAT;Mirages Discovered
+GUIDE_SCALING;Zoom
+FORMATION_GUIDE_VIEWER;Examine
+FORMATION_GUIDE_FAVORITE_REGIST;Store Preset
+MAINMENU_GUIDE_MAIN;Toggle Display
+MAINMENU_GUIDE_RESERVE;Toggle Display
+MAINMENU_GUIDE_NAME_INPUT;Rename
+GEMCASE_GUIDE_UNION;Stack Setup
+GEMCASE_GUIDE_FAVORITE_CALL;Apply Preset
+GUIDE_NEXT;Next
+GUIDE_CLOSE;Close
+GUIDE_CONDITION;Requirements
+GUIDE_SCROLLING;Scroll
+GUIDE_INFO_DISP;Show Info
+GUIDE_INFO_HIDE;Hide Info
+GUIDE_WORLDMAP;World Map
+GUIDE_UNION;Stacked/Unstacked
+GUIDE_ABILITY_SET;Assign Ability
+GUIDE_AIRSHIP_RISE_AND_FALL;Ascend/Descend
+GUIDE_AIRSHIP_TURNING;Turn
+GUIDE_AIRSHIP_RUN;Forward
+GUIDE_AIRSHIP;Airship
+GUIDE_GATE_MOVE;Travel
+GUIDE_CATEGORY_CHANGE;Switch Categories
+GUIDE_OKINIIRI_REGISTER;Store
+GUIDE_OKINIIRI_CALL;Apply
+GUIDE_OKINIIRI_STATUS_DETAIL;View Stats
+GUIDE_CONFIG_FIRST;Use Defaults
+GUIDE_CONFIG_DUMP;Discard
+GUIDE_SHOP_SELECT;Change Quantity
+GUIDE_COMMENTARY_CHANGE;Cycle Info
+GUIDE_CHARA_CHANGE;Cycle Characters
+GUIDE_MOVIE_PLAYBACK;Play
+GUIDE_CONFIG_PLAYBACK;Play Sample
+GUIDE_COSTUME_CHANGE;Change Appearance
+GUIDE_MENU_OPEN;Toggle Menu
+GUIDE_MENU_CLOSE;Hide Menu
+GUIDE_SCREEN_ESCAPE;Exit Screen
+GUIDE_SWITCH_SET;Activate
+GUIDE_UPLOAD;Upload
+GUIDE_DOWNLOAD;Save
+GUIDE_ZOOMINOUT;Toggle View
+GUIDE_AREANA_PAGE;Turn Pages
+GUIDE_FORMATIONSTATUS_CHANGE;Cycle Info
+GUIDE_GET_REWARD;Claim Reward
+MAPGUIDE_CHECK_GATE;<STR ICON> Examine
+HELPGUIDE_CHECK_RETURNGATE;<STR ICON> Examine
+HELPGUIDE_CHECK_HILLSGATE;<STR ICON> Examine
+HELPGUIDE_CHECK_TREASURE;<STR ICON> Examine
+HELPGUIDE_CHECK_SPOT;<STR ICON> Examine
+HELPGUIDE_CHECK_FUSE;<STR ICON> Examine
+HELPGUIDE_CHECK_OBJECT;<STR ICON> Examine
+HELPGUIDE_SAVE;<STR ICON> Examine
+HELPGUIDE_WORLDMAP_OBJECT;Examine
+HELPGUIDE_TALK;<STR ICON> Talk
+HELPGUIDE_IN_ARTILLERY;<STR ICON> Enter
+HELPGUIDE_OUT_ARTILLERY;<STR ICON> Leave
+HELPGUIDE_ENTER;<STR ICON> Enter
+HELPGUIDE_EXIT;<STR ICON> Leave
+HELPGUIDE_JUMP;<STR ICON> Descend
+HELPGUIDE_CLOSE;<STR ICON> Close
+HELPGUIDE_NEXT;<STR ICON> Next
+GEMCASE_HELP_MESSAGE_00;Select a character.
+GEMCASE_HELP_MESSAGE_01;Select the Mirage to swap in.
+GEMCASE_HELP_MESSAGE_02;Transfig a Mirage to change its form.
+GEMCASE_HELP_MESSAGE_03;Go to the Mirage Boards menu.
+GEMCASE_HELP_MESSAGE_04;Go to the Abilities menu.
+GEMCASE_HELP_MESSAGE_05;Switch between Jiant and Lilikin forms.
+GEMCASE_HELP_MESSAGE_06;Go to the mirajewels menu.
+GEMCASE_HELP_MESSAGE_07;Unimprism a Mirage and remove it from your possession.
+GEMCASE_HELP_MESSAGE_08;View a list of this character’s abilities.
+GEMCASE_QUESTION_PARTYOUT;This will affect your stacks. Are you sure?
+GEMCASE_QUESTION_FORMATION_MOVE;Go to the Stack Setup menu?
+GEMCASE_QUESTION_SEPARATE;Dismiss this Mirage permanently?[~]You cannot get the Mirage back.[~]It will be automatically removed from multiplayer teams.
+GEMCASE_QUESTION_SEPARATE_01;Dismiss this Mirage permanently?[~]You cannot get the Mirage back.
+GEMCASE_NOT_ADIEU;You cannot dismiss this Mirage.
+GEMCASE_NOT_MEET_TWICE;Dismiss this Mirage permanently?[~]You cannot get it back, and will [#ffdc0000]never encounter this type of Mirage again[/#].[~]It will be automatically removed from multiplayer teams.
+GEMCASE_NOT_CHANGE;You cannot swap out the Mirage because “<STR PARAM>” will be empty.
+GEMCASE_NOT_CHANGE_ADIEU;You cannot dismiss the Mirage because “<STR PARAM>” will be empty.
+GEMCASE_NOT_CHANGE_01;You cannot transfig the Mirage because “<STR PARAM>” will be empty.
+GEMCASE_LEAVE;End swap?
+GEMCASE_NOT_CHANGE_MAINCHARACTER;One twin cannot be placed in the other twin’s stack.
+DARKCREVASSE_LV;LV <NUM PARAM>
+WORLDMAP_HELP_MESSAGE;View the world map.
+WORLDMAP_TITLE_TOGATE;Select a destination.
+WORLDMAP_DUNGEON_CATEGORY;Dungeons
+WORLDMAP_AREA_CATEGORY;Regions
+WORLDMAP_TOWN_CATEGORY;Towns
+DUNGEONMAP_ICON_DESTINATION;Destination
+DUNGEONMAP_ICON_QUEST;Quest
+DUNGEONMAP_ICON_RESONANCE;Puzzle Switch
+DUNGEONMAP_ICON_GATE;Gate
+DUNGEONMAP_ICON_RETURN_GATE;Exit Gate
+DUNGEONMAP_ICON_SAVE_CRYSTAL;Save Crystal
+DUNGEONMAP_ICON_DARK_CREVASSE;Murkrift
+DUNGEONMAP_ICON_BURNED;Sizzle
+DUNGEONMAP_ICON_FROZEN;Chill
+DUNGEONMAP_ICON_ELECTRICITY;Zap
+DUNGEONMAP_ICON_BROKEN;Smash
+DUNGEONMAP_ICON_FOUND;Treasure Trove
+DUNGEONMAP_ICON_FLAP;Flutter
+DUNGEONMAP_SUPPORT_ABILITY;Support Ability
+GRAPHICS_SAVE;S
+LIBRARY_HELP_MESSAGE;Displaying Mirage information.
+LIBRA_CAPTURE_COUNT;Imprismed
+LIBRA_HABITAT;[#ffa7eafc]Main Habitats:[/#][~]<STR PARAM1>[~]<STR PARAM2>
+LIBRA_CAPTURECHANCE;[#ffa7eafc]<STR PARAM1>[/#] to create a prismtunity.[~]Requires <MESID04 PARAM2>[#ffffff73]<MESID01 PARAM2>[/#].
+LIBRA_CAPTURECHANCE_1LINE;[#ffa7eafc]<STR PARAM1>[/#]
+LIBRA_CAPTURECHANCE_SECRET;[#ffa7eafc]<STR PARAM1>[/#] to create a prismtunity.[~]Requires a [#ffffff73]<STR PARAM2>[/#]
+LIBRA_CAPTURECHANCE_NO_INF;———
+LIBRARY_CHANGE_INFO;Elements
+SHOP_SELECT_BUY;Buy
+SHOP_SELECT_SELL;Sell
+SHOP_HELP_MESSAGE_SELECT_BUY;Purchase items.
+SHOP_HELP_MESSAGE_SELECT_SELL;Sell items for gil.
+SHOP_LIST_PRICE;Price
+SHOP_LIST_SELECT_NUM;Cart
+SHOP_LIST_HAVE_NUM;Stock
+SHOP_LIST_GIL;Funds
+SHOP_LIST_TOTAL_PRICE;Total Cost
+SHOP_QUESTION_SELECT_BUY;Purchase for <NUM MONEY> gil?
+SHOP_QUESTION_SELECT_SELL;Sell for <NUM MONEY> gil?
+SHOP_QUESTION_SELECT_BUY_ALMA_GEM;Trade in <NUM MONEY> arma gems?
+SHOP_MEDALNAME;<MESID00 Name>’s Champion Medal
+SHOP_ALMA_GEM_NUM;Arma Gems
+SHOP_EXCHANGE;Trade In
+SHOP_HELP_MESSAGE_EXCHANGE;Trade in arma gems.
+NAME_INPUT_HELP_MESSAGE_CAPTURE;You have befriended a new Mirage.
+NAME_INPUT_HELP_MESSAGE_GEM_LIMIT_00;Your Prism Case is full.
+NAME_INPUT_HELP_MESSAGE_GEM_LIMIT_01;Let the new Mirage go?
+NAME_INPUT_HELP_MESSAGE_NAME;Give your Mirage a name? This will help you keep track of it later.
+NAME_INPUT_HELP_MESSAGE_NAME_INPUT;The name can be up to 10 characters long.
+NAME_INPUT_HELP_MESSAGE_BOX_SEND;Select the Mirage to leave with Serafie.
+NAME_INPUT_QUESTION_LAST_NAME;Is this the name you want?
+NAME_INPUT_NOTICE_SEND_GEM_DEFAULT;The Mirage has been sent to the Prism Case.
+NAME_INPUT_NOTICE_SEND_GEM;<STR_MONSTER_NAME> has been sent to the Prism Case.
+NAME_INPUT_MESSAGE_BOX_SEND;Is this the right Mirage?
+NAME_INPUT_WINDOW_MES_00_00;Let it go
+NAME_INPUT_WINDOW_MES_00_01;Dismiss another Mirage
+NAME_INPUT_WINDOW_MES_01_00;Really, let the Mirage go.
+NAME_INPUT_WINDOW_MES_01_01;Wait, I changed my mind!
+NAME_INPUT_WINDOW_MES_02_00;Name your Mirage
+NAME_INPUT_WINDOW_MES_02_01;Use the default
+NAME_INPUT_WINDOW_MES_03_00;Looks good!
+NAME_INPUT_WINDOW_MES_03_01;No, let me change it.
+NAME_INPUT_WINDOW_MES_04_00;Take this Mirage with you?
+NAME_INPUT_WINDOW_MES_04_01;Take the Mirage with you
+NAME_INPUT_WINDOW_MES_04_02;Leave it with Serafie
+NAME_INPUT_WINDOW_MES_05_00_DEFAULT;Leave this Mirage with Serafie?
+NAME_INPUT_WINDOW_MES_05_00;Leave <STR_MONSTER_NAME> with Serafie?
+NAME_INPUT_WINDOW_MES_05_01_DEFAULT;The Mirage has been sent to the Prism Case.
+NAME_INPUT_WINDOW_MES_05_01;<STR_MONSTER_NAME> has been sent to the Prism Case.
+NAME_INPUT_WINDOW_MES_06_00;This name includes text that is not allowed. Please choose another.
+NAME_INPUT_HELP_MESSAGE_NAMECHANGE;It is recommended you give your Mirages unique names.
+NAME_INPUT_WINDOW_MES_00_02;Dismiss another Mirage
+NAME_INPUT_NOTICE_RELEASE_DEFAULT;The Mirage has been dismissed.
+NAME_INPUT_NOTICE_RELEASE;<STR PARAM> has been dismissed.
+NAME_INPUT_WINDOW_MES_07_00;Select from the Prism Case
+NAME_INPUT_WINDOW_MES_07_01;Select from Mirages accompanying you
+NAME_INPUT_NOTICEMES_01_00;Choose a Name
+NAME_INPUT_ERROR_MES;Enter a name.
+NAME_INPUT_ERROR_MES_01;This name includes text that is not allowed.[~]Please choose another.
+NAME_INPUT_HELP_MESSAGE_SELECT;Select the Mirage to dismiss.
+ATTRIBUTE_FIRE;[i100]
+ATTRIBUTE_WATER;[i105]
+ATTRIBUTE_THUNDER;[i102]
+ATTRIBUTE_WIND;[i104]
+ATTRIBUTE_ICE;[i101]
+ATTRIBUTE_EARTH;[i103]
+ATTRIBUTE_LIGHT;[i106]
+ATTRIBUTE_DARK;[i107]
+ATTRIBUTE_POISON;[i108]
+ATTRIBUTE_CONFUSION;[i109]
+ATTRIBUTE_SLEEP;[i110]
+ATTRIBUTE_BLIND;[i111]
+ATTRIBUTE_SILENCE;[i112]
+ATTRIBUTE_ABSORB;[i300]
+ATTRIBUTE_REGIST;[i301]
+NOSENOSE_ICON_SINGLE;[i138]
+GROWTH_ICON;[i222]
+ATTRIBUTE_SLOW;[i113]
+ATTRIBUTE_BERSERK;[i114]
+ATTRIBUTE_DEAD;[i115]
+ATTRIBUTE_DEAD2;[i116]
+ATTRIBUTE_STUN;[i117]
+ATTRIBUTE_PROTECT;[i118]
+ATTRIBUTE_SHELL;[i119]
+ATTRIBUTE_REFLECT;[i120]
+ATTRIBUTE_REGEN;[i121]
+ATTRIBUTE_HASTE;[i122]
+ATTRIBUTE_BRAVE;[i123]
+ATTRIBUTE_FAITH;[i124]
+ATTRIBUTE_PAUP;[i125]
+ATTRIBUTE_PADOWN;[i126]
+ATTRIBUTE_PDUP;[i127]
+ATTRIBUTE_PDDOWN;[i128]
+ATTRIBUTE_MAUP;[i129]
+ATTRIBUTE_MADOWN;[i130]
+ATTRIBUTE_MDUP;[i131]
+ATTRIBUTE_MDDOWN;[i132]
+ATTRIBUTE_DXUP;[i135]
+ATTRIBUTE_DXDOWN;[i136]
+ATTRIBUTE_EVUP;[i133]
+ATTRIBUTE_EVDOWN;[i134]
+ICON_DOSSIRI_00;[i250]
+ICON_DOSSIRI_01;[i251]
+ICON_DOSSIRI_02;[i252]
+ICON_DOSSIRI_03;[i253]
+ICON_DOSSIRI_04;[i254]
+ICON_DOSSIRI_05;[i255]
+ICON_DOSSIRI_06;[i256]
+ICON_DOSSIRI_07;[i257]
+ICON_DOSSIRI_08;[i258]
+ICON_DOSSIRI_09;[i259]
+ICON_DOSSIRI_10;[i251][i250]
+ICON_DOSSIRI_11;[i251][i251]
+ICON_DOSSIRI_12;[i251][i252]
+ICON_DOSSIRI_13;[i251][i253]
+ICON_DOSSIRI_14;[i251][i254]
+ICON_DOSSIRI_15;[i251][i255]
+ICON_BALANCE_00;[i310]
+ICON_BALANCE_01;[i311]
+ICON_BALANCE_02;[i312]
+ICON_BALANCE_03;[i313]
+ICON_CIRCLE;[i3]
+ICON_TRIANGLE;[i4]
+ICON_SQUARE;[i5]
+ICON_CROSS;[i6]
+PAUSE_DISPLAY;PAUSE
+PAUSE_TEXT_RETURN_TITLE;Return to the Title Screen? Any unsaved progress will be lost.
+PAUSE_TEXT_SKIP_EVENT;Skip this scene?
+PAUSE_GUIDE_RETURN_TITLE;Return to Title Screen
+PAUSE_GUIDE_SKIP_EVENT;Skip Scene
+TITLE_NEWGAME;New Game
+TITLE_CONFIG;Config
+TITLE_ONLINE;Network
+TITLE_CROSS_SAVE;Cloud Save
+FAVORITE_00;Preset 1
+FAVORITE_01;Preset 2
+FAVORITE_02;Preset 3
+FAVORITE_03;Preset 4
+FAVORITE_04;Preset 5
+FAVORITE_REGISTER;Store as <STR FAVORITE>?
+FAVORITE_REGISTER_OVERWRITE;Overwrite <STR FAVORITE>?
+FAVORITE_REGISTER_SET;Stored as <STR FAVORITE>.
+FAVORITE_CALL;Apply <STR FAVORITE>? [s20]Note: Your current stacks will be lost.[/s]
+FAVORITE_CALL_SET;<STR FAVORITE> has been applied.
+FAVORITE_HELP_MESSAGE_00;Store your current stacks as a preset.
+FAVORITE_HELP_MESSAGE_01;Apply a preset, overwriting your current stacks.
+FAVORITE_FORMATION_HELP_MESSAGE;View your stats.
+SWITCH_HELP_MESSAGE;Select the Mirages to place on the Puzzle Switch.
+SWITCH_DECISION;Confirm
+SWITCH_DECISION_QUESTION;Is this the combination you want?
+SWITCH_CANCEL;Cancel
+SWITCH_INFORMATION_MESSAGE_00;Stack Mirages on the Puzzle Switch
+SWITCH_INFORMATION_MESSAGE_01;Switch Conditions:
+SWITCH_INFORMATION_MESSAGE_02;You have not met the switch’s conditions.
+SWITCH_INFORMATION_MESSAGE_03;Switch conditions met. Press [i4] to activate.
+SWITCH_QUESTION_CANCEL;Give up on stacking Mirages on this switch?
+CONFIG_MENU_00;Message Speed
+CONFIG_MENU_01;Character Names
+CONFIG_MENU_02;Minimap
+CONFIG_MENU_03;Vibration
+CONFIG_MENU_04;Battle Mode
+CONFIG_MENU_05;Battle Speed
+CONFIG_MENU_06;Battle Theme
+CONFIG_MENU_07;Champion Theme
+CONFIG_MENU_08;Voice Language
+CONFIG_MENU_09;Voiced Dialogue
+CONFIG_MENU_10;Voice Volume
+CONFIG_MENU_11;Music Volume
+CONFIG_MENU_12;Sound Effect Volume
+CONFIG_MENU_13;STEAM NOT USED
+CONFIG_MENU_COMMAND_FAST;Faster
+CONFIG_MENU_COMMAND_SLOW;Slower
+CONFIG_MENU_COMMAND_ON;On
+CONFIG_MENU_COMMAND_OFF;Off
+CONFIG_MENU_COMMAND_BIG;Large
+CONFIG_MENU_COMMAND_SMALL;Small
+CONFIG_MENU_COMMAND_PLUS;+
+CONFIG_MENU_COMMAND_MINUS;-
+CONFIG_MENU_COMMAND_ACTIVE;Active
+CONFIG_MENU_COMMAND_WAIT;Wait
+CONFIG_MENU_COMMAND_SEMI_ACTIVE;Semi-active
+CONFIG_MENU_COMMAND_JAPANESE;Japanese
+CONFIG_MENU_COMMAND_ENGLISH;English
+CONFIG_MENU_COMMAND_MOMENTARY;Hold
+CONFIG_MENU_COMMAND_ALTERNATE;Toggle
+CONFIG_NOTICE_DLC;STEAM NOT USED
+CONFIG_NOTICE_FIRST;Restore all settings to their defaults?
+CONFIG_NOTICE_VOICE_CHANGE;This option must be changed on the Title Screen.
+CONFIG_HELP_MESSAGE00;Change the message display speed.
+CONFIG_HELP_MESSAGE01;Choose whether to display character names above subtitles.
+CONFIG_HELP_MESSAGE02;Choose whether or not to display the minimap.
+CONFIG_HELP_MESSAGE03;Turn controller vibration on or off.
+CONFIG_HELP_MESSAGE04;Change the game’s battle mode.
+CONFIG_HELP_MESSAGE05;Change the speed at which battles proceed.
+CONFIG_HELP_MESSAGE06;Choose the music that plays during battles.
+CONFIG_HELP_MESSAGE07;Change the music that plays when invoking Champions.
+CONFIG_HELP_MESSAGE08;Change the voice language.
+CONFIG_HELP_MESSAGE09;Turn voiced dialogue in cutscenes and the field on or off.
+CONFIG_HELP_MESSAGE10;Set the voice volume.
+CONFIG_HELP_MESSAGE11;Set the music volume.
+CONFIG_HELP_MESSAGE12;Set the sound effect volume.
+CONFIG_HELP_MESSAGE13;STEAM NOT USED
+CONFIG_MENU_14;Battle Menu
+CONFIG_MENU_COMMAND_SIMPLE;Basic
+CONFIG_MENU_COMMAND_CLASSIC;Classic
+CONFIG_HELP_MESSAGE14;Choose the menu layout you start battles with.
+CONFIG_MENU_15;Fast-Forward
+CONFIG_HELP_MESSAGE15;Choose whether or not the fast-forward button needs to be held down.
+CONFIG_MENU_16;NOT USED
+CONFIG_HELP_MESSAGE16;NOT USED
+CONFIG_MENU_SUMMON_NORMAL;NOT USED
+CONFIG_MENU_SUMMON_SHORT;NOT USED
+OVER_NOTICE_MIRASTONE00_00;You cannot carry any more mirajewels. Review your current stock.
+OVER_NOTICE_MIRASTONE00_01;Go to the mirajewel screen.
+OVER_NOTICE_MIRASTONE00_02;Abandon this mirajewel.
+OVER_NOTICE_GEM00_00;You cannot carry any more of this.
+MINIGAME_00;Minigames
+MINIGAME_01;Einhänder Invasion
+MINIGAME_02;Shooter
+MINIGAME_03;Sandstalker
+MINIGAME_04;Whack-a-Cactuar
+MINIGAME_05;Nebula Storm
+BATTLE_BGM00;Normal Battle 1
+BATTLE_BGM01;Normal Battle 2
+BATTLE_BGM02;Boss Battle 1
+BATTLE_BGM03;Boss Battle 2
+BATTLE_BGM04;Boss Battle 3
+BATTLE_BGM05;Final Battle 1
+BATTLE_BGM06;Final Battle 2
+BATTLE_BGM07;Champion Theme: Warrior of Light
+BATTLE_BGM08;Champion Theme: Refia
+BATTLE_BGM09;Champion Theme: Bartz
+BATTLE_BGM10;Champion Theme: Celes
+BATTLE_BGM11;Champion Theme: Terra
+BATTLE_BGM12;Champion Theme: Cloud
+BATTLE_BGM13;Champion Theme: Tifa
+BATTLE_BGM14;Champion Theme: Shelke
+BATTLE_BGM15;Champion Theme: Squall
+BATTLE_BGM16;Champion Theme: Tidus
+BATTLE_BGM17;Champion Theme: Yuna
+BATTLE_BGM18;Champion Theme: Shantotto
+BATTLE_BGM19;Champion Theme: Snow
+BATTLE_BGM20;Champion Theme: Lightning
+BATTLE_BGM21;Boss Battle 4
+BATTLE_BGM22;Champion Theme: Sephiroth
+BATTLE_BGM23;Champion Theme: Sora
+BATTLE_BGM24;Champion Theme: Balthier
+BATTLE_BGM25;Default
+BATTLE_BGM26;Random
+DICTIONARY_COMPLETE_RATE;Completed
+MIRAGE_COMPLETE_RATE;Mirages Collected
+DICTIONARY_KIND;Type
+DICTIONARY_HELP_MESSAGE_00;View information about the Mirage.
+DICTIONARY_HELP_MESSAGE_01;Select a Mirage.
+DICTIONARY_PERCENT;%
+DICTIONARY_BACKGROUND;Backdrop
+DICTIONARY_MOTION;Animation
+DICTIONARY_VOICE;Voice
+DICTIONARY_VOICE_PLAYBACK;Play Voice
+DICTIONARY_MOTION_PLAYBACK;Play Animation
+DICTIONARY_CAMERA_RESET;Reset Camera
+DICTIONARY_ICON_01;<STR ICON1>[i450]<STR ICON2>
+CHARACTER_DICTIONARY_HELP_MESSAGE_00;Select a character.
+CHARACTER_DICTIONARY_HELP_MESSAGE_01;Displaying character biography.
+LIBRARY_HELP_MESSAGE_00;View information about the Mirages you have collected.
+LIBRARY_HELP_MESSAGE_01;View information about the characters you have met.
+LIBRARY_HELP_MESSAGE_02;View a variety of useful tips.
+LIBRARY_HELP_MESSAGE_03;Select the information you want to view.
+TIPS_HELP_MESSAGE_LIST_TITLE;Select the tip you want to view.
+TIPS_NUM_PER_NUM_PARAM_TAG;<NUM PER_PARAM1>/<NUM PER_PARAM2>
+TIPS_PEGE_CHANGE;Turn Pages
+SORT_SIZE;By Size
+SORT_LEVEL;By Level
+SORT_GET;Order Acquired
+SORT_ID;By Mirage No.
+SORT_DOSSIRI;By Weight
+SORT_SIZE_HELP;Arrange your Mirages by size.
+SORT_LEVEL_HELP;Arrange your Mirages by level.
+SORT_ID_HELP;Arrange your Mirages by the order they are listed in the Mirage Manual.
+SORT_DOSSIRI_HELP;Arrange your Mirages by weight.
+NOWLOADING_MESSAGE;Loading
+NOWLOADING_MESSAGE_01;.
+TELEPOSTONE_MSG;Return to the entrance?
+CROSSSAVE_00;STEAM NOT USED
+CROSSSAVE_HELP_MESSAGE_00;STEAM NOT USED
+CROSSSAVE_UPLOAD_00;STEAM NOT USED
+CROSSSAVE_HELP_MESSAGE_UPLOAD_00;STEAM NOT USED
+CROSSSAVE_QUESTION_UPLOAD_00;STEAM NOT USED
+CROSSSAVE_QUESTION_UPLOAD_01;STEAM NOT USED
+CROSSSAVE_DOWNLOAD_00;STEAM NOT USED
+CROSSSAVE_HELP_MESSAGE_DOWNLOAD_00;STEAM NOT USED
+CROSSSAVE_QUESTION_DOWNLOAD_00;Any unsaved progress will be lost. Are you sure?
+CROSSSAVE_NOTICE_DOWNLOAD_00;STEAM NOT USED
+AIR_LOAD_HELP_MESSAGE_00;Where do you want to go?
+LIBRAR_SIZE;Size
+LIBRAR_SIZE_S;S
+LIBRAR_SIZE_M;M
+LIBRAR_SIZE_L;L
+LIBRAR_SIZE_Ex;XL
+MOVIE_HELP_00;Select the scene you want to watch.
+MOVIE_QUESTION_00;End playback?
+MOVIE_QUESTION_01;Return to the Title Screen?
+MOVIE_QUESTION_02;Stop Playback
+AREANA_HELP_00;Select an opponent.
+AREANA_LV;LV <NUM PARAM>
+AREANA_REWARD;Reward: [#ffffff73]<MESID00 ITEM>[/#]
+AREANA_NAME;<STR MIRAGENAME>
+AREANA_QUESTION_CHALLENGE;Attempt “<STR MIRAGENAME>”?
+AREANA_CHALLENGE_ERROR_00;Complete the Prologue to unlock this arena.
+AREANA_CHALLENGE_ERROR_01;Complete Chapter 1 to unlock this arena.
+AREANA_CHALLENGE_ERROR_02;Complete Chapter 2 to unlock this arena.
+AREANA_CHALLENGE_ERROR_03;Complete Chapter 3 to unlock this arena.
+AREANA_CHALLENGE_ERROR_04;Complete Chapter 4 to unlock this arena.
+AREANA_CHALLENGE_ERROR_05;Complete Chapter 5 to unlock this arena.
+AREANA_CHALLENGE_ERROR_06;Complete Chapter 6 to unlock this arena.
+AREANA_CHALLENGE_ERROR_07;Complete Chapter 7 to unlock this arena.
+AREANA_CHALLENGE_ERROR_08;Complete Chapter 8 to unlock this arena.
+AREANA_CHALLENGE_ERROR_09;Complete Chapter 9 to unlock this arena.
+AREANA_CHALLENGE_ERROR_10;Complete Chapter 10 to unlock this arena.
+AREANA_CHALLENGE_ERROR_11;Complete Chapter 11 to unlock this arena.
+AREANA_CHALLENGE_ERROR_12;Complete Chapter 12 to unlock this arena.
+AREANA_CHALLENGE_ERROR_13;Complete Chapter 13 to unlock this arena.
+AREANA_CHALLENGE_ERROR_14;Complete Chapter 14 to unlock this arena.
+AREANA_CHALLENGE_ERROR_15;Complete Chapter 15 to unlock this arena.
+AREANA_CHALLENGE_ERROR_16;Complete Chapter 16 to unlock this arena.
+AREANA_CHALLENGE_ERROR_17;Complete Chapter 17 to unlock this arena.
+AREANA_CHALLENGE_ERROR_18;Complete Chapter 18 to unlock this arena.
+AREANA_CHALLENGE_ERROR_19;Complete Chapter 19 to unlock this arena.
+AREANA_CHALLENGE_ERROR_20;Complete Chapter 20 to unlock this arena.
+AREANA_CHALLENGE_ERROR_21;Complete Chapter 21 to unlock this arena.
+AREANA_CHALLENGE_ERROR_22;Complete Chapter 22 to unlock this arena.
+AREANA_CHALLENGE_SORTGUIDE_01;Default
+AREANA_CHALLENGE_SORTGUIDE_02;By Level
+AREANA_CHALLENGE_SORTGUIDE_03;Incomplete First
+AREANA_CHALLENGE_SORTGUIDE_04;Complete First
+STATUS_KUZURENIKUSA;Stability
+STATUS_KUZURENIKUSA_FUTUU;Average
+STATUS_KUZURENIKUSA_YAYA;Weak
+STATUS_KUZURENIKUSA_SOKOSOKO;Good
+STATUS_KUZURENIKUSA_ANTEI;Excellent
+TITLE_MESSAGE_00;New Game
+TITLE_MESSAGE_01;Continue
+TITLE_MESSAGE_02;STEAM NOT USED
+TITLE_MESSAGE_03;STEAM NOT USED
+TITLE_MESSAGE_04;STEAM NOT USED
+TITLE_MESSAGE_05;STEAM NOT USED
+TITLE_MESSAGE_06;NOT USED
+TITLE_MESSAGE_07;NOT USED
+TITLE_MESSAGE_08;New Save Data
+TITLE_MESSAGE_09;STEAM NOT USED
+TITLE_MESSAGE_10;STEAM NOT USED
+TITLE_MESSAGE_11;STEAM NOT USED
+TITLE_MESSAGE_12;STEAM NOT USED
+TITLE_PRESS_ANY_BUTTON;PRESS ANY BUTTON
+TITLE_CROSSSAVE_00;STEAM NOT USED
+TITLE_CROSSSAVE_01;STEAM NOT USED
+TITLE_CROSSSAVE_HELP_MESSAGE;STEAM NOT USED
+TITLE_CROSSSAVE_NOTICE_UPLOAD;STEAM NOT USED
+TITLE_CROSSSAVE_NOTICE_DOWNLOAD;STEAM NOT USED
+TITLE_CROSSSAVE_WARNING_UPLOAD;STEAM NOT USED
+TITLE_CROSSSAVE_UPLOAD_END;STEAM NOT USED
+TITLE_CROSSSAVE_WARNING_DOWNLOAD;STEAM NOT USED
+TITLE_CROSSSAVE_DOWNLOAD_END;STEAM NOT USED
+TITLE_CROSSSAVE_DAMAGE_DATA;The save data is corrupt.
+TITLE_CROSSSAVE_NO_DETA;No save data
+TITLE_CROSSSAVE_CONNECTING;Connecting...
+TITLE_ERROR_00;Theater Mode relies on your save data from the main game.[~][~]Please be aware that starting a New Game or[~]updating your save data to an earlier point in the story[~]can cause scenes in Theater Mode to become locked again.
+TITLE_ERROR_01;NOT USED
+TITLE_ERROR_02;Create new save data and overwrite the corrupt data?[~](You cannot start the game without creating save data.)
+TITLE_ERROR_03;NOT USED
+TITLE_ERROR_04;NOT USED
+TITLE_ERROR_05;STEAM NOT USED
+TITLE_ERROR_06;STEAM NOT USED
+TITLE_ERROR_07;Unable to read downloadable content.[~]If you proceed, the content may not be available in the game.
+TITLE_ERROR_08;NOT USED
+TITLE_ERROR_09;STEAM NOT USED
+TITLE_ERROR_10;STEAM NOT USED
+TITLE_ERROR_11;A new version is available.[~]Please update to the latest version and try again.
+TITLE_DOWNLOAD_HELP;STEAM NOT USED
+COPY_RIGHT_MESSAGE;STEAM NOT USED
+TITLE_WARNING_MESSAGE;STEAM NOT USED
+TITLE_GAME_VERSION;Ver <NUM PARAM>
+TITLE_VOICE_ANNOUNCE;STEAM NOT USED
+TITLE_LINKAGE_00;STEAM NOT USED
+TITLE_LINKAGE_01;STEAM NOT USED
+TITLE_LINKAGE_ERROR_00;STEAM NOT USED
+NPC_QUEST_RECEIVE_00;Accept this quest? (<MESID00 PURPOSEMES>)
+NPC_QUEST_RECEIVE_01;Yes
+NPC_QUEST_RECEIVE_02;No
+NPC_QUEST_RECEIVE_03;Objectives met: “<STR QUESTNAME>”
+NPC_QUEST_RECEIVE_04;Accept the request to find [#ffffff73]<NUM PARAM> <MESID05 ITEMNAME>[/#]?
+NPC_QUEST_RECEIVE_05;Accept the request to hunt <MESID05 MIRAGENAME>?
+NPC_QUEST_RECEIVE_06;Accept the request to find [#ffffff73]<NUM PARAM> <MESID05 ITEMNAME>[/#][~]and [#ffffff73]<NUM PARAM02> <MESID05 ITEMNAME02>[/#]?
+QUEST_ACHIEVEMENT_MESSAGE_MULTI;Obtained [#ffffff73]<NUM COUNT> <MESID05 NAME>[/#] as a reward.
+QUEST_ACHIEVEMENT_MESSAGE_SINGLE;Obtained <MESID04 NAME>[#ffffff73]<MESID01 NAME>[/#] as a reward.
+QUEST_ACHIEVEMENT_OVER_MULTI;You cannot carry any more <MESID05 NAME>.
+QUEST_ACHIEVEMENT_OVER_SINGLE;You cannot carry any more <MESID05 NAME>.
+QUEST_ACHIEVEMENT_MESSAGE_GIL;Obtained <NUM COUNT> gil as a reward.
+TSS_MESSAGE_TEST;Viewing information about downloadable content.
+TSS_ADD_MESSAGE_00;New intervention quests available.
+TSS_ADD_MESSAGE_01;New Mirages available.
+TSS_ADD_MESSAGE_02;Obtained a [#ffffff73]Coliseum ticket[/#] for the cactuar johnny.
+TSS_ADD_MESSAGE_03;Obtained a [#ffffff73]Coliseum ticket[/#] for the white chocobo.
+TSS_ADD_MESSAGE_04;Obtained a [#ffffff73]Coliseum ticket[/#] for the glow moogle.
+TSS_ADD_MESSAGE_05;Obtained a [#ffffff73]Coliseum ticket[/#] for the red bonnetberry.
+TSS_ADD_MESSAGE_06;Obtained a [#ffffff73]Coliseum ticket[/#] for the kobold mimic.
+TSS_ADD_MESSAGE_07;Obtained a [#ffffff73]Coliseum ticket[/#] for the dark behemoth.
+TSS_ADD_MESSAGE_08;Obtained a [#ffffff73]Coliseum ticket[/#] for the sky dragon.
+TSS_ADD_MESSAGE_09;Obtained a [#ffffff73]Coliseum ticket[/#] for the crimson armor.
+TSS_ADD_MESSAGE_10;Obtained a [#ffffff73]Coliseum ticket[/#] for the topaz carbuncle.
+TSS_ADD_MESSAGE_11;Obtained a [#ffffff73]Coliseum ticket[/#] for the kaguya flan.
+TSS_ADD_MESSAGE_12;Obtained a [#ffffff73]Coliseum ticket[/#] for the iris.
+TSS_ADD_MESSAGE_13;Obtained a [#ffffff73]Coliseum ticket[/#] for the nidhogg.
+TSS_ADD_MESSAGE_14;Obtained a [#ffffff73]Coliseum ticket[/#] for the astraea.
+TSS_ADD_MESSAGE_15;Obtained a [#ffffff73]Coliseum ticket[/#] for 2P Tama.
+TSS_ADD_MESSAGE_16;Obtained a [#ffffff73]Coliseum ticket[/#] for 2P Serafie.
+TSS_ADD_MESSAGE_17;Obtained a [#ffffff73]Coliseum ticket[/#] for the Magitek armor P.
+TSS_ADD_MESSAGE_18;Obtained a [#ffffff73]Coliseum ticket[/#] for Boko.
+TSS_ADD_MESSAGE_19;Obtained a [#ffffff73]Coliseum ticket[/#] for Miney.
+TSS_ADD_MESSAGE_20;Obtained a [#ffffff73]Coliseum ticket[/#] for Mo.
+TSS_ADD_MESSAGE_21;Obtained a [#ffffff73]secret memory[/#].
+TSS_ADD_MESSAGE_22;Obtained [#ffffff73]Sephiroth’s Champion Medal[/#].
+TSS_ADD_MESSAGE_23;NOT USED
+TSS_ADD_MESSAGE_24;Obtained [#ffffff73]Balthier’s Champion Medal[/#].
+TSS_ADD_MESSAGE_25;Obtained [#ffffff73]Sora’s Champion Medal[/#].
+TSS_ADD_MESSAGE_26;Obtained RESERVED.
+TSS_ADD_MESSAGE_27;Obtained RESERVED.
+TSS_ADD_MESSAGE_28;Obtained RESERVED.
+TSS_ADD_MESSAGE_29;Obtained RESERVED.
+TSS_ADD_MESSAGE_30;Obtained RESERVED.
+TSS_ADD_MESSAGE_31;Obtained RESERVED.
+TSS_ADD_MESSAGE_32;Obtained RESERVED.
+TSS_ADD_MESSAGE_33;Obtained RESERVED.
+BED_MSG_01;Would you like to rest?
+BED_MSG_02;HP/AP restored.
+PLAYGO_DOWNLOADING;Downloading...
+PLAYGO_SAVEDATA_LOAD;Installing... Please wait...
+BADGE_RELEASE_MESSAGE;<MESID02 NAME>[#ffffff73]<MESID00 NAME>’s Champion Medal[/#] has been unlocked.[~]You can purchase it from The Girl Who Forgot Her Name.
+PARTY_LEAVE;Reynn and her stacks have left the party.
+QUEST_RESTRICTION;This quest is not available yet.
